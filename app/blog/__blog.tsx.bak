@@ -1,0 +1,52 @@
+import Link from "next/link";
+import { getPublishedArticles } from "@/lib/blog-articles";
+
+export const metadata = {
+  title: "VicBuzz Guides | Family Activity Articles for Victoria",
+  description:
+    "Browse VicBuzz guides for family activities, free events, and suburb based things to do across Victoria.",
+};
+
+export default function BlogIndexPage() {
+  const articles = getPublishedArticles();
+
+  return (
+    <main className="min-h-screen bg-[#FEFEFE] px-4 py-8 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-6xl">
+        <div className="rounded-2xl bg-[#1A1A2E] p-6 text-white sm:p-8">
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-amber-300">VicBuzz Guides</p>
+          <h1 className="mt-2 text-3xl font-bold sm:text-4xl">Family activity guides for Victoria</h1>
+          <p className="mt-3 max-w-2xl text-sm text-white/80 sm:text-base">
+            Practical local guides to help families find great things to do every week.
+          </p>
+        </div>
+
+        <div className="mt-8 grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
+          {articles.map((article) => (
+            <article key={article.slug} className="rounded-2xl border border-[#EFEFEF] bg-white p-5 shadow-sm">
+              <p className="text-xs font-semibold uppercase tracking-wide text-[#FF6B6B]">{article.category}</p>
+              <h2 className="mt-2 text-xl font-bold text-[#1A1A2E]">
+                <Link href={`/blog/${article.slug}`} className="hover:text-[#FF6B6B]">
+                  {article.title}
+                </Link>
+              </h2>
+              <p className="mt-2 text-sm text-[#6B7280]">{article.description}</p>
+              <div className="mt-4 flex items-center justify-between text-xs text-[#6B7280]">
+                <span>{article.readTime}</span>
+                <span>{article.publishDate}</span>
+              </div>
+              <div className="mt-4">
+                <Link
+                  href={`/blog/${article.slug}`}
+                  className="inline-flex items-center rounded-full bg-amber-300 px-3.5 py-1.5 text-xs font-bold text-black hover:bg-amber-200"
+                >
+                  Read guide →
+                </Link>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </main>
+  );
+}
