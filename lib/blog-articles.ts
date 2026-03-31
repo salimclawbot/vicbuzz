@@ -7324,6 +7324,1324 @@ Yes. It's about 40 minutes from central Melbourne, there's free parking at most 
 *Written by the VicBuzz Team. VicBuzz covers family activities, parks, and events across Victoria. For more south-east Melbourne ideas, explore our [Melbourne family days out guide](/family-days-out-melbourne) or browse [free kids activities in Melbourne](/free-kids-activities-melbourne).*
 
 *Author: VicBuzz Team — local parents and community contributors covering family life across Victoria.*`
+  },
+  {
+    slug: 'free-school-holiday-activities-melbourne-2026',
+    title: 'Free School Holiday Activities Melbourne 2026 — Ultimate Guide',
+    date: "2026-03-31",
+    publishDate: "2026-03-31",
+    description: 'The ultimate guide to free school holiday activities in Melbourne 2026. 60+ free things to do with kids every break — parks, museums, libraries, and more.',
+    readTime: '18 min read',
+    author: "VicBuzz Team",
+    category: 'category-guide',
+    tags: ["school-holidays", "melbourne", "free-activities", "kids", "family"],
+    faqs: [
+    { q: 'What are the best free school holiday activities in Melbourne 2026?', a: 'The best free school holiday activities in Melbourne include the Melbourne Museum (free for children under 16), the NGV permanent collection, the Ian Potter Children\'s Garden, library holiday programs across every council, Federation Square events, Scienceworks free entry days, creek and river trail walks, and the many free council-run holiday activity programs that run across every school break.' },
+    { q: 'When are the school holidays in Melbourne in 2026?', a: 'Victorian school holidays in 2026 are Term 1 holidays 28 March to 13 April, Term 2 holidays 27 June to 12 July, Term 3 holidays 19 September to 4 October, and Term 4 holidays 19 December 2026 to 26 January 2027. Exact dates are confirmed by the Victorian Department of Education.' },
+    { q: 'Are there free rainy day activities for kids in Melbourne during school holidays?', a: 'Yes. The Melbourne Museum (free for under 16s), NGV (free permanent collection), State Library Victoria, ACMI at Federation Square, the Immigration Museum, and local library holiday programs all offer free or low-cost indoor activities. Many council leisure centres also run affordable wet-weather holiday sessions.' },
+    { q: 'What free school holiday activities are good for toddlers in Melbourne?', a: 'Free toddler-friendly school holiday activities include library rhyme time and storytime sessions, the Ian Potter Children\'s Garden at Royal Botanic Gardens, Birrarung Marr playground, Edinburgh Gardens playground, flat foreshore walks at Williamstown or St Kilda, and free sensory play sessions run by several Melbourne councils during breaks.' },
+    { q: 'Do Melbourne councils run free school holiday programs?', a: 'Yes. Every Melbourne metropolitan council runs free or subsidised school holiday programs. Activities vary but typically include sports clinics, craft workshops, nature walks, coding sessions, and creative arts. Programs are announced 2 to 4 weeks before each break on council websites. Popular sessions book out within days, so check early.' },
+    { q: 'What free things can teenagers do in Melbourne during school holidays?', a: 'Free teen activities during school holidays include ACMI exhibitions and workshops at Federation Square, street art walks through Hosier Lane and surrounding laneways, NGV gallery visits, skateparks across Melbourne, Merri Creek and Yarra trail cycling, beach days at St Kilda or Williamstown, and coding and creative technology workshops at libraries and community centres.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Free School Holiday Activities Melbourne 2026 — Ultimate Guide",
+  "datePublished": "2026-03-31",
+  "dateModified": "2026-03-31",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/free-school-holiday-activities-melbourne-2026-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best free school holiday activities in Melbourne 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best free school holiday activities in Melbourne include the Melbourne Museum (free for children under 16), the NGV permanent collection, the Ian Potter Children's Garden, library holiday programs across every council, Federation Square events, Scienceworks free entry days, and the many free council-run holiday activity programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When are the school holidays in Melbourne in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Victorian school holidays in 2026 are Term 1 holidays 28 March to 13 April, Term 2 holidays 27 June to 12 July, Term 3 holidays 19 September to 4 October, and Term 4 holidays 19 December 2026 to 26 January 2027."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there free rainy day activities for kids in Melbourne during school holidays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Melbourne Museum (free for under 16s), NGV (free permanent collection), State Library Victoria, ACMI at Federation Square, the Immigration Museum, and local library holiday programs all offer free or low-cost indoor activities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What free school holiday activities are good for toddlers in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Free toddler-friendly activities include library rhyme time and storytime sessions, the Ian Potter Children's Garden, Birrarung Marr playground, Edinburgh Gardens playground, flat foreshore walks at Williamstown or St Kilda, and free sensory play sessions run by several Melbourne councils."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do Melbourne councils run free school holiday programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Every Melbourne metropolitan council runs free or subsidised school holiday programs including sports clinics, craft workshops, nature walks, coding sessions, and creative arts. Programs are announced 2 to 4 weeks before each break on council websites."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What free things can teenagers do in Melbourne during school holidays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Free teen activities include ACMI exhibitions at Federation Square, street art walks through Hosier Lane, NGV gallery visits, skateparks across Melbourne, Merri Creek and Yarra trail cycling, beach days at St Kilda or Williamstown, and coding workshops at libraries."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="Free School Holiday Activities Melbourne 2026 — Ultimate Guide" />
+<meta property="og:description" content="The ultimate guide to free school holiday activities in Melbourne 2026. 60+ free things to do with kids every break — parks, museums, libraries, and more." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/free-school-holiday-activities-melbourne-2026-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/free-school-holiday-activities-melbourne-2026" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Free School Holiday Activities Melbourne 2026 — Ultimate Guide" />
+<meta name="twitter:description" content="Ultimate guide to free school holiday activities Melbourne 2026. Parks, museums, beaches, library programs, and 60+ free family activities." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/free-school-holiday-activities-melbourne-2026-hero.jpg" />
+
+# Free School Holiday Activities Melbourne 2026 — Ultimate Guide
+
+**School holidays in Melbourne do not have to cost a fortune. Between free museum entry, world-class public parks, library holiday programs, council-run activities, beach foreshores, creek trails, and some of the best free playgrounds in Australia, Melbourne families can fill every day of every break without spending much at all. This is the complete guide to free school holiday activities in Melbourne for 2026 — organised by age, region, and weather.**
+
+*By VicBuzz Team | Last updated March 2026*
+
+---
+
+## Table of Contents
+
+- [2026 School Holiday Dates — Victoria](#2026-school-holiday-dates-victoria)
+- [Top 10 Free School Holiday Activities in Melbourne](#top-10-free-school-holiday-activities-in-melbourne)
+- [Free Activities by Age Group](#free-activities-by-age-group)
+- [Free Indoor Activities — Rainy Day Guide](#free-indoor-activities-rainy-day-guide)
+- [Free Outdoor Activities — Sunny Day Guide](#free-outdoor-activities-sunny-day-guide)
+- [Free Activities by Region — Inner City](#free-activities-by-region-inner-city)
+- [Free Activities by Region — North and North-East](#free-activities-by-region-north-and-north-east)
+- [Free Activities by Region — East and South-East](#free-activities-by-region-east-and-south-east)
+- [Free Activities by Region — South and Bayside](#free-activities-by-region-south-and-bayside)
+- [Free Activities by Region — West](#free-activities-by-region-west)
+- [Free Library Holiday Programs](#free-library-holiday-programs)
+- [Free Council Holiday Programs](#free-council-holiday-programs)
+- [Planning Tips — Packing, Lunches, and Getting Around](#planning-tips-packing-lunches-and-getting-around)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources and Methodology](#sources-and-methodology)
+
+---
+
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-hero.jpg" alt="Children playing in the water feature at Ian Potter Children's Garden during school holidays in Melbourne" width="800" height="450" loading="eager" />
+<figcaption>The Ian Potter Children's Garden at Royal Botanic Gardens is one of Melbourne's best free school holiday destinations for families with young children.</figcaption>
+
+## 2026 School Holiday Dates — Victoria
+
+Before you start planning, here are the confirmed Victorian school holiday dates for 2026. These apply to all government schools and most independent and Catholic schools follow a similar schedule.
+
+- **Term 1 holidays (Autumn):** 28 March – 13 April 2026
+- **Term 2 holidays (Winter):** 27 June – 12 July 2026
+- **Term 3 holidays (Spring):** 19 September – 4 October 2026
+- **Term 4 holidays (Summer):** 19 December 2026 – 26 January 2027
+
+Each break has a different flavour. The Term 1 autumn break often coincides with Easter and has some of Melbourne's best weather for outdoor activities. Winter holidays are cold but perfect for indoor museums, library programs, and cosy city outings. Spring holidays bring warmer weather and lower crowds at outdoor venues. The long summer break over Term 4 is the big one — six weeks of beaches, parks, and outdoor adventures.
+
+The free activities in this guide work across every break, though we have flagged where certain activities suit specific seasons.
+
+---
+
+## Top 10 Free School Holiday Activities in Melbourne
+
+These are the ten free activities that consistently deliver the best school holiday experiences for Melbourne families. Each one is genuinely free (not discounted or "from $5") and suitable for at least half a day of engagement.
+
+<style>
+.product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
+@media(min-width:640px){ .product-cards { grid-template-columns: repeat(2, 1fr); } }
+.product-card { border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.product-card img { width: 100%; height: 200px; object-fit: cover; }
+.product-card-info { padding: 1rem; }
+.product-card-info h4 { font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem; }
+.product-card-info p { font-size: 0.875rem; color: #475569; margin: 0.25rem 0; }
+</style>
+
+<div class="product-cards">
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-ian-potter.jpg" alt="Children exploring water play at the Ian Potter Children's Garden in Melbourne's Royal Botanic Gardens" loading="lazy" />
+<div class="product-card-info">
+<h4>1. Ian Potter Children's Garden</h4>
+<p><strong>Location:</strong> Royal Botanic Gardens, South Yarra</p>
+<p><strong>Best for:</strong> Ages 2–10</p>
+<p>Water play, bamboo tunnels, sensory plantings, and a kitchen garden. Combine with a walk through the wider botanic gardens for a full morning. Bring a change of clothes.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-melbourne-museum.jpg" alt="Children viewing the Dinosaur Walk exhibit at Melbourne Museum in Carlton" loading="lazy" />
+<div class="product-card-info">
+<h4>2. Melbourne Museum — Free for Under 16s</h4>
+<p><strong>Location:</strong> Carlton</p>
+<p><strong>Best for:</strong> Ages 3–15</p>
+<p>Dinosaur Walk, the living Forest Gallery, Bunjilaka Aboriginal Cultural Centre, and the Mind and Body gallery. The permanent collection alone fills 3 to 4 hours. School holiday programs add workshops and activities.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-ngv.jpg" alt="Family at NGV International gallery viewing free permanent collection art" loading="lazy" />
+<div class="product-card-info">
+<h4>3. National Gallery of Victoria (NGV)</h4>
+<p><strong>Location:</strong> St Kilda Road and Federation Square</p>
+<p><strong>Best for:</strong> Ages 4–16</p>
+<p>Two venues, both free for the permanent collection. NGV Kids holiday programs include guided tours, art-making workshops, and interactive gallery trails designed for children.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-library.jpg" alt="Children at a school holiday craft activity at a Melbourne public library" loading="lazy" />
+<div class="product-card-info">
+<h4>4. Library Holiday Programs</h4>
+<p><strong>Location:</strong> Every Melbourne council area</p>
+<p><strong>Best for:</strong> Ages 2–14</p>
+<p>Craft, coding, STEM, author visits, Lego clubs, and reading challenges. Free across all Melbourne library networks. Book early as popular sessions fill within days.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-birrarung-marr.jpg" alt="Families at Birrarung Marr playground with Melbourne CBD skyline in the background" loading="lazy" />
+<div class="product-card-info">
+<h4>5. Birrarung Marr and Southbank Promenade</h4>
+<p><strong>Location:</strong> Melbourne CBD</p>
+<p><strong>Best for:</strong> All ages</p>
+<p>Large playground, open lawns, Federation Bells, river views, and a walking path that connects to Southbank's arts precinct. Perfect for combining with a museum or gallery visit.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-merri-creek.jpg" alt="Family cycling along Merri Creek Trail through natural bushland in Melbourne's inner north" loading="lazy" />
+<div class="product-card-info">
+<h4>6. Merri Creek Trail</h4>
+<p><strong>Location:</strong> Inner north — Fitzroy North to Fawkner</p>
+<p><strong>Best for:</strong> Ages 5+ (cycling), all ages (walking)</p>
+<p>A natural corridor through suburban Melbourne with cycling and walking paths, wildlife, and beautiful bush sections. Flat enough for young riders. Multiple entry points and playground stops along the route.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-state-library.jpg" alt="Children in the La Trobe Reading Room at State Library Victoria during a school holiday visit" loading="lazy" />
+<div class="product-card-info">
+<h4>7. State Library Victoria</h4>
+<p><strong>Location:</strong> Melbourne CBD, Swanston Street</p>
+<p><strong>Best for:</strong> Ages 5–16</p>
+<p>The La Trobe Reading Room is awe-inspiring. Ned Kelly's armour is a perennial favourite. Free holiday workshops include creative writing, art, and author events. Air-conditioned and weather-proof.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-edinburgh-gardens.jpg" alt="Children on climbing equipment at Edinburgh Gardens playground in Fitzroy North" loading="lazy" />
+<div class="product-card-info">
+<h4>8. Edinburgh Gardens</h4>
+<p><strong>Location:</strong> Fitzroy North</p>
+<p><strong>Best for:</strong> Ages 2–12</p>
+<p>One of Melbourne's best inner suburban parks. Large, well-maintained playground, open lawns, rotunda, and quality cafe access on surrounding streets. Never overcrowded.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-williamstown.jpg" alt="Families walking along Williamstown foreshore with the historic Gem Pier visible" loading="lazy" />
+<div class="product-card-info">
+<h4>9. Williamstown Beach and Foreshore</h4>
+<p><strong>Location:</strong> Williamstown, inner west</p>
+<p><strong>Best for:</strong> All ages</p>
+<p>Beautiful bay beach, heritage foreshore walk, playground, and a charming town centre with cafes and historic buildings. Free ferry views of the city skyline from the beach.</p>
+</div>
+</div>
+
+<div class="product-card">
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-acmi.jpg" alt="Teenagers exploring interactive digital exhibits at ACMI in Federation Square" loading="lazy" />
+<div class="product-card-info">
+<h4>10. ACMI — Federation Square</h4>
+<p><strong>Location:</strong> Federation Square, CBD</p>
+<p><strong>Best for:</strong> Ages 8–16</p>
+<p>Free permanent exhibitions about Australian film, television, and digital culture. School holiday workshops cover animation, game design, and filmmaking. Particularly engaging for older kids and teens.</p>
+</div>
+</div>
+
+</div>
+
+---
+
+<video autoplay muted loop playsinline poster="/images/articles/free-school-holiday-activities-melbourne-2026-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/free-school-holiday-activities-melbourne-2026-demo.mp4" type="video/mp4">
+</video>
+<figcaption>Melbourne's best free school holiday activities for 2026 — from museum days to creek trails and beach mornings.</figcaption>
+
+## Free Activities by Age Group
+
+Not every free activity suits every age. A morning at the NGV that thrills a ten-year-old can be a disaster with a two-year-old. Here is how to match free school holiday activities in Melbourne to your children's ages.
+
+### Toddlers and Preschoolers (Ages 0–4)
+
+Toddlers need space to move, sensory experiences, and short activity windows. The best free school holiday activities for this age group are:
+
+- **Library rhyme time and storytime** — free at every Melbourne council library, usually Tuesday to Friday mornings during term and expanded during holidays
+- **Ian Potter Children's Garden** — the water play and sensory plantings are designed for this age group
+- **Edinburgh Gardens playground** — large, safe, and engaging for young children
+- **Birrarung Marr playground** — centrally located with varied climbing equipment and open lawns
+- **Foreshore walks** — flat, pram-friendly walks at Williamstown, St Kilda, or Sandringham
+- **Fawkner Park** — multiple playgrounds in South Yarra with varied equipment for little ones
+
+For a deeper guide to toddler activities, see our companion article on [free kids activities in Melbourne](/blog/free-kids-activities-melbourne) which covers more venues suited to the under-fives.
+
+### Primary School Age (Ages 5–12)
+
+This is the sweet spot for free school holiday activities. Children in this range have the attention span for museums, the energy for trails, and the curiosity for workshops. The full range of activities in this guide applies, but standouts for this age are:
+
+- **Melbourne Museum permanent collection** — the Dinosaur Walk and Forest Gallery are reliably thrilling
+- **Council holiday programs** — sports clinics, art workshops, coding sessions, and nature walks
+- **Creek and river trail cycling** — Merri Creek, Yarra Trail, and Dandenong Creek Trail are all flat and safe for young riders
+- **NGV Kids holiday programs** — guided gallery tours and art-making workshops
+- **Beach days** — body boarding, rock pooling, and sandcastle building at any of Melbourne's bay beaches
+- **State Library** — Ned Kelly's armour, the reading room, and holiday workshops
+
+If your children love playgrounds, our guide to the [best playgrounds in Melbourne](/blog/best-playgrounds-melbourne) covers the top options across every suburb.
+
+### Teenagers (Ages 13–17)
+
+Keeping teenagers engaged during school holidays without spending money requires a different approach. Fortunately Melbourne has strong free options for this age group:
+
+- **ACMI** — the digital culture exhibitions and holiday workshops (animation, game design) genuinely engage teens
+- **Street art walks** — self-guided walks through Hosier Lane, AC/DC Lane, Croft Alley, and the Blender Lane open-air gallery
+- **NGV International** — the contemporary art collection appeals to visually-oriented teenagers
+- **Skateparks** — Melbourne has excellent free skateparks at Riverslide (Alexandra Gardens), Bentleigh, Watermarc (Greensborough), and Prahran
+- **Yarra Trail cycling** — the 35km trail from Southbank to Warrandyte is a genuine adventure for fit teenagers
+- **Beach culture** — St Kilda foreshore, Williamstown, and Brighton Beach are popular teen hangout spots
+- **Library tech programs** — coding workshops, 3D printing sessions, and creative technology programs run by libraries during breaks
+
+---
+
+## Free Indoor Activities — Rainy Day Guide
+
+Melbourne weather is unpredictable in every season. Having a reliable list of free rainy day activities prevents school holiday meltdowns when the forecast changes overnight.
+
+### Museums with Free Entry
+
+**Melbourne Museum** in Carlton is the most important free rainy day venue in Melbourne. The permanent collection is free for children under 16 and includes the Dinosaur Walk (real dinosaur skeletons), the Forest Gallery (a living rainforest inside the building), Bunjilaka Aboriginal Cultural Centre, and the Mind and Body gallery. Allow three to four hours. School holiday programs add extra workshops and activities.
+
+**National Gallery of Victoria** has two venues. NGV International on St Kilda Road houses international art from antiquity to contemporary. NGV Australia at Federation Square covers Australian art and design. Both are free for the permanent collection. During school holidays the NGV runs family workshops, gallery trails, and art-making sessions specifically for children.
+
+**State Library Victoria** on Swanston Street is a grand public building with free entry. The La Trobe Reading Room impresses adults and children alike. The Ned Kelly display draws repeat visitors. Holiday programs include author talks, creative writing, and art workshops.
+
+**Immigration Museum** on Flinders Street is free for children and tells the story of migration to Victoria through personal stories and interactive displays. For families with diverse backgrounds it can be a deeply personal experience.
+
+**ACMI** at Federation Square is free for the permanent collection and runs school holiday workshops in animation, game design, and filmmaking that are particularly popular with older children and teenagers.
+
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-rainy-day.jpg" alt="Family exploring the Forest Gallery rainforest exhibit inside Melbourne Museum on a rainy day" width="800" height="450" loading="lazy" />
+<figcaption>Melbourne Museum's Forest Gallery is a living rainforest inside the building — one of the best free rainy day activities in Melbourne.</figcaption>
+
+### Libraries as Rainy Day Destinations
+
+Every Melbourne public library is air-conditioned, free, and welcomes families during school holidays. Beyond borrowing books, libraries offer:
+
+- School holiday craft and STEM workshops
+- Reading challenges with small prizes
+- Lego clubs and maker sessions
+- Board game collections and puzzle activities
+- Quiet reading spaces for children who need calm time
+
+The larger library branches — Docklands Library, Library at the Dock, Brimbank Library, Knox Library — have dedicated children's areas with ample space for play and exploration on rainy days.
+
+### Shopping Centre Holiday Programs
+
+Melbourne's major shopping centres run free school holiday entertainment during every break. Chadstone, Eastland, Highpoint, Northland, and Southland all program children's activities including craft tables, visiting performers, and character appearances. These don't require booking and provide a useful couple of hours when weather ruins outdoor plans.
+
+---
+
+## Free Outdoor Activities — Sunny Day Guide
+
+When the weather cooperates, Melbourne's outdoor free activities are extraordinary. The city's parks, trails, beaches, and gardens system is one of the best in Australia and entirely free to use.
+
+### Parks and Playgrounds
+
+Melbourne's playground network is genuinely world-class. During school holidays the larger regional playgrounds come into their own:
+
+- **Jells Park** (Wheelers Hill) — lake circuit, two playgrounds, BBQ facilities, and a walking track
+- **Princes Park** (Carlton North) — cycling circuit, playground, and open lawns near the city
+- **Westgate Park** (Port Melbourne) — the lake that turns pink in summer, walking tracks, and wildlife
+- **Pipemakers Park** (Maribyrnong) — riverside playground, wetlands walk, and BBQ areas
+- **Karkarook Park** (Moorabbin) — wetlands, bird hides, and an educational lake circuit
+
+For a comprehensive list by suburb, see our full guide to the [best playgrounds in Melbourne](/blog/best-playgrounds-melbourne).
+
+### Beaches and Foreshores
+
+All of Melbourne's bay beaches are free. The better ones for school holiday family visits are:
+
+- **St Kilda Beach** — playground, promenade, calm water, and the penguin viewing platform at the breakwater at dusk
+- **Brighton Beach** — the iconic bathing boxes, calm swimming water, and a good foreshore walk
+- **Sandringham Beach** — lovely bay beach with a playground nearby and good picnic facilities
+- **Altona Beach** — the western suburbs' best beach, calm and rarely crowded
+- **Williamstown Beach** — combines a beach day with a heritage town walk and waterfront cafes
+- **Half Moon Bay** (Black Rock) — dramatic cliffs, rock pools, and a unique coastal atmosphere
+
+Summer and spring holidays are obviously the main beach season, but autumn break days can be beautiful for beach walks and rock pooling even when the water is too cold for swimming.
+
+### Creek and River Trails
+
+Melbourne's network of creek and river trails offers free, safe, and genuinely beautiful cycling and walking routes:
+
+- **Merri Creek Trail** — runs north from the Yarra through Fitzroy North, Northcote, Coburg, and beyond. Natural bushland sections and playground stops.
+- **Yarra Trail** — 35km from Southbank to Warrandyte through some of Melbourne's most beautiful river bush
+- **Dandenong Creek Trail** — winds through the south-east suburbs, flat and well-maintained
+- **Maribyrnong River Trail** — western suburbs trail with river views and parkland stops
+- **Gardiners Creek Trail** — runs from Malvern East through Chadstone and Glen Iris
+
+Trails are free, open year-round, and suit families with children who can cycle independently. Most trails have flat sections suitable for young riders with training wheels or balance bikes.
+
+---
+
+## Free Activities by Region — Inner City
+
+The Melbourne CBD and inner suburbs have the highest concentration of free school holiday activities anywhere in the city. A single day in the inner city can easily combine two or three free venues.
+
+### Melbourne CBD
+
+**Royal Botanic Gardens and Ian Potter Children's Garden** — the combined visit is Melbourne's single best free family outing. The children's garden has water play, sensory plantings, bamboo tunnels, and a kitchen garden. The wider botanic gardens are magnificent for walking, with lake circuits and open lawns. Allow a full morning.
+
+**Federation Square** is the hub for free events, performances, and family programming during school holidays. ACMI sits within the square. The large open plaza often hosts holiday activations, markets, and performances.
+
+**Southbank Promenade** runs along the Yarra from the Arts Centre to Crown. Street performers, public art, and city views make it a pleasant free walk. Combine with a visit to the NGV International next door.
+
+**Flagstaff Gardens** is a pocket of green in the CBD with a large playground, open lawns, and a gentle atmosphere. Good for families who need a rest from museum visiting.
+
+### Inner North — Fitzroy, Carlton, Collingwood
+
+**Edinburgh Gardens** in Fitzroy North is one of Melbourne's finest parks. The playground is large and well maintained. The surrounding streets have excellent cafe access. The park never feels overcrowded even during holidays.
+
+**Carlton Gardens** surrounding the Melbourne Museum offer broad lawns, mature trees, and the heritage exhibition buildings. The museum visit combined with a picnic in the gardens is a classic school holiday formula.
+
+**Collingwood Children's Farm** is not technically free (gold coin donation requested), but the cost is negligible and the experience of seeing working farm animals close to the city is valuable. The adjacent Abbotsford Convent has open grounds, art spaces, and a market on Saturdays.
+
+---
+
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-parks.jpg" alt="Family having a picnic at Carlton Gardens near Melbourne Museum during school holidays" width="800" height="450" loading="lazy" />
+<figcaption>Carlton Gardens next to Melbourne Museum is a perfect spot for a free school holiday picnic after a museum visit.</figcaption>
+
+## Free Activities by Region — North and North-East
+
+### Merri Creek Corridor
+
+The Merri Creek corridor running from Clifton Hill north to Fawkner is one of Melbourne's best free school holiday zones. The creek trail itself provides cycling and walking, but the surrounding parks and reserves add depth:
+
+- **Darebin Parklands** (Preston) — natural reserve with walking tracks, a creek crossing, wildlife, and the Dreaming Track walk with Indigenous cultural signage
+- **CERES Community Environment Park** (Brunswick East) — the grounds are free to walk through, with a community garden, permaculture nursery, and seasonal events
+- **Coburg Lake Reserve** — playground, lake circuit, and BBQ facilities
+- **Fawkner Quarry Reserve** — a hidden bushland reserve with walking tracks and bird life
+
+### North-East — Heidelberg, Eltham, Greensborough
+
+**Warrandyte State Park** is genuine bush just 30km from the CBD. Free walking trails follow the Yarra River through eucalyptus forest. Swimming holes are accessible in summer (always supervise children around water). The Warrandyte township has a relaxed holiday feel.
+
+**Eltham Lower Park** has one of Melbourne's best adventure playgrounds, set in a natural bush environment. The Diamond Creek trail connects nearby for cycling.
+
+**Banyule Flats Reserve** in Viewbank is a large wetland reserve with walking tracks, bird hides, and the Yarra River frontage. Excellent for children interested in birds and wildlife.
+
+### Bundoora Park
+
+Bundoora Park has a free farm (Heritage Farm) where children can see sheep, goats, chickens, and other farm animals. The park also has a large playground, BBQ facilities, and walking tracks through native bush. It is one of Melbourne's most underrated free school holiday destinations.
+
+---
+
+## Free Activities by Region — East and South-East
+
+### Eastern Suburbs — Box Hill to Ringwood
+
+**Blackburn Lake Sanctuary** is a peaceful nature reserve with boardwalks through wetlands, a lake circuit, and excellent bird watching. The visitor centre has displays about local ecology. Free and uncrowded during school holidays.
+
+**Ringwood Lake Park** has a recently upgraded playground, a lake circuit walking path, and picnic facilities. It connects to the Mullum Mullum Creek Trail for cycling.
+
+**Maroondah Reservoir Park** in Healesville is free to enter and offers beautiful walking tracks through native forest around the reservoir. The drive to get there is scenic and the park is peaceful during weekdays.
+
+### South-East — Dandenong, Casey, Cardinia
+
+**Dandenong Creek Trail** is the spine of free outdoor activity in Melbourne's south-east. The trail runs through Jells Park, Tirhatuan Wetlands, and Doveton, passing through natural bush and open parkland.
+
+**Lysterfield Park** near Narre Warren is a large regional park with a lake, mountain bike trails, walking tracks, and BBQ facilities. The lake circuit is suitable for family walking and the bush setting feels surprisingly remote given its suburban location.
+
+**Wilson Botanic Park** in Berwick is free to enter and features Australian native gardens, a lake, walking trails, and a playground. During school holidays the park is a popular spot for picnics and nature walks.
+
+**Casey Fields** in Cranbourne has open sports fields, a playground, and walking paths. The City of Casey runs school holiday programs at Casey Fields and the Casey ARC aquatic centre nearby.
+
+For more south-east family activities, see our detailed guide to [family days out in Melbourne](/blog/family-days-out-melbourne).
+
+---
+
+## Free Activities by Region — South and Bayside
+
+### Bayside — Brighton to Sandringham
+
+The Bayside foreshore from Brighton to Beaumaris is one of Melbourne's most beautiful coastal walks. It's free, safe, and accessible year-round.
+
+**Brighton Beach** is famous for the bathing boxes. The beach itself is calm and excellent for young swimmers. The foreshore walk south to Hampton and then Sandringham is flat and pram-friendly.
+
+**Beaumaris Foreshore** has one of Melbourne's better bay foreshore playgrounds. The beach is calm, the rock pools at low tide are excellent for exploring, and the cliff walk is scenic.
+
+**Ricketts Point Marine Sanctuary** at Beaumaris is a free marine reserve where families can explore rock pools at low tide. Crabs, anemones, starfish, and small fish are visible in the pools. A genuine natural experience within suburban Melbourne.
+
+### South — St Kilda to Port Melbourne
+
+**St Kilda Beach and Foreshore** is Melbourne's most iconic beach destination. The playground, the promenade, the Sunday market (seasonal), and the penguin viewing at the St Kilda Pier breakwater at dusk are all free. The penguins are best viewed at sunset — bring patience and a warm layer.
+
+**Albert Park Lake** has a 5km circuit around the lake, a playground, and pelican and swan populations that children love watching. The circuit is flat and suitable for cycling, scooters, and prams.
+
+**Fawkner Park** in South Yarra has multiple playgrounds, sports ovals, and lovely tree coverage. The main playground has varied equipment across age groups.
+
+---
+
+## Free Activities by Region — West
+
+Melbourne's western suburbs have improved enormously in their family infrastructure. Free school holiday activities in the west now rival the eastern suburbs.
+
+### Inner West — Williamstown, Newport, Spotswood
+
+**Williamstown Beach and Foreshore** is a highlight. The heritage town walk from Gem Pier along the waterfront combines history, bay views, and a relaxed atmosphere. The playground near the beach is good for younger children. The Williamstown Botanic Gardens are small but lovely and free.
+
+**Hobsons Bay Wetlands Centre** near Williamstown is a free visitor centre and walking trail that covers the ecology of Port Phillip Bay's western wetlands. Educational and peaceful.
+
+**Newport Lakes Reserve** is a hidden suburban lake with walking trails, bird life, and a natural bush atmosphere. Few visitors know about it during school holidays.
+
+### Outer West — Altona, Point Cook, Werribee
+
+**Altona Beach** is the western suburbs' best bay beach. Calm water, a good playground on the foreshore, and a promenade walk. Cherry Lake nearby in Altona has a lake circuit, playground, and BBQ facilities.
+
+**Point Cook Coastal Park** has a free visitor centre, a Heritage Homestead (free entry), and coastal walking tracks through mangroves, wetlands, and open coastal scrub. The tidal area is excellent for children interested in marine life.
+
+**Werribee Park** grounds are free to walk through (the mansion has an entry fee). The formal gardens, open lawns, and the river walk are available to all visitors without charge. It is one of Melbourne's most impressive free parkland spaces.
+
+**Wyndham Vale's Presidents Park** has a large playground, sports facilities, and a lake. The Wyndham City Council runs school holiday programs at various venues in the municipality.
+
+---
+
+<img src="/images/articles/free-school-holiday-activities-melbourne-2026-beach.jpg" alt="Children playing on the sand at Altona Beach during school holidays with calm bay water behind them" width="800" height="450" loading="lazy" />
+<figcaption>Altona Beach is calm, free, and one of Melbourne's best family beach options in the western suburbs.</figcaption>
+
+## Free Library Holiday Programs
+
+Library holiday programs are the most underutilised free family resource in Melbourne. Every metropolitan council library network runs free programming during every school break, and the quality is consistently strong.
+
+### What Libraries Offer During School Holidays
+
+- **Craft workshops** — age-appropriate art and craft sessions, usually with all materials provided
+- **STEM and coding** — robotics, coding with Scratch and Python, circuit building, and science experiments
+- **Author visits and storytelling** — local and visiting authors run sessions for early and middle readers
+- **Lego clubs** — collaborative building sessions with large Lego collections
+- **Reading challenges** — incentivised reading programs with small prizes for completing book lists
+- **Board game sessions** — drop-in game mornings at many branches
+- **Maker sessions** — 3D printing, digital design, and crafting at branches with maker spaces
+
+### Library Networks with Strong Holiday Programs
+
+- **Yarra Plenty Regional Library** (north-east) — extensive holiday program across multiple branches
+- **Whitehorse Manningham Libraries** (east) — well-funded program with quality STEM activities
+- **Casey Cardinia Libraries** (south-east) — large network with programming at every branch
+- **Bayside City Council Library** (south) — small but high-quality holiday events
+- **Moonee Valley Libraries** (inner north-west) — good variety of holiday sessions
+- **Hobsons Bay City Council Library** (west) — solid program including maker space activities
+- **Brimbank Libraries** (outer west) — growing holiday program with multilingual storytelling
+
+### How to Book Library Holiday Programs
+
+Programs are typically announced on each library network's website two to three weeks before each school break. Popular sessions (coding, STEM, and craft for 5–10 year olds) book out within a few days. Set a calendar reminder to check your library's website when programs open.
+
+Most programs are completely free. Some specialised workshops (such as robotics with expensive equipment) may carry a small materials fee.
+
+---
+
+## Free Council Holiday Programs
+
+Beyond libraries, Melbourne's metropolitan councils run free and subsidised school holiday activity programs through their community services and leisure departments.
+
+### What Councils Typically Offer
+
+- **Multi-sport clinics** — usually free or very low cost, run at council sports facilities
+- **Nature walks and bush activities** — guided walks through local parks and reserves
+- **Art and craft workshops** — at community centres and council venues
+- **Cooking classes for kids** — some councils offer free cooking sessions during school holidays
+- **Skateboarding and BMX clinics** — at council skateparks with provided equipment
+- **Movie screenings** — free outdoor cinema events (particularly during summer break)
+- **Cultural programs** — dance, music, and cultural workshops
+
+### Councils with Strong Free Programs
+
+- **City of Casey** — one of Melbourne's most comprehensive council holiday programs
+- **City of Monash** — good range of free activities across multiple venues
+- **Brimbank City Council** — strong multilingual and inclusive programming
+- **City of Whittlesea** — extensive holiday program in the northern growth suburbs
+- **Wyndham City Council** — growing program covering Point Cook to Werribee
+- **City of Greater Dandenong** — diverse programming reflecting the community
+- **Moreland (Merri-bek) City Council** — well-regarded inner north programs
+
+Check your council's website before each break. Bookings usually open one to two weeks before holidays begin. The free sessions fill first, so act quickly.
+
+If you are looking for broader [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) including paid attractions and regional destinations, our pillar guide covers every region.
+
+---
+
+## Planning Tips — Packing, Lunches, and Getting Around
+
+A little preparation makes free school holiday outings significantly more enjoyable. Here are practical tips from Melbourne families who do this every break.
+
+### Packing for a Day Out
+
+Keep a school holiday day bag ready to go throughout the break:
+
+- **Sunscreen and hats** — essential in every season except deep winter
+- **Water bottles** — refill stations are available at most parks and public venues
+- **A change of clothes** — essential if visiting the Ian Potter Children's Garden or any water play area
+- **Wet weather layers** — Melbourne's weather can change by the hour
+- **Snacks and lunch** — packing your own is the single biggest money saver on free day outings
+
+### Packing Lunches on a Budget
+
+The biggest hidden cost of school holiday outings is buying food on the go. Cafe lunches for a family of four or five add up quickly. Packing a simple lunch and snacks turns a truly free day out into a truly free day out. Sandwiches, fruit, muesli bars, and a water bottle cover most situations. For families looking for ideas on keeping meal costs down over the holidays, [planning family meals on a budget](https://planfamilymeals.com) is a useful resource for batch cooking and affordable lunch ideas that work on the go.
+
+### Getting Around Melbourne for Free
+
+**Myki cards** are the standard way to travel on Melbourne's trains, trams, and buses. Children under 5 travel free. Children aged 5 to 18 ride at the concession rate. Weekend and public holiday fares are capped at a lower daily rate.
+
+**Free Tram Zone** — Melbourne's CBD has a free tram zone covering the central city grid and extending to the Docklands. This covers travel between Federation Square, Melbourne Museum, the State Library, Flagstaff Gardens, and Docklands without needing a Myki at all.
+
+**Cycling** — many of Melbourne's best free activities are accessible by bike trail. The Capital City Trail and the Yarra Trail connect the inner city to numerous parks and venues.
+
+---
+
+## Frequently Asked Questions
+
+### What are the best free school holiday activities in Melbourne 2026?
+
+The best free school holiday activities in Melbourne include the Melbourne Museum (free for children under 16), the NGV permanent collection, the Ian Potter Children's Garden at Royal Botanic Gardens, library holiday programs across every council, Federation Square events, ACMI, the State Library, and council-run holiday activity programs. Creek and river trails, bay beaches, and parks across the city are all free and excellent during every break.
+
+### When are the school holidays in Melbourne in 2026?
+
+Victorian school holidays in 2026 are Term 1 holidays 28 March to 13 April, Term 2 holidays 27 June to 12 July, Term 3 holidays 19 September to 4 October, and Term 4 holidays 19 December 2026 to 26 January 2027. These dates are confirmed by the Victorian Department of Education and apply to all government schools.
+
+### Are there free rainy day activities for kids in Melbourne during school holidays?
+
+Yes. The Melbourne Museum (free for under 16s), NGV (free permanent collection), State Library Victoria, ACMI at Federation Square, the Immigration Museum, and local library holiday programs all offer free or low-cost indoor activities that work perfectly on rainy days. Shopping centre holiday programs also provide free indoor entertainment during breaks.
+
+### What free school holiday activities are good for toddlers in Melbourne?
+
+Free toddler-friendly school holiday activities include library rhyme time and storytime sessions (available at every council library), the Ian Potter Children's Garden at Royal Botanic Gardens, Birrarung Marr playground, Edinburgh Gardens playground, flat foreshore walks at Williamstown or St Kilda, and Bundoora Park Heritage Farm. Several Melbourne councils also run free sensory play sessions for toddlers during breaks.
+
+### Do Melbourne councils run free school holiday programs?
+
+Yes. Every Melbourne metropolitan council runs free or subsidised school holiday programs. Activities vary by council but typically include sports clinics, craft workshops, nature walks, coding sessions, skateboarding clinics, and creative arts. Programs are announced two to four weeks before each break on council websites. Popular free sessions book out within days, so check early and set a reminder.
+
+### What free things can teenagers do in Melbourne during school holidays?
+
+Free teen activities during school holidays include ACMI exhibitions and workshops at Federation Square, self-guided street art walks through Hosier Lane and surrounding laneways, NGV gallery visits, skateparks across Melbourne (Riverslide, Bentleigh, Prahran), Merri Creek and Yarra trail cycling, beach days at St Kilda or Williamstown, and coding and creative technology workshops at libraries and community centres.
+
+---
+
+## Sources and Methodology
+
+This guide draws on publicly available information from the following sources, cross-referenced with local knowledge from VicBuzz contributors across Melbourne.
+
+1. Victorian Department of Education — 2026 school term and holiday dates. education.vic.gov.au
+2. Royal Botanic Gardens Victoria — Visitor information and Ian Potter Children's Garden. rbg.vic.gov.au
+3. Melbourne Museum — Permanent collection and school holiday program information. museumsvictoria.com.au
+4. National Gallery of Victoria — Free access and NGV Kids programs. ngv.vic.gov.au
+5. State Library Victoria — Holiday programs and visitor information. slv.vic.gov.au
+6. ACMI — Exhibition and free access information. acmi.net.au
+7. Parks Victoria — Melbourne parks, trails, and reserves. parks.vic.gov.au
+8. City of Melbourne — Parks, events, and free tram zone information. melbourne.vic.gov.au
+9. Public Transport Victoria — Myki fares, concessions, and free tram zone. ptv.vic.gov.au
+10. Individual council websites — School holiday program listings for Casey, Monash, Brimbank, Whittlesea, Wyndham, Greater Dandenong, and Merri-bek councils.
+
+All venue information was verified as accurate at the time of publication. Free entry policies, program schedules, and availability are subject to change. Always check venue websites before visiting, particularly for school holiday programs that require booking.
+
+---
+
+*Written by the VicBuzz Team. For more ideas see our guides to [free kids activities in Melbourne](/blog/free-kids-activities-melbourne), [best playgrounds in Melbourne](/blog/best-playgrounds-melbourne), [family days out in Melbourne](/blog/family-days-out-melbourne), and [school holiday activities across Victoria](/blog/school-holiday-activities-victoria).*
+
+*Author: VicBuzz Team — local parents and community contributors covering family life across Victoria. We live across Melbourne's suburbs from Williamstown to Narre Warren and write from direct experience visiting every venue we recommend.*`
+  },
+  {
+    slug: 'school-holiday-programs-melbourne-2026',
+    title: 'Best School Holiday Programs Melbourne 2026 — Camps, Classes & Activities',
+    date: "2026-03-31",
+    publishDate: "2026-03-31",
+    description: 'Complete guide to school holiday programs in Melbourne 2026. Art, sport, STEM, cooking, performing arts camps and classes for kids across every school break.',
+    readTime: '18 min read',
+    author: "VicBuzz Team",
+    category: 'category-guide',
+    tags: ["school-holiday-programs", "melbourne", "kids-camps", "stem", "art", "sport", "performing-arts", "cooking", "school-holidays"],
+    faqs: [
+    { q: 'What are the best school holiday programs in Melbourne for 2026?', a: 'Melbourne\'s best school holiday programs include NGV Kids art workshops, Melbourne Zoo Wild Encounters, Scienceworks STEM camps, Australian Sports Camps multi-sport programs, and council-run holiday programs across every municipality. Programs run during all four school breaks — Term 1 (28 March to 13 April), Term 2 (27 June to 12 July), Term 3 (19 September to 4 October), and Term 4 (19 December to 26 January 2027).' },
+    { q: 'How much do school holiday programs cost in Melbourne?', a: 'School holiday program costs in Melbourne range widely. Free programs are available through public libraries and some council events. Council-run activity programs typically cost $15 to $50 per session. Multi-day sports camps run $150 to $400 per week. Specialist STEM and coding camps range from $200 to $500 per week. Zoo and wildlife programs are usually $80 to $180 per day.' },
+    { q: 'When should I book school holiday programs in Melbourne?', a: 'Book popular programs 3 to 4 weeks before each school break. Council programs often open bookings 2 to 3 weeks in advance and fill within days. Specialist camps like coding and performing arts fill earliest. Free library programs also require booking and can fill within hours of opening. Set calendar reminders for booking dates.' },
+    { q: 'Are there free school holiday programs in Melbourne?', a: 'Yes. Every Melbourne council runs free or low-cost holiday programs through libraries, community centres, and leisure facilities. Public libraries across Melbourne run free STEM workshops, craft sessions, author visits, and reading challenges during every school break. Some museums offer free children\'s entry and holiday activities.' },
+    { q: 'What school holiday programs are available for teenagers in Melbourne?', a: 'Melbourne offers strong holiday programming for teenagers including coding and game design camps, film and media workshops at ACMI, performing arts intensives, advanced sports academies, cooking masterclasses, and volunteer programs at wildlife sanctuaries. Many council programs include dedicated sessions for ages 12 to 17.' },
+    { q: 'What should I look for when choosing a school holiday program?', a: 'Key factors include age appropriateness, staff-to-child ratios, provider credentials and reviews, cancellation policies, what is included in the fee (meals, materials, excursions), drop-off and pick-up times that work with your schedule, and whether the program aligns with your child\'s interests. Ask about the daily structure and whether outdoor time is included.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Best School Holiday Programs Melbourne 2026 — Camps, Classes & Activities",
+  "datePublished": "2026-03-31",
+  "dateModified": "2026-03-31",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/school-holiday-programs-melbourne-2026-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best school holiday programs in Melbourne for 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Melbourne's best school holiday programs include NGV Kids art workshops, Melbourne Zoo Wild Encounters, Scienceworks STEM camps, Australian Sports Camps multi-sport programs, and council-run holiday programs across every municipality. Programs run during all four school breaks in 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do school holiday programs cost in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs range widely. Free programs are available through libraries and some council events. Council activity programs cost $15 to $50 per session. Multi-day sports camps run $150 to $400 per week. Specialist STEM and coding camps range from $200 to $500 per week. Zoo and wildlife programs are usually $80 to $180 per day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I book school holiday programs in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Book popular programs 3 to 4 weeks before each school break. Council programs often open bookings 2 to 3 weeks in advance and fill within days. Specialist camps like coding and performing arts fill earliest. Free library programs also require booking and can fill within hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there free school holiday programs in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Every Melbourne council runs free or low-cost holiday programs through libraries, community centres, and leisure facilities. Public libraries run free STEM workshops, craft sessions, author visits, and reading challenges during every school break."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What school holiday programs are available for teenagers in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Melbourne offers strong holiday programming for teenagers including coding and game design camps, film and media workshops at ACMI, performing arts intensives, advanced sports academies, cooking masterclasses, and volunteer programs at wildlife sanctuaries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a school holiday program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key factors include age appropriateness, staff-to-child ratios, provider credentials and reviews, cancellation policies, what is included in the fee, drop-off and pick-up times, and whether the program aligns with your child's interests. Ask about daily structure and outdoor time."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="Best School Holiday Programs Melbourne 2026 — Camps, Classes & Activities" />
+<meta property="og:description" content="Complete guide to school holiday programs in Melbourne 2026. Art, sport, STEM, cooking, performing arts camps and classes for kids across every school break." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/school-holiday-programs-melbourne-2026-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/school-holiday-programs-melbourne-2026" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Best School Holiday Programs Melbourne 2026 — Camps, Classes & Activities" />
+<meta name="twitter:description" content="Complete guide to school holiday programs Melbourne 2026. Art, sport, STEM, cooking, performing arts camps and classes for kids across every break." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/school-holiday-programs-melbourne-2026-hero.jpg" />
+
+# Best School Holiday Programs Melbourne 2026 — Camps, Classes & Activities
+
+**Melbourne offers some of Australia's best structured school holiday programs for children of every age. From art workshops at the NGV to wildlife encounters at Melbourne Zoo, coding camps in the inner city, multi-sport programs run by local councils, and performing arts intensives across the suburbs — this guide covers the best school holiday programs in Melbourne for 2026, with dates, costs, and booking advice for every break.**
+
+*By VicBuzz Team | Last updated March 2026*
+
+---
+
+## Table of Contents
+
+- [2026 Victorian School Holiday Dates](#2026-victorian-school-holiday-dates)
+- [Art Programs and Creative Workshops](#art-programs-and-creative-workshops)
+- [Sports Programs and Active Camps](#sports-programs-and-active-camps)
+- [STEM and Coding Camps](#stem-and-coding-camps)
+- [Performing Arts Programs](#performing-arts-programs)
+- [Zoo and Wildlife Programs](#zoo-and-wildlife-programs)
+- [Cooking Classes for Kids](#cooking-classes-for-kids)
+- [Library Holiday Programs](#library-holiday-programs)
+- [Cultural Programs and Experiences](#cultural-programs-and-experiences)
+- [Council-Run Programs by Region](#council-run-programs-by-region)
+- [How to Book — Costs, Timing, and What to Expect](#how-to-book--costs-timing-and-what-to-expect)
+- [Tips for Choosing the Right Program](#tips-for-choosing-the-right-program)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources and Methodology](#sources-and-methodology)
+
+---
+
+<img src="/images/articles/school-holiday-programs-melbourne-2026-hero.jpg" alt="Children participating in a school holiday art workshop at the National Gallery of Victoria in Melbourne" width="1200" height="630" loading="eager" />
+<figcaption>Melbourne's school holiday programs range from gallery workshops to outdoor adventure camps — structured fun across every break in 2026.</figcaption>
+
+## 2026 Victorian School Holiday Dates
+
+Before you start booking, here are the exact school holiday dates for Victoria in 2026:
+
+- **Term 1 holidays (Autumn):** 28 March – 13 April 2026
+- **Term 2 holidays (Winter):** 27 June – 12 July 2026
+- **Term 3 holidays (Spring):** 19 September – 4 October 2026
+- **Term 4 holidays (Summer):** 19 December 2026 – 26 January 2027
+
+Each break has a different character for holiday programs. The Term 1 autumn break often coincides with Easter, making it a popular time for camps and workshops. Winter holidays suit indoor programs like art, coding, and cooking. Spring holidays are ideal for outdoor sports and wildlife programs. The long summer break is when the widest range of programs runs, including multi-week options.
+
+For a broader look at things to do across the state during every break, see our pillar guide to [school holiday activities across Victoria](/blog/school-holiday-activities-victoria).
+
+---
+
+## Art Programs and Creative Workshops
+
+Melbourne's art scene translates directly into exceptional holiday art programs for children. Whether your child is drawn to painting, sculpture, digital art, or mixed media, there is a structured program to match.
+
+### NGV Kids Holiday Programs
+
+The National Gallery of Victoria runs dedicated kids' programs during every school holiday period across both venues — NGV International on St Kilda Road and NGV Australia at Federation Square. Programs typically include guided gallery tours designed for children, hands-on art-making workshops responding to current exhibitions, and drop-in creative stations.
+
+NGV Kids workshops are among the best-regarded children's art programs in Melbourne. Sessions are usually 1 to 2 hours, cost between $15 and $30 per child, and suit ages 5 to 12. Bookings open on the NGV website approximately 3 weeks before each break and popular sessions fill within days.
+
+### Melbourne Arts Centre Kids Programs
+
+Arts Centre Melbourne runs creative workshops during school holidays that span visual arts, craft, and design. Programs often tie into current performances or exhibitions at the centre. Sessions run across multiple days and are suited to children aged 6 to 14.
+
+### Community Art Centres
+
+Melbourne's network of community art centres runs structured holiday workshops at accessible price points. Centres worth checking include:
+
+- **Abbotsford Convent** — Mixed media, painting, and textile workshops in a beautiful heritage setting
+- **Baluk Arts (Mornington Peninsula)** — Indigenous art workshops for children
+- **Footscray Community Arts** — Multicultural creative programs across art forms
+- **Burrinja Cultural Centre (Upwey)** — Art and nature workshops in the Dandenong Ranges
+
+Community art centre programs typically cost $20 to $60 per session and have smaller class sizes than larger institutional programs.
+
+<img src="/images/articles/school-holiday-programs-melbourne-2026-art-workshop.jpg" alt="Children painting at easels during a school holiday art workshop at a Melbourne community arts centre" width="800" height="450" loading="lazy" />
+<figcaption>Community art centres across Melbourne run structured holiday workshops with small class sizes and hands-on creative projects.</figcaption>
+
+---
+
+## Sports Programs and Active Camps
+
+Sports camps and active holiday programs are consistently the most popular category of school holiday programming in Melbourne. They solve two problems at once — structured care during work hours and physical activity that keeps kids engaged.
+
+### Council-Run Sports Programs
+
+Every Melbourne council runs multi-sport holiday programs through their leisure centres and sporting facilities. These are typically the best value option. Programs include multi-sport days (rotating between basketball, soccer, tennis, athletics, and swimming), swimming intensives, gymnastics workshops, and outdoor adventure days.
+
+Council sports programs usually cost $30 to $60 per day or $120 to $250 per week. They run from approximately 8:30am to 4:00pm with before and after care options at some centres.
+
+### AFL Holiday Clinics
+
+AFL clubs and Auskick run structured holiday clinics across Melbourne during every school break. Programs are available for children aged 5 to 14 and focus on skills development, game play, and team-building. Most clinics run for 3 to 5 days.
+
+Key providers include the AFL's official holiday programs and individual club clinics run by Melbourne-based AFL teams. Check your nearest club or the AFL Victoria website for current holiday clinic schedules.
+
+### Swimming Academies and Aquatic Programs
+
+Melbourne's aquatic centres run intensive swimming programs during school holidays. These range from learn-to-swim crash courses (daily lessons across the break) to water polo introductions and diving workshops.
+
+Major aquatic centres with strong holiday programming include Melbourne Sports and Aquatic Centre (Albert Park), Casey ARC (Narre Warren), Aquarena (Doncaster), and WaterMarc (Greensborough). Holiday swim intensives typically cost $80 to $150 for a week of daily lessons.
+
+### Tennis, Cricket, and Specialist Sport Camps
+
+Tennis Australia runs holiday Hot Shots programs at clubs across Melbourne. Cricket Victoria runs holiday camps through local cricket associations. Basketball Victoria runs development camps at regional basketball centres. These specialist programs suit children aged 7 and up who have an existing interest in the sport.
+
+<style>
+.product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
+@media(min-width:640px){ .product-cards { grid-template-columns: repeat(2, 1fr); } }
+.product-card { border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.product-card img { width: 100%; height: 200px; object-fit: cover; }
+.product-card-info { padding: 1rem; }
+.product-card-info h4 { font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem; }
+.product-card-info p { font-size: 0.875rem; color: #475569; margin: 0.25rem 0; }
+</style>
+
+<div class="product-cards">
+  <div class="product-card">
+    <img src="/images/articles/school-holiday-programs-melbourne-2026-ngv-kids.jpg" alt="Children creating art at NGV Kids school holiday workshop" width="400" height="200" loading="lazy" />
+    <div class="product-card-info">
+      <h4>NGV Kids Holiday Workshops</h4>
+      <p><strong>Provider:</strong> National Gallery of Victoria</p>
+      <p><strong>Ages:</strong> 5–12</p>
+      <p><strong>Price:</strong> $15–$30 per session</p>
+      <p><strong>Category:</strong> Art & Creative</p>
+    </div>
+  </div>
+  <div class="product-card">
+    <img src="/images/articles/school-holiday-programs-melbourne-2026-sports-camp.jpg" alt="Kids playing multi-sport games at a Melbourne council holiday sports camp" width="400" height="200" loading="lazy" />
+    <div class="product-card-info">
+      <h4>Council Multi-Sport Holiday Camps</h4>
+      <p><strong>Provider:</strong> Local council leisure centres</p>
+      <p><strong>Ages:</strong> 5–14</p>
+      <p><strong>Price:</strong> $30–$60 per day</p>
+      <p><strong>Category:</strong> Sport & Active</p>
+    </div>
+  </div>
+  <div class="product-card">
+    <img src="/images/articles/school-holiday-programs-melbourne-2026-coding.jpg" alt="Children learning to code at a Melbourne STEM holiday camp" width="400" height="200" loading="lazy" />
+    <div class="product-card-info">
+      <h4>Code Camp Holiday Programs</h4>
+      <p><strong>Provider:</strong> Code Camp Australia</p>
+      <p><strong>Ages:</strong> 5–13</p>
+      <p><strong>Price:</strong> $200–$350 per week</p>
+      <p><strong>Category:</strong> STEM & Coding</p>
+    </div>
+  </div>
+  <div class="product-card">
+    <img src="/images/articles/school-holiday-programs-melbourne-2026-zoo.jpg" alt="Children at a Melbourne Zoo school holiday wildlife encounter program" width="400" height="200" loading="lazy" />
+    <div class="product-card-info">
+      <h4>Melbourne Zoo Wild Encounters</h4>
+      <p><strong>Provider:</strong> Zoos Victoria</p>
+      <p><strong>Ages:</strong> 6–14</p>
+      <p><strong>Price:</strong> $80–$180 per day</p>
+      <p><strong>Category:</strong> Zoo & Wildlife</p>
+    </div>
+  </div>
+  <div class="product-card">
+    <img src="/images/articles/school-holiday-programs-melbourne-2026-performing-arts.jpg" alt="Kids rehearsing on stage at a Melbourne performing arts holiday camp" width="400" height="200" loading="lazy" />
+    <div class="product-card-info">
+      <h4>Melbourne Youth Theatre Intensives</h4>
+      <p><strong>Provider:</strong> Various theatre companies</p>
+      <p><strong>Ages:</strong> 7–17</p>
+      <p><strong>Price:</strong> $250–$450 per week</p>
+      <p><strong>Category:</strong> Performing Arts</p>
+    </div>
+  </div>
+  <div class="product-card">
+    <img src="/images/articles/school-holiday-programs-melbourne-2026-cooking.jpg" alt="Children decorating cupcakes at a Melbourne kids cooking holiday class" width="400" height="200" loading="lazy" />
+    <div class="product-card-info">
+      <h4>Kids Cooking Holiday Workshops</h4>
+      <p><strong>Provider:</strong> Community kitchens & cooking schools</p>
+      <p><strong>Ages:</strong> 6–15</p>
+      <p><strong>Price:</strong> $60–$120 per session</p>
+      <p><strong>Category:</strong> Cooking & Food</p>
+    </div>
+  </div>
+</div>
+
+---
+
+## STEM and Coding Camps
+
+STEM and coding camps have grown rapidly across Melbourne over the past five years. They now represent one of the strongest categories of holiday programming in the city, with options for children as young as five through to teenagers.
+
+### Code Camp
+
+Code Camp is one of Australia's largest providers of kids' coding holiday programs. They run camps at schools and venues across Melbourne during every school break. Programs include app building, game design, and robotics. Age groups are split into 5 to 8 and 9 to 13. A typical week-long camp costs $200 to $350 and runs from 9:00am to 3:30pm.
+
+Locations rotate between breaks but typically include venues in the inner city, eastern suburbs, and south-east. Check their website for current Melbourne locations before each break.
+
+### Scienceworks STEM Workshops
+
+Scienceworks in Spotswood runs dedicated STEM holiday workshops during every school break. Programs include hands-on science experiments, engineering challenges, and technology workshops. The Lightning Room shows continue to run during holidays and are a must-book experience.
+
+Scienceworks workshops typically cost $20 to $40 on top of entry and suit ages 5 to 12. Book early — the more hands-on sessions fill quickly.
+
+### Robotics and Engineering Camps
+
+Several Melbourne providers run robotics-focused holiday programs. These typically use LEGO Mindstorms, VEX Robotics, or Arduino platforms. Programs run at community centres, schools, and dedicated workshop spaces across the suburbs.
+
+Children interested in engineering and making will also find value in maker space holiday programs at venues like the Melbourne Makerspace and community workshop spaces in the inner suburbs.
+
+For families interested in combining holiday programs with [structured learning activities for kids](https://planhomeschooling.com), STEM camps offer an excellent bridge between holiday fun and educational development. The project-based learning approach means children build real skills while enjoying themselves.
+
+### Science and Nature Programs
+
+Melbourne Museum and the Royal Botanic Gardens both run science-focused holiday programs. Melbourne Museum's programs connect to its permanent collection — dinosaur workshops, biodiversity sessions, and First Peoples science programs. The Botanic Gardens runs nature-based science programs including plant biology, ecology, and environmental science sessions for primary-aged children.
+
+<img src="/images/articles/school-holiday-programs-melbourne-2026-stem-robotics.jpg" alt="Children building and programming robots at a Melbourne school holiday STEM camp" width="800" height="450" loading="lazy" />
+<figcaption>Robotics and coding camps across Melbourne teach children real engineering and programming skills in a holiday setting.</figcaption>
+
+---
+
+## Performing Arts Programs
+
+Melbourne's performing arts scene produces excellent school holiday programs for children and teenagers interested in drama, dance, music, and musical theatre.
+
+### Drama and Theatre Workshops
+
+Several Melbourne theatre companies run structured holiday intensives for young performers. Programs typically run for 3 to 5 days and culminate in a performance for families on the final day. Children learn acting techniques, improvisation, script work, and stage presence.
+
+Key providers include youth theatre companies operating in the inner city and middle suburbs. Programs are available for beginners through to experienced young performers. Most suit ages 7 to 17 with separate groups by age.
+
+Costs for a week-long drama intensive typically range from $250 to $450. The quality is consistently high and the end-of-week performance gives children a tangible outcome.
+
+### Dance Holiday Programs
+
+Melbourne's dance schools run intensive holiday workshops across styles including ballet, contemporary, hip hop, jazz, and musical theatre dance. These range from introductory sessions for younger children to advanced technique intensives for experienced dancers.
+
+Programs run at dance studios across Melbourne. Many offer a sampler format where children try multiple dance styles across the week, which is ideal for children who haven't committed to a style yet.
+
+### Music Workshops
+
+Music holiday programs in Melbourne include group instrument workshops, songwriting sessions, band programs, and music production courses for older children. The Melbourne Recital Centre occasionally runs family music programs during breaks. Community music schools across the suburbs run holiday workshops that are more affordable than private instruction.
+
+### Film and Media Programs at ACMI
+
+ACMI at Federation Square runs creative media workshops during school holidays for older children and teenagers. Programs cover animation, short filmmaking, game design, and digital storytelling. These are among the most distinctive holiday programs in Melbourne and suit creatively inclined children aged 10 and up.
+
+If you are planning a celebration during the school break, many of these performing arts venues also work well as [kids birthday party venues in Melbourne](/blog/kids-birthday-party-venues-melbourne).
+
+---
+
+<video autoplay muted loop playsinline poster="/images/articles/school-holiday-programs-melbourne-2026-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/school-holiday-programs-melbourne-2026-demo.mp4" type="video/mp4">
+</video>
+<figcaption>A snapshot of Melbourne's school holiday programs — from sports camps to art workshops and wildlife encounters.</figcaption>
+
+## Zoo and Wildlife Programs
+
+Zoos Victoria runs some of Melbourne's most memorable school holiday programs across its three properties. These are structured educational experiences that go well beyond a standard zoo visit.
+
+### Melbourne Zoo Holiday Programs
+
+Melbourne Zoo in Royal Park runs school holiday programs during every break. Programs include behind-the-scenes keeper experiences, animal encounter sessions, conservation workshops, and themed holiday activities. The zoo's education team designs age-appropriate programs that combine wildlife learning with hands-on activities.
+
+Day programs at Melbourne Zoo typically cost $80 to $180 per child depending on the program type and duration. Full-day programs run from approximately 9:00am to 3:30pm and include structured activities, free time in the zoo, and a keeper-guided experience.
+
+The zoo also runs multi-day holiday programs for children aged 6 to 14, which provide a deeper immersion into animal care and conservation. These are among Melbourne's most sought-after holiday programs and book out well in advance.
+
+### Werribee Open Range Zoo
+
+Werribee Zoo runs holiday safari programs that take advantage of its open-range format. Children participate in guided safari experiences, learn about African and Australian grassland animals, and engage in conservation activities. The setting is distinctive — the open plains create a very different atmosphere from a traditional zoo.
+
+Werribee's holiday programs suit ages 6 to 12 and typically run as single-day experiences costing $90 to $150 per child.
+
+### Healesville Sanctuary
+
+Healesville Sanctuary in the Yarra Valley runs holiday programs focused on Australian native wildlife. Programs include close encounters with platypus, wombats, and birds of prey. The sanctuary's bushland setting makes it an immersive experience.
+
+Holiday programs at Healesville typically cost $80 to $160 per child for a full-day structured experience. The sanctuary is approximately 60 minutes from Melbourne's eastern suburbs.
+
+<img src="/images/articles/school-holiday-programs-melbourne-2026-wildlife.jpg" alt="Child holding a native animal during a Healesville Sanctuary school holiday wildlife program" width="800" height="450" loading="lazy" />
+<figcaption>Healesville Sanctuary's holiday programs offer close encounters with Australian native wildlife in a bushland setting.</figcaption>
+
+---
+
+## Cooking Classes for Kids
+
+Cooking classes are one of the fastest-growing categories of school holiday programming in Melbourne. They teach practical life skills while keeping children engaged and producing something they can take home (and eat).
+
+### Cooking School Holiday Workshops
+
+Several Melbourne cooking schools run dedicated kids' holiday workshops. Programs typically run for 2 to 4 hours and teach children to prepare a complete meal or bake a selection of treats. Classes are hands-on — every child cooks their own portion.
+
+Sessions are themed by cuisine or skill level. Younger children (6 to 9) tend to focus on baking, simple meals, and food safety basics. Older children (10 to 15) tackle more complex techniques including knife skills, international cuisines, and multi-course meals.
+
+Costs range from $60 to $120 per session. Most cooking schools provide all ingredients and equipment. Children take home what they make.
+
+### Council and Community Cooking Programs
+
+Several Melbourne councils include cooking sessions in their holiday program calendars. These are typically shorter (1 to 2 hours), lower cost ($15 to $40), and run at community centres or library kitchens. The City of Yarra, City of Melbourne, and City of Port Phillip all regularly include cooking in their holiday programming.
+
+### Market and Food Trail Experiences
+
+Older children and teenagers benefit from structured food experiences that go beyond the kitchen. Some providers run market-visit programs where children visit Queen Victoria Market or South Melbourne Market, select ingredients, and then cook a meal together. These combine food education with life skills like budgeting and shopping.
+
+---
+
+## Library Holiday Programs
+
+Melbourne's public libraries run free holiday programs during every school break. These are among the most underrated school holiday programs in Melbourne — consistently well-run, genuinely educational, and completely free.
+
+### What Libraries Offer During School Holidays
+
+Every metropolitan library network programs a specific holiday schedule. Standard offerings include:
+
+- **STEM and coding workshops** — Introductory coding, robotics, and science experiments
+- **Art and craft sessions** — Structured creative projects with all materials provided
+- **Author visits and storytelling** — Local children's authors reading and running workshops
+- **Reading challenges** — Incentive-based reading programs with prizes
+- **Chess clubs and puzzle events** — Strategy games and problem-solving activities
+- **Maker sessions** — LEGO building challenges, electronics, and tinkering workshops
+
+### How to Access Library Programs
+
+Check your local library network's website or visit your nearest branch 2 to 3 weeks before each school break. Most library holiday programs require online booking. Popular sessions (especially cooking, STEM, and craft for younger ages) fill within hours of opening.
+
+Library programs are free and suit a wide age range. Most sessions run for 1 to 2 hours. They work brilliantly as a supplementary activity alongside other programs during the holiday period.
+
+For more ideas that cost nothing, see our complete guide to [free kids activities in Melbourne](/blog/free-kids-activities-melbourne).
+
+---
+
+## Cultural Programs and Experiences
+
+Melbourne's cultural institutions run holiday programs that introduce children to history, Indigenous culture, migration stories, and world cultures.
+
+### Melbourne Museum Cultural Programs
+
+Melbourne Museum runs holiday programs connected to its cultural exhibitions. Programs include First Peoples workshops exploring Indigenous Australian history and culture, natural history sessions, and interactive exhibition experiences. The museum's education team creates age-appropriate content that is both engaging and respectful.
+
+### Immigration Museum
+
+The Immigration Museum on Flinders Street runs holiday workshops exploring migration stories and multicultural identity. Programs are particularly meaningful for children from diverse cultural backgrounds and help all children understand Melbourne's multicultural story.
+
+### Koorie Heritage Trust
+
+The Koorie Heritage Trust in Federation Square runs cultural workshops during school holidays including art workshops, storytelling sessions, and cultural education programs. These provide children with a genuine connection to Aboriginal and Torres Strait Islander culture through creative engagement.
+
+### Multicultural Cooking and Cultural Exchanges
+
+Several community organisations run cultural exchange programs during school holidays where children learn about different cultures through food, art, music, and storytelling. These programs are typically run through council cultural programs or community organisations in Melbourne's diverse suburbs.
+
+On rainy days during the break, [indoor playgrounds in Melbourne](/blog/indoor-playgrounds-melbourne) provide active play options that complement structured cultural programs.
+
+---
+
+<img src="/images/articles/school-holiday-programs-melbourne-2026-council-program.jpg" alt="Children participating in an outdoor adventure activity at a Melbourne council school holiday program" width="800" height="450" loading="lazy" />
+<figcaption>Council-run holiday programs across Melbourne offer affordable multi-sport, arts, and adventure activities for local families.</figcaption>
+
+## Council-Run Programs by Region
+
+Every Melbourne metropolitan council runs school holiday programs. The quality and scope vary, but most offer a mix of sport, art, cooking, STEM, and excursion-based activities. Council programs are typically the most affordable structured option available.
+
+### Inner City Councils
+
+**City of Melbourne** runs holiday programs through its recreation centres, libraries, and community spaces. Programs span art, sport, coding, and cultural activities. The central location makes them accessible by public transport.
+
+**City of Yarra** (Richmond, Collingwood, Fitzroy) runs a strong program through Collingwood Leisure Centre, Richmond Recreation Centre, and local libraries. Multi-sport days, art workshops, and cooking sessions are regular features.
+
+**City of Port Phillip** (St Kilda, South Melbourne, Albert Park) runs programs through its leisure centres and libraries. The beachside location means summer programs often include beach activities and water safety.
+
+**City of Stonnington** (Prahran, Toorak, Malvern) programs through Harold Holt Swim Centre and the Prahran Aquatic Centre, plus library programs across multiple branches.
+
+### Eastern Suburbs
+
+**City of Boroondara** (Hawthorn, Camberwell, Kew, Balwyn) runs comprehensive holiday programs through its leisure centres and libraries. Programs are well-funded and consistently well-reviewed by local families.
+
+**City of Whitehorse** (Box Hill, Nunawading, Blackburn) runs programs through Aqualink Box Hill, Sportlink, and the Whitehorse Centre. Multi-sport camps, swimming intensives, and performing arts workshops feature prominently.
+
+**City of Monash** (Glen Waverley, Mount Waverley, Clayton) runs holiday programs through Monash Aquatic and Recreation Centre and Oakleigh Recreation Centre. STEM programs through Monash libraries are particularly strong.
+
+**City of Knox** (Boronia, Wantirna, Ferntree Gully) offers programs through Knox Leisureworks and community houses. The proximity to the Dandenong Ranges means some programs include bushwalking and nature activities.
+
+### Western Suburbs
+
+**City of Hobsons Bay** (Williamstown, Altona, Laverton) runs programs through its leisure centres and the beautiful Williamstown foreshore setting. Beach-based programs are a standout in summer.
+
+**City of Maribyrnong** (Footscray, Yarraville, Seddon) programs through Maribyrnong Aquatic Centre and community spaces. The multicultural character of the area is reflected in culturally diverse programming.
+
+**City of Brimbank** (Sunshine, St Albans, Deer Park) runs affordable holiday programs through Sunshine Leisure Centre, St Albans Leisure Centre, and local libraries.
+
+**City of Wyndham** (Werribee, Point Cook, Tarneit) serves one of Melbourne's fastest-growing corridors. Programs run through AquaPulse, Eagle Stadium, and community learning centres. Demand is high — book as soon as registrations open.
+
+### Southern Suburbs
+
+**City of Glen Eira** (Bentleigh, Caulfield, Carnegie) runs programs through Glen Eira Leisure and its library branches. Performing arts and art programs are particularly well-regarded.
+
+**City of Bayside** (Brighton, Sandringham, Beaumaris) offers programs through its library network and community centres. Beach-based holiday activities complement structured programs during warmer breaks.
+
+**City of Kingston** (Cheltenham, Mordialloc, Chelsea) runs programs through Don Tatnell Leisure Centre and its library network. Water-based activities feature in summer programming.
+
+**City of Greater Dandenong** (Dandenong, Springvale, Noble Park) runs multicultural holiday programming through its leisure and community centres. Programs reflect the cultural diversity of the area.
+
+### Northern Suburbs
+
+**City of Darebin** (Preston, Reservoir, Thornbury) runs holiday programs through Darebin Arts and Entertainment Centre, Reservoir Leisure Centre, and libraries. Art programs in particular are strong.
+
+**City of Moreland/Merri-bek** (Brunswick, Coburg, Fawkner) offers programs through Brunswick Baths, Coburg Leisure Centre, and an excellent library network.
+
+**City of Banyule** (Heidelberg, Ivanhoe, Greensborough) runs programs through WaterMarc aquatic centre and Olympic Leisure Centre. Bushwalking and nature programs use the nearby Yarra River corridor.
+
+**City of Whittlesea** (South Morang, Mernda, Epping) serves Melbourne's northern growth corridor with programs at Thomastown Recreation and Aquatic Centre and Mill Park Leisure. Demand outstrips supply — set calendar reminders for booking dates.
+
+---
+
+## How to Book — Costs, Timing, and What to Expect
+
+### Typical Costs Across Program Types
+
+School holiday program costs in Melbourne vary significantly by type:
+
+| Program Type | Typical Cost | Duration |
+|---|---|---|
+| Free library programs | Free | 1–2 hours |
+| Council activity sessions | $15–$50 per session | 2–4 hours |
+| Council full-day programs | $30–$60 per day | Full day |
+| Multi-sport camps (week) | $150–$400 | 5 days |
+| Art/creative workshops | $20–$80 per session | 2–3 hours |
+| STEM/coding camps (week) | $200–$500 | 5 days |
+| Performing arts intensives | $250–$450 per week | 5 days |
+| Zoo/wildlife programs | $80–$180 per day | Full day |
+| Cooking classes | $60–$120 per session | 2–4 hours |
+
+### When to Book
+
+The booking timeline varies by program type, but the general rule is: book as early as possible.
+
+- **4+ weeks before the break:** Specialist camps (coding, performing arts, zoo programs) open and begin filling
+- **2–3 weeks before:** Council programs open registrations — popular sessions fill within days
+- **1–2 weeks before:** Library programs open — some fill within hours
+- **Last week:** Limited availability remains at most providers
+
+Set calendar reminders for booking dates. Follow your council's social media pages for announcements. Sign up for email alerts from providers you plan to use.
+
+### What a Typical Day Looks Like
+
+Most full-day holiday programs follow a similar structure:
+
+- **8:00–9:00am:** Drop-off and free play
+- **9:00–10:30am:** Structured morning activity (sport, art, workshop)
+- **10:30–11:00am:** Morning tea (usually BYO)
+- **11:00am–12:30pm:** Second activity block
+- **12:30–1:30pm:** Lunch (BYO at most programs)
+- **1:30–3:00pm:** Afternoon activity or excursion
+- **3:00–3:30pm:** Wrap-up and collection
+- **3:30–5:30pm:** After-care (available at some providers, additional cost)
+
+Most programs require children to bring their own lunch, morning tea, water bottle, hat, and sunscreen. Specialist programs (cooking, art, swimming) will specify additional requirements.
+
+---
+
+## Tips for Choosing the Right Program
+
+### Match the Program to Your Child
+
+The single most important factor is whether the program aligns with your child's interests and temperament. A sport-mad child will thrive at a multi-sport camp but struggle in a quiet art workshop. A creative child who prefers small groups will find a large sports camp overwhelming.
+
+Ask your child what they want to do. Give them two or three realistic options and let them choose. Children who have input into the decision engage much better during the program.
+
+### Check Staff Ratios and Qualifications
+
+Quality programs maintain appropriate staff-to-child ratios. For younger children (5 to 8), look for ratios of 1:8 or better. For older children, 1:10 to 1:12 is standard. All staff should hold current Working with Children Checks.
+
+Ask whether staff are trained in the program's discipline. A coding camp staffed by qualified programmers delivers a fundamentally different experience from one staffed by general childcare workers.
+
+### Read the Cancellation Policy
+
+Holiday programs have varying cancellation policies. Some offer full refunds up to 7 days before the start date. Others are non-refundable once booked. Council programs tend to have more generous cancellation terms than private providers.
+
+Understand the policy before you book, especially if you are booking multiple programs across the break.
+
+### Consider Location and Logistics
+
+A brilliant program on the other side of Melbourne creates logistical stress that undermines its value. Prioritise programs that are close to home, close to work, or on a manageable transport route.
+
+If you have multiple children of different ages, look for programs that run at the same venue or nearby locations to simplify drop-off and pick-up.
+
+### Mix Structured and Unstructured Days
+
+Filling every day of a two-week school break with structured programs is expensive and exhausting — for parents and children alike. A mix of two to three structured program days per week with unstructured family days, playdates, and downtime produces the best results.
+
+Use structured programs on your work days and keep weekends and some weekdays free for family outings and rest.
+
+<img src="/images/articles/school-holiday-programs-melbourne-2026-outdoor-activity.jpg" alt="Group of children on an outdoor nature walk during a Melbourne school holiday adventure program" width="800" height="450" loading="lazy" />
+<figcaption>The best school holiday programs balance structured activities with outdoor time and social interaction.</figcaption>
+
+---
+
+## Frequently Asked Questions
+
+### What are the best school holiday programs in Melbourne for 2026?
+
+Melbourne's best school holiday programs include NGV Kids art workshops, Melbourne Zoo Wild Encounters, Scienceworks STEM camps, Australian Sports Camps multi-sport programs, and council-run holiday programs across every municipality. Programs run during all four school breaks — Term 1 (28 March to 13 April), Term 2 (27 June to 12 July), Term 3 (19 September to 4 October), and Term 4 (19 December to 26 January 2027).
+
+### How much do school holiday programs cost in Melbourne?
+
+Costs range widely. Free programs are available through public libraries and some council events. Council-run activity programs typically cost $15 to $50 per session. Multi-day sports camps run $150 to $400 per week. Specialist STEM and coding camps range from $200 to $500 per week. Zoo and wildlife programs are usually $80 to $180 per day.
+
+### When should I book school holiday programs in Melbourne?
+
+Book popular programs 3 to 4 weeks before each school break. Council programs often open bookings 2 to 3 weeks in advance and fill within days. Specialist camps like coding and performing arts fill earliest. Free library programs also require booking and can fill within hours of opening. Set calendar reminders for booking dates.
+
+### Are there free school holiday programs in Melbourne?
+
+Yes. Every Melbourne council runs free or low-cost holiday programs through libraries, community centres, and leisure facilities. Public libraries across Melbourne run free STEM workshops, craft sessions, author visits, and reading challenges during every school break. Some museums offer free children's entry and holiday activities.
+
+### What school holiday programs are available for teenagers in Melbourne?
+
+Melbourne offers strong holiday programming for teenagers including coding and game design camps, film and media workshops at ACMI, performing arts intensives, advanced sports academies, cooking masterclasses, and volunteer programs at wildlife sanctuaries. Many council programs include dedicated sessions for ages 12 to 17.
+
+### What should I look for when choosing a school holiday program?
+
+Key factors include age appropriateness, staff-to-child ratios, provider credentials and reviews, cancellation policies, what is included in the fee (meals, materials, excursions), drop-off and pick-up times that work with your schedule, and whether the program aligns with your child's interests. Ask about the daily structure and whether outdoor time is included.
+
+---
+
+## Sources and Methodology
+
+This guide is compiled from publicly available information from the following sources:
+
+1. Victorian Department of Education — 2026 school term and holiday dates. education.vic.gov.au
+2. Zoos Victoria — School holiday programs at Melbourne Zoo, Werribee Zoo, and Healesville Sanctuary. zoo.org.au
+3. National Gallery of Victoria — NGV Kids holiday programs. ngv.vic.gov.au
+4. Museums Victoria — Scienceworks and Melbourne Museum holiday programming. museumsvictoria.com.au
+5. ACMI — School holiday creative media workshops. acmi.net.au
+6. City of Melbourne — Council holiday program information. melbourne.vic.gov.au
+7. City of Boroondara — Holiday program calendar. boroondara.vic.gov.au
+8. City of Casey — Holiday activity programs. casey.vic.gov.au
+9. Parks Victoria — Nature-based holiday activities. parks.vic.gov.au
+10. Arts Centre Melbourne — Kids and families holiday programming. artscentremelbourne.com.au
+
+Program details, dates, and pricing are based on published 2025–2026 programming and are subject to change. We recommend confirming current details directly with each provider before booking. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Team. For the complete picture of school holiday options across all of Victoria, see our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide. For budget-friendly ideas between programs, see our guide to [free kids activities in Melbourne](/blog/free-kids-activities-melbourne).*
+
+*Author: VicBuzz Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
   }
 ];
 
