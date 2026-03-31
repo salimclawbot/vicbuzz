@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import VicBuzzEmbed from "@/components/VicBuzzEmbed";
+import { BlogImage } from "@/components/BlogImage";
 import ArticleListingGrid from "@/components/ArticleListingGrid";
 import { blogArticles, getArticleBySlug, getPublishedArticles } from "@/lib/blog-articles";
 
@@ -18,7 +19,7 @@ function parseMarkdown(content: string) {
   }
 
   const lines = content.split("\n");
-  const blocks: Array<{ type: "h1" | "h2" | "h3" | "p" | "li" | "bold" | "skip" | "html" | "img"; text: string; id?: string; html?: string }> = [];
+  const blocks: Array<{ type: "h1" | "h2" | "h3" | "p" | "li" | "link" | "bold" | "skip" | "html" | "img"; text: string; id?: string; html?: string; href?: string }> = [];
   const toc: Array<{ id: string; text: string }> = [];
 
   // HTML block tags that should be collected as multi-line raw HTML
@@ -128,8 +129,13 @@ function parseMarkdown(content: string) {
     // Lists - handle markdown links inside list items
     if (line.startsWith("- ") || line.startsWith("* ") || /^\d+\.\s/.test(line)) {
       const raw2 = line.replace(/^[-*]\s+/, "").replace(/^\d+\.\s+/, "");
-      const text = stripMarkdown(raw2);
-      if (text) blocks.push({ type: "li", text });
+      const linkMatch = raw2.match(/\[([^\]]+)\]\(([^)]+)\)/);
+      if (linkMatch) {
+        blocks.push({ type: "link", text: linkMatch[1], href: linkMatch[2] });
+      } else {
+        const text = stripMarkdown(raw2);
+        if (text) blocks.push({ type: "li", text });
+      }
       continue;
     }
 
@@ -383,7 +389,7 @@ export default async function BlogPage({ params }: Props) {
             return blocks.map((block, i) => {
               if (block.type === "skip") return null;
               if (block.type === "html") return <div key={i} dangerouslySetInnerHTML={{ __html: block.html! }} />;
-              if (block.type === "img") return <img key={i} src={block.html!} alt={block.text} className="rounded-xl my-4 max-w-full" loading="lazy" />;
+              if (block.type === "img") return <BlogImage key={i} src={block.html!} alt={block.text} loading="lazy" />;
               if (block.type === "h1") return <h1 key={i} className="text-3xl font-bold text-[#1A1A2E] mt-8 mb-4">{block.text}</h1>;
               if (block.type === "h2") {
                 h2Count++;
@@ -409,6 +415,7 @@ export default async function BlogPage({ params }: Props) {
               }
               if (block.type === "h3") return <h3 key={i} id={block.id} className="text-xl font-semibold text-[#1A1A2E] mt-6 mb-3">{block.text}</h3>;
               if (block.type === "bold") return <p key={i} className="font-semibold text-[#1A1A2E] my-3">{block.text}</p>;
+              if (block.type === "link") return <li key={i} className="text-[#374151] ml-4 my-1 list-disc"><a href={block.href} className="text-amber-700 hover:underline">{block.text}</a></li>;
               if (block.type === "li") return <li key={i} className="text-[#374151] ml-4 my-1 list-disc">{block.text}</li>;
               return <p key={i} className="text-[#374151] leading-relaxed my-3">{block.text}</p>;
             });
