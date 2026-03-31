@@ -8,17 +8,84 @@ import { blogArticles, getArticleBySlug, getPublishedArticles } from "@/lib/blog
 type Props = { params: Promise<{ slug?: string[] }> };
 
 function parseMarkdown(content: string) {
+  // Strip frontmatter
+  if (content.trimStart().startsWith("---")) {
+    const trimmed = content.trimStart();
+    const secondFence = trimmed.indexOf("---", 3);
+    if (secondFence !== -1) {
+      content = trimmed.slice(secondFence + 3);
+    }
+  }
+
   const lines = content.split("\n");
-  const blocks: Array<{ type: "h1" | "h2" | "h3" | "p" | "li" | "bold" | "skip"; text: string; id?: string; html?: string }> = [];
+  const blocks: Array<{ type: "h1" | "h2" | "h3" | "p" | "li" | "bold" | "skip" | "html" | "img"; text: string; id?: string; html?: string }> = [];
   const toc: Array<{ id: string; text: string }> = [];
 
-  for (const raw of lines) {
+  // HTML block tags that should be collected as multi-line raw HTML
+  const htmlBlockOpeners = /^<(video|div|style|section|table|ul|ol)\b/i;
+  let htmlBuffer: string[] | null = null;
+  let htmlCloseTag = "";
+  // HTML comment tracking
+  let inComment = false;
+
+  for (let idx = 0; idx < lines.length; idx++) {
+    const raw = lines[idx];
     const line = raw.trim();
+
+    // Handle multi-line HTML comment blocks
+    if (inComment) {
+      if (line.includes("-->")) {
+        inComment = false;
+      }
+      continue;
+    }
+    if (/^<!--/.test(line)) {
+      if (!line.includes("-->")) {
+        inComment = true;
+      }
+      // Single-line or start of multi-line comment — skip either way
+      continue;
+    }
+
+    // Collecting multi-line HTML block
+    if (htmlBuffer !== null) {
+      htmlBuffer.push(raw);
+      if (line.includes(htmlCloseTag) || (line === "" && htmlBuffer.length > 1)) {
+        if (line === "") htmlBuffer.pop(); // remove trailing blank
+        blocks.push({ type: "html", text: "", html: htmlBuffer.join("\n") });
+        htmlBuffer = null;
+        htmlCloseTag = "";
+      }
+      continue;
+    }
+
     if (!line) continue;
 
-    // Skip raw HTML tags (img, figure, figcaption, schema JSON etc)
-    if (line.startsWith("<") && (line.includes("<img") || line.includes("<figure") || line.includes("<figcaption") || line.includes("</figure") || line.includes("</figcaption") || line.startsWith("<script"))) {
+    // Detect multi-line HTML block openers
+    const blockMatch = line.match(htmlBlockOpeners);
+    if (blockMatch) {
+      const tag = blockMatch[1].toLowerCase();
+      const closeTag = `</${tag}`;
+      // Check if it closes on the same line
+      if (line.includes(closeTag + ">")) {
+        blocks.push({ type: "html", text: "", html: line });
+      } else {
+        htmlBuffer = [raw];
+        htmlCloseTag = closeTag;
+      }
+      continue;
+    }
+
+    // Skip raw HTML: script, figure, figcaption (existing behavior)
+    if (line.startsWith("<") && (line.startsWith("<script") || line.includes("<figcaption") || line.includes("</figcaption"))) {
       blocks.push({ type: "skip", text: "" });
+      continue;
+    }
+
+    // Single-line raw HTML passthrough (e.g. <img, <figure, <a, <br, etc.)
+    if (line.startsWith("<") && !line.startsWith("<script")) {
+      // figure/img tags — pass through as html
+      blocks.push({ type: "html", text: "", html: line });
       continue;
     }
 
@@ -51,6 +118,13 @@ function parseMarkdown(content: string) {
       continue;
     }
 
+    // Markdown images: ![alt](src)
+    const imgMatch = line.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+    if (imgMatch) {
+      blocks.push({ type: "img", text: imgMatch[1], html: imgMatch[2] });
+      continue;
+    }
+
     // Lists - handle markdown links inside list items
     if (line.startsWith("- ") || line.startsWith("* ") || /^\d+\.\s/.test(line)) {
       const raw2 = line.replace(/^[-*]\s+/, "").replace(/^\d+\.\s+/, "");
@@ -76,8 +150,8 @@ function parseMarkdown(content: string) {
 function stripMarkdown(text: string): string {
   // Remove markdown links [text](url) -> text
   text = text.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
-  // Remove image tags
-  text = text.replace(/!\[([^\]]*)\]\([^)]+\)/g, "");
+  // Remove image tags (inline images in paragraphs — standalone ones handled as img blocks)
+  text = text.replace(/!\[([^\]]*)\]\([^)]+\)/g, "$1");
   // Remove bold/italic
   text = text.replace(/\*\*([^*]+)\*\*/g, "$1");
   text = text.replace(/\*([^*]+)\*/g, "$1");
@@ -308,6 +382,8 @@ export default async function BlogPage({ params }: Props) {
             let listingOffset = 0;
             return blocks.map((block, i) => {
               if (block.type === "skip") return null;
+              if (block.type === "html") return <div key={i} dangerouslySetInnerHTML={{ __html: block.html! }} />;
+              if (block.type === "img") return <img key={i} src={block.html!} alt={block.text} className="rounded-xl my-4 max-w-full" loading="lazy" />;
               if (block.type === "h1") return <h1 key={i} className="text-3xl font-bold text-[#1A1A2E] mt-8 mb-4">{block.text}</h1>;
               if (block.type === "h2") {
                 h2Count++;
