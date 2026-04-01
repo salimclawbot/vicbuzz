@@ -8642,6 +8642,3471 @@ Program details, dates, and pricing are based on published 2025–2026 programmi
 *Written by the VicBuzz Team. For the complete picture of school holiday options across all of Victoria, see our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide. For budget-friendly ideas between programs, see our guide to [free kids activities in Melbourne](/blog/free-kids-activities-melbourne).*
 
 *Author: VicBuzz Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'school-holiday-activities-geelong-2026',
+    title: 'School Holiday Activities Geelong 2026: Best Things To Do With Kids',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best school holiday activities in Geelong and the Bellarine Peninsula for 2026. Free and paid things to do with kids, plus sample itineraries for every break.',
+    readTime: '16 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'school-holidays',
+    tags: ["school-holidays", "geelong", "bellarine", "surf-coast", "kids", "family"],
+    faqs: [
+    { q: 'What are the best school holiday activities in Geelong for kids?', a: 'The best school holiday activities in Geelong include the Geelong Waterfront playground and carousel, Adventure Park water theme park, the National Wool Museum workshops, Narana Aboriginal Cultural Centre, Surf World Museum in Torquay, and the many free beach and nature activities along the Bellarine Peninsula and Surf Coast.' },
+    { q: 'Are there free school holiday activities in Geelong?', a: 'Yes. Free activities include the Geelong Waterfront playground, Eastern Beach swimming enclosure, Geelong Botanic Gardens, Geelong Library holiday programs, You Yangs Regional Park bushwalks, the Bellarine Rail Trail for cycling, and many free council-run holiday workshops through the City of Greater Geelong.' },
+    { q: 'How far is Geelong from Melbourne?', a: 'Geelong is approximately 75 kilometres south-west of Melbourne, about a 1-hour drive via the Princes Freeway (M1). V/Line trains run regularly from Melbourne Southern Cross Station to Geelong Station, taking about 1 hour. This makes Geelong an easy day trip or weekend destination for Melbourne families.' },
+    { q: 'What are the best beaches near Geelong for families?', a: 'The best family beaches near Geelong include Eastern Beach (calm, enclosed swimming area in central Geelong), Ocean Grove main beach (patrolled, good facilities), Barwon Heads (river beach and ocean beach), Torquay front beach (patrolled, calm), and Point Lonsdale (rock pools and calm water).' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "School Holiday Activities Geelong 2026: Best Things To Do With Kids",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/school-holiday-activities-geelong-2026-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best school holiday activities in Geelong for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best school holiday activities in Geelong include the Geelong Waterfront playground and carousel, Adventure Park, the National Wool Museum, Narana Aboriginal Cultural Centre, Surf World Museum in Torquay, and free beach and nature activities along the Bellarine Peninsula and Surf Coast."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there free school holiday activities in Geelong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Free activities include the Geelong Waterfront playground, Eastern Beach swimming, Geelong Botanic Gardens, Geelong Library programs, You Yangs bushwalks, and free council-run holiday workshops through the City of Greater Geelong."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Geelong from Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geelong is approximately 75 kilometres from Melbourne, about 1 hour by car via the M1 or 1 hour by V/Line train from Southern Cross Station."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best beaches near Geelong for families?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best family beaches near Geelong include Eastern Beach, Ocean Grove main beach, Barwon Heads, Torquay front beach, and Point Lonsdale for rock pools and calm water."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="School Holiday Activities Geelong 2026: Best Things To Do With Kids" />
+<meta property="og:description" content="Best school holiday activities in Geelong and the Bellarine Peninsula 2026. Free and paid things to do with kids, plus itineraries." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/school-holiday-activities-geelong-2026-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/school-holiday-activities-geelong-2026" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="School Holiday Activities Geelong 2026: Best Things To Do With Kids" />
+<meta name="twitter:description" content="Best school holiday activities in Geelong and the Bellarine Peninsula 2026. Free and paid family fun." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/school-holiday-activities-geelong-2026-hero.jpg" />
+
+# School Holiday Activities Geelong 2026: Best Things To Do With Kids
+
+**Geelong and the surrounding Bellarine Peninsula and Surf Coast offer some of Victoria's best school holiday activities for families. From the iconic waterfront playground and carousel to adventure parks, beaches, wildlife encounters, and free council programs, this guide covers every option — free and paid — so you can plan the perfect school holiday break in the Geelong region for 2026.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [Why Geelong Is a Top School Holiday Destination](#why-geelong-is-a-top-school-holiday-destination)
+- [Getting to Geelong From Melbourne](#getting-to-geelong-from-melbourne)
+- [Best Free School Holiday Activities in Geelong](#best-free-school-holiday-activities-in-geelong)
+- [Best Paid Activities and Attractions](#best-paid-activities-and-attractions)
+- [Bellarine Peninsula Family Activities](#bellarine-peninsula-family-activities)
+- [Surf Coast Activities for Kids](#surf-coast-activities-for-kids)
+- [Rainy Day Activities in Geelong](#rainy-day-activities-in-geelong)
+- [Sample School Holiday Itineraries](#sample-school-holiday-itineraries)
+- [Where to Eat With Kids in Geelong](#where-to-eat-with-kids-in-geelong)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/school-holiday-activities-geelong-2026-hero.jpg" alt="Families enjoying the Geelong Waterfront playground with the bay in the background" width="1200" height="630" loading="eager" />
+<figcaption>The Geelong Waterfront is the starting point for most family visits to the region.</figcaption>
+
+## Why Geelong Is a Top School Holiday Destination
+
+Geelong is Victoria's second-largest city and sits just over an hour from Melbourne by car or train, making it one of the most accessible regional destinations for Melbourne families. The city has transformed over the past decade, with the revitalised waterfront precinct, world-class playgrounds, new dining options, and easy access to both the Bellarine Peninsula and the Surf Coast.
+
+For school holidays specifically, Geelong offers a rare combination: genuine regional character and outdoor space without the long drive that other Victorian destinations require. You can combine city attractions like the National Wool Museum and Geelong Gallery with beach days, bushwalks, and adventure parks — all within a compact area.
+
+The City of Greater Geelong also runs extensive free holiday programs through its libraries and community centres, and the region's mix of free and paid activities means you can fill a full week without spending a fortune.
+
+### When Are School Holidays in 2026?
+
+Victorian school holidays in 2026 fall during these periods:
+- **Term 1 holidays:** 28 March – 13 April
+- **Term 2 holidays:** 27 June – 12 July
+- **Term 3 holidays:** 19 September – 4 October
+- **Term 4 holidays:** 19 December 2026 – 26 January 2027
+
+These dates are set by the Victorian Department of Education. Catholic and independent schools may vary slightly.
+
+## Getting to Geelong From Melbourne
+
+### By Car
+Geelong is approximately 75 kilometres south-west of Melbourne via the Princes Freeway (M1). The drive takes about 1 hour in normal traffic, though expect delays during peak holiday periods — especially Friday afternoons heading down and Sunday evenings returning. The freeway is well-maintained and mostly three lanes each way.
+
+**Parking:** Central Geelong has metered street parking and several multi-storey car parks. The waterfront area can get busy during holidays, so arrive before 10am or park in the Westfield Geelong shopping centre car park and walk down.
+
+### By Train
+V/Line operates regular train services from Melbourne Southern Cross Station to Geelong Station, with the journey taking approximately 1 hour. Trains run roughly every 20–40 minutes during peak times. A Myki card covers the journey (Zone 1+2 fare). Children under 5 travel free, and children aged 5–18 travel on concession fares.
+
+Geelong Station is centrally located and within walking distance of the waterfront (about 10 minutes on foot).
+
+### By Bus
+V/Line also runs coach services to smaller towns on the Bellarine Peninsula, including Queenscliff and Ocean Grove, connecting from Geelong Station.
+
+## Best Free School Holiday Activities in Geelong
+
+### Geelong Waterfront Playground
+The Geelong Waterfront is the city's showpiece public space, stretching along Corio Bay with walking paths, public art (the famous Baywalk Bollards), picnic areas, and a large modern playground. The playground suits children from toddlers through to around 10 years old and includes climbing structures, swings, and sand play.
+
+The waterfront itself is a destination — families can spend hours walking, scooting, or cycling along the promenade. The Eastern Beach swimming enclosure, a heritage-listed Art Deco sea bath with a sandy beach and shark net, sits at the southern end and offers free swimming.
+
+**Cost:** Free
+**Best for:** Ages 0–12
+**Facilities:** Toilets, changing rooms at Eastern Beach, cafes and restaurants along the waterfront
+
+### Geelong Botanic Gardens
+Located in the Eastern Park precinct above Eastern Beach, the Geelong Botanic Gardens are peaceful and well-maintained. The gardens feature themed sections, a conservatory, and plenty of open lawn for running and picnicking. During school holidays, the gardens sometimes host free guided walks and nature activities — check the City of Greater Geelong website.
+
+**Cost:** Free
+**Best for:** All ages
+
+### Geelong Library Holiday Programs
+The Geelong Regional Library Corporation runs free school holiday programs across its network of libraries during every school break. Programs typically include craft workshops, coding sessions, author talks, LEGO building, science experiments, and storytelling for younger children.
+
+Sessions are free but require booking, and popular ones fill quickly. Check the library website about 2–3 weeks before each holiday period for the program schedule.
+
+**Cost:** Free
+**Best for:** Ages 3–15
+
+### You Yangs Regional Park
+Located about 20 minutes north of Geelong (and about 55 minutes from Melbourne), the You Yangs is a distinctive granite ridge rising from the flat volcanic plains. The park offers excellent bushwalking with several trails of varying difficulty, including short walks suitable for families with young children.
+
+Highlights include the Flinders Peak walk (moderate, about 3km return, with panoramic views), the koala conservation area, and mountain biking trails for older children and teenagers. The park is managed by Parks Victoria and entry is free.
+
+**Cost:** Free
+**Best for:** Ages 4+ (easy trails), ages 8+ (Flinders Peak)
+**Tip:** Bring water, sunscreen, and enclosed shoes. No shops or cafes in the park.
+
+### Barwon River Trails
+The Barwon River runs through Geelong and offers several flat, paved walking and cycling trails perfect for families. The path from Queens Park through Barwon Valley Park is popular with families — it follows the river, passes playgrounds, and is flat enough for young children on bikes or scooters.
+
+**Cost:** Free
+**Best for:** All ages
+
+### Free Council Holiday Activities
+The City of Greater Geelong runs free and low-cost holiday activities during each school break, including sports clinics, arts and craft workshops, nature programs, and cultural events. These are published on the council website and through local community centres. If you are visiting Geelong specifically for the holidays, these programs are worth checking as they often include unique local experiences.
+
+## Best Paid Activities and Attractions
+
+### Adventure Park Geelong
+Adventure Park is Geelong's water theme park and one of the region's most popular holiday attractions. It features water slides, a wave pool, a lazy river, a splash park for younger children, and dry rides including go-karts and mini golf.
+
+**Cost:** From approximately $45–55 per person (children under 3 free). Season passes and family bundles available. Prices vary by date and are typically higher during peak holiday periods.
+**Best for:** Ages 3–16
+**Location:** Bellarine Highway, Wallington (about 15 minutes from central Geelong)
+**Tip:** The park operates primarily during warmer months (October to April). Check the website for exact opening dates during each holiday period. Arrive early in peak periods as the car park fills.
+
+### National Wool Museum
+Housed in a heritage bluestone wool store in central Geelong, the National Wool Museum tells the story of Australia's wool industry. During school holidays, the museum runs hands-on workshops for children, including felt-making, weaving, and sheep-related craft activities.
+
+The museum is engaging for children who might not expect to find a wool museum interesting — the shearing demonstrations and interactive exhibits are well done.
+
+**Cost:** Adults approximately $10, children $5, family passes available. Holiday workshop costs vary.
+**Best for:** Ages 4–14
+**Location:** 26 Moorabool Street, Geelong (central, walking distance from the station and waterfront)
+
+### Geelong Gallery
+The Geelong Gallery holds a significant collection of Australian art and runs school holiday workshops and activities for children, often linked to current exhibitions. These are usually free or low-cost but require booking.
+
+**Cost:** Gallery entry is free. Workshop costs vary.
+**Best for:** Ages 5–15
+**Location:** Little Malop Street, central Geelong
+
+### Narana Aboriginal Cultural Centre
+Located in Grovedale (about 10 minutes from central Geelong), Narana offers cultural experiences including guided walks through native gardens, boomerang throwing, didgeridoo sessions, and encounters with native Australian animals in the wildlife area. This is a meaningful educational experience and one of the few opportunities in the Geelong region for children to learn about Aboriginal culture in an authentic setting.
+
+**Cost:** Guided experiences from approximately $15–25 per person. Self-guided garden walks are less.
+**Best for:** Ages 4+
+**Location:** 410 Surf Coast Highway, Grovedale
+
+### Geelong Cats Game Day (If Scheduled)
+If a Geelong Cats AFL home game falls during school holidays, taking the kids to GMHBA Stadium is a memorable Geelong experience. The atmosphere is family-friendly, and children often receive free memberships or match-day activities. Check the AFL fixture for holiday-period home games.
+
+## Bellarine Peninsula Family Activities
+
+The Bellarine Peninsula extends east of Geelong and is ringed by beaches, small towns, and family-friendly attractions.
+
+### Queenscliff
+Queenscliff is a charming historic seaside town at the tip of the Bellarine Peninsula. Key family activities include:
+
+- **Queenscliff Fort:** A 19th-century coastal defence fort with guided tours. Children enjoy the tunnels, cannon emplacements, and military history.
+- **Queenscliff–Sorrento Ferry:** The car and passenger ferry crosses the mouth of Port Phillip Bay to the Mornington Peninsula, offering a scenic 40-minute crossing with views of dolphins and seabirds. You can do a return trip as an activity in itself.
+- **Bellarine Railway:** A heritage steam and diesel railway that runs between Queenscliff and Drysdale. Children love the old carriages and the gentle pace. Operates on selected days including school holiday periods.
+- **Queenscliff Harbour:** Walk along the pier, watch the fishing boats, and visit the Marine and Freshwater Discovery Centre (a small aquarium run by the Victorian Fisheries Authority, with touch tanks and local marine life).
+
+### Ocean Grove and Barwon Heads
+Ocean Grove has one of the Bellarine's best family beaches — a long, wide, patrolled beach with good facilities. The town also has cafes, fish and chips, and ice cream shops along The Terrace.
+
+Barwon Heads, just across the river, offers a more relaxed vibe and the chance to explore the Barwon Heads Bluff walk — a short clifftop trail with excellent views. The river beach at Barwon Heads is calm and safe for young children.
+
+### Point Lonsdale
+Point Lonsdale has a family-friendly beach, a lighthouse walk, and excellent rock pools at low tide. Rock pooling is a free, engaging activity for children of all ages — look for sea stars, crabs, anemones, and small fish in the rock platforms near the point.
+
+### Bellarine Rail Trail
+The Bellarine Rail Trail is a flat, sealed cycling and walking path that runs from South Geelong through Drysdale and on towards Queenscliff. It is ideal for family cycling — flat, away from roads, and passing through farmland and small towns. Bikes can be hired in Queenscliff and several other locations.
+
+## Surf Coast Activities for Kids
+
+### Torquay
+Torquay, the gateway to the Great Ocean Road, is about 20 minutes south of Geelong and offers:
+
+- **Surf World Museum:** Australia's largest surfing museum, with interactive exhibits, surfboard collections, and the story of the Surf Coast. School holiday programs sometimes include surf history workshops.
+- **Torquay Front Beach:** A calm, patrolled beach suitable for young children. The foreshore reserve has a playground and barbecue facilities.
+- **Surf Lessons:** Several surf schools in Torquay offer lessons for children from about age 7. Group lessons typically cost $60–80 per session and are a memorable school holiday experience.
+
+### Anglesea
+About 10 minutes past Torquay, Anglesea offers:
+
+- **Anglesea Golf Club Kangaroos:** The Anglesea Golf Club is famous for its resident mob of kangaroos grazing on the fairways. You can walk through the course to see them (check with the club for visitor access).
+- **Anglesea River:** A calm river estuary perfect for paddling, kayaking, and building sandcastles where the river meets the beach.
+- **Ironbark Basin Walk:** A short bushwalk through koala habitat — one of the best spots near Geelong to see koalas in the wild.
+
+### Aireys Inlet
+The Split Point Lighthouse at Aireys Inlet offers guided tours with stunning coastal views. The lighthouse is famous as the setting for the TV series *Round the Twist*. Children who know the show get a particular thrill from visiting.
+
+## Rainy Day Activities in Geelong
+
+Winter school holidays (June–July) and even spring breaks can bring wet weather to Geelong. Indoor options include:
+
+- **National Wool Museum** — hands-on workshops and exhibits (see above)
+- **Geelong Gallery** — free entry, holiday workshops
+- **Geelong Library** — free holiday programs across all branches
+- **Bounce Geelong** — indoor trampoline park with sessions for different age groups
+- **Zone Bowling Geelong** — ten-pin bowling, good for mixed age groups
+- **Village Cinemas Geelong** — school holiday movie screenings, often with discounted kids' sessions
+- **Maker Space workshops** — the Geelong region has several maker spaces that run holiday workshops in coding, robotics, 3D printing, and woodwork. Check local listings.
+
+For more rainy-day ideas across Melbourne and Victoria, see our guide to [indoor activities for Melbourne school holidays](/blog/indoor-activities-melbourne-school-holidays).
+
+## Sample School Holiday Itineraries
+
+### Day Trip From Melbourne (1 Day)
+
+**Morning:**
+- Drive or train to Geelong (1 hour)
+- Geelong Waterfront walk and playground
+- Morning tea at a waterfront cafe
+
+**Midday:**
+- National Wool Museum or Geelong Gallery (1.5 hours)
+- Lunch in central Geelong (Little Malop Street precinct has family-friendly options)
+
+**Afternoon:**
+- Drive to Eastern Beach for swimming (free, 5 minutes from city centre)
+- Or drive to Torquay (20 minutes) for beach time or Surf World Museum
+- Return to Melbourne via M1
+
+### 3-Day Bellarine Peninsula Holiday
+
+**Day 1 — Geelong City:**
+- Waterfront playground and Eastern Beach swimming
+- National Wool Museum
+- Barwon River trail walk or cycle
+
+**Day 2 — Bellarine Peninsula:**
+- Drive to Queenscliff (30 minutes from Geelong)
+- Bellarine Railway ride
+- Marine Discovery Centre
+- Lunch in Queenscliff
+- Afternoon at Point Lonsdale beach and rock pools
+
+**Day 3 — Surf Coast:**
+- Drive to Torquay (20 minutes from Geelong)
+- Surf World Museum
+- Beach time at Torquay Front Beach
+- Optional: Anglesea for kangaroos and river play
+- Return to Melbourne via M1
+
+### Budget Week (Mostly Free)
+
+- **Day 1:** Waterfront playground, Eastern Beach swimming, Botanic Gardens — all free
+- **Day 2:** You Yangs bushwalk — free
+- **Day 3:** Library holiday program (free, book ahead) + Barwon River cycling
+- **Day 4:** Ocean Grove beach day — free
+- **Day 5:** Point Lonsdale rock pools + Queenscliff town walk — free
+
+For more budget-friendly holiday ideas, see our guide to [free school holiday activities in Melbourne](/blog/free-school-holiday-activities-melbourne-2026).
+
+## Where to Eat With Kids in Geelong
+
+Geelong's dining scene has expanded significantly, and there are good family-friendly options:
+
+- **The Waterfront precinct** — several cafes and restaurants with outdoor seating, high chairs, and kids' menus. The Sailors Rest and Wah Wah Gee are popular.
+- **Pakington Street (Geelong West)** — a strip of cafes, bakeries, and restaurants. Less touristy than the waterfront and often easier to get a table during holidays.
+- **Little Malop Street** — Geelong's emerging dining precinct with Asian, Mediterranean, and modern Australian options.
+- **Fish and chips on the Bellarine** — Ocean Grove, Barwon Heads, and Queenscliff all have excellent fish and chip shops.
+
+## Frequently Asked Questions
+
+**What are the best school holiday activities in Geelong for kids?**
+The best school holiday activities in Geelong include the Geelong Waterfront playground and carousel, Adventure Park water theme park, the National Wool Museum workshops, Narana Aboriginal Cultural Centre, Surf World Museum in Torquay, and the many free beach and nature activities along the Bellarine Peninsula and Surf Coast.
+
+**Are there free school holiday activities in Geelong?**
+Yes. Free activities include the Geelong Waterfront playground, Eastern Beach swimming enclosure, Geelong Botanic Gardens, Geelong Library holiday programs, You Yangs Regional Park bushwalks, the Bellarine Rail Trail for cycling, and many free council-run holiday workshops through the City of Greater Geelong.
+
+**How far is Geelong from Melbourne?**
+Geelong is approximately 75 kilometres south-west of Melbourne, about a 1-hour drive via the Princes Freeway (M1). V/Line trains run regularly from Melbourne Southern Cross Station to Geelong Station, taking about 1 hour.
+
+**What are the best beaches near Geelong for families?**
+The best family beaches near Geelong include Eastern Beach (calm, enclosed swimming area in central Geelong), Ocean Grove main beach (patrolled, good facilities), Barwon Heads (river beach and ocean beach), Torquay front beach (patrolled, calm), and Point Lonsdale (rock pools and calm water).
+
+---
+
+## Sources
+
+1. City of Greater Geelong — School holiday programs and events calendar. geelongaustralia.com.au
+2. Geelong Regional Library Corporation — Holiday program schedule. grlc.vic.gov.au
+3. Parks Victoria — You Yangs Regional Park visitor guide. parks.vic.gov.au
+4. Adventure Park Geelong — Pricing, opening hours, and season information. adventurepark.com.au
+5. Visit Geelong Bellarine — Official visitor guide, family activities and events. visitgeelongbellarine.com.au
+6. Victorian Department of Education — 2026 school term dates and holidays. education.vic.gov.au
+7. Bellarine Railway — Heritage railway timetable and holiday services. bellarinerailway.com.au
+
+Information in this guide is based on published 2025–2026 data and is subject to change. We recommend confirming current details directly with each venue or provider before visiting. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For a broader view of school holiday activities across Geelong and the rest of Victoria, see our [things to do in Geelong with kids](/blog/things-to-do-geelong-kids) guide and our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide.*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'indoor-activities-melbourne-school-holidays',
+    title: 'Indoor Activities Melbourne School Holidays: Rainy Day Guide for Families',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The ultimate guide to indoor activities for kids in Melbourne during school holidays. Play centres, museums, cinemas, bowling, escape rooms — sorted by age and budget.',
+    readTime: '16 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'school-holidays',
+    tags: ["school-holidays", "melbourne", "indoor-activities", "rainy-day", "kids", "family"],
+    faqs: [
+    { q: 'What are the best indoor activities for kids in Melbourne during school holidays?', a: 'The best indoor activities for kids in Melbourne during school holidays include the Melbourne Museum (free for under 16s), Scienceworks, LEGOLAND Discovery Centre, ArtVo immersive gallery, SEA LIFE Melbourne Aquarium, indoor play centres like Lollipops and Chipmunks, trampoline parks, bowling alleys, escape rooms for older kids, and ACMI at Federation Square.' },
+    { q: 'What indoor activities are free for kids in Melbourne?', a: 'Free indoor activities include the Melbourne Museum and Immigration Museum (free for children under 16), the NGV permanent collection, the State Library of Victoria, ACMI at Federation Square, and library holiday programs run by every Melbourne council. Many councils also run free indoor holiday workshops.' },
+    { q: 'What are the best indoor play centres in Melbourne?', a: 'Popular indoor play centres in Melbourne include Lollipops Playland (multiple locations), Chipmunks (Boronia, Dandenong South), Inflatable World, Funfields (Whittlesea, partly indoor), and various local centres across the suburbs. Most offer sessions for toddlers through to age 12 and cost between $12 and $25 per child.' },
+    { q: 'Are there escape rooms suitable for kids in Melbourne?', a: 'Yes. Several Melbourne escape rooms offer family-friendly rooms suitable for children aged about 8 and over. Popular options include Escape Hunt Melbourne (CBD), Strike Bowling escape rooms, and Trapt in the CBD. Most require at least one adult per group and offer rooms rated by difficulty.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Indoor Activities Melbourne School Holidays: Rainy Day Guide for Families",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/indoor-activities-melbourne-school-holidays-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best indoor activities for kids in Melbourne during school holidays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best indoor activities include the Melbourne Museum (free for under 16s), Scienceworks, LEGOLAND Discovery Centre, ArtVo, SEA LIFE Aquarium, indoor play centres, trampoline parks, bowling, escape rooms, and ACMI at Federation Square."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What indoor activities are free for kids in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Free indoor activities include the Melbourne Museum and Immigration Museum (free for under 16s), NGV permanent collection, State Library of Victoria, ACMI, and library holiday programs run by every Melbourne council."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best indoor play centres in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Popular indoor play centres include Lollipops Playland, Chipmunks, Inflatable World, and various local centres across the suburbs. Most cost between $12 and $25 per child."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there escape rooms suitable for kids in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Family-friendly escape rooms include Escape Hunt Melbourne, Strike Bowling escape rooms, and Trapt in the CBD. Most suit children aged 8 and over with at least one adult per group."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="Indoor Activities Melbourne School Holidays: Rainy Day Guide for Families" />
+<meta property="og:description" content="Best indoor activities for kids in Melbourne during school holidays. Play centres, museums, cinemas, bowling, escape rooms — by age and budget." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/indoor-activities-melbourne-school-holidays-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/indoor-activities-melbourne-school-holidays" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Indoor Activities Melbourne School Holidays: Rainy Day Guide for Families" />
+<meta name="twitter:description" content="Best indoor activities for kids in Melbourne during school holidays. Rainy day guide by age and budget." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/indoor-activities-melbourne-school-holidays-hero.jpg" />
+
+# Indoor Activities Melbourne School Holidays: Rainy Day Guide for Families
+
+**Melbourne's weather is unpredictable at the best of times, and school holidays are no exception. Whether you are facing winter rain, a blustery spring day, or summer heat too extreme for the park, Melbourne has an outstanding range of indoor activities for kids of every age. This guide covers museums, play centres, cinemas, bowling, trampoline parks, escape rooms, and more — organised by age group and budget so you can plan the perfect rainy day.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [Free Indoor Activities for Kids](#free-indoor-activities-for-kids)
+- [Best Museums and Galleries for Kids](#best-museums-and-galleries-for-kids)
+- [Indoor Play Centres by Region](#indoor-play-centres-by-region)
+- [Trampoline Parks and Active Play](#trampoline-parks-and-active-play)
+- [Bowling, Laser Tag and Arcade Fun](#bowling-laser-tag-and-arcade-fun)
+- [Escape Rooms for Families](#escape-rooms-for-families)
+- [Cinemas and School Holiday Movies](#cinemas-and-school-holiday-movies)
+- [Indoor Activities by Age Group](#indoor-activities-by-age-group)
+- [Budget Guide: What to Expect to Pay](#budget-guide-what-to-expect-to-pay)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/indoor-activities-melbourne-school-holidays-hero.jpg" alt="Children playing in a colourful indoor play centre with slides and ball pits" width="1200" height="630" loading="eager" />
+<figcaption>Melbourne's indoor play centres and attractions keep kids entertained regardless of the weather.</figcaption>
+
+## Free Indoor Activities for Kids
+
+Melbourne has a genuinely impressive range of free indoor activities, especially for families on a budget. Several of the city's best cultural institutions are free for children, and council library programs provide free structured activities in every part of the metropolitan area.
+
+### Melbourne Museum
+The Melbourne Museum in Carlton is one of Melbourne's best family attractions — and entry is free for children under 16. The museum includes the Children's Gallery (designed for ages 3–8), the Bugs Alive exhibit with live insects and spiders, the dinosaur walk with full-size skeletons, the Bunjilaka Aboriginal Cultural Centre, and temporary exhibitions.
+
+During school holidays, the museum runs additional programs including science workshops, craft activities, and guided tours tailored to children. Some of these carry a small fee, but the general museum is free for kids.
+
+**Cost:** Free for children under 16. Adults approximately $15.
+**Location:** 11 Nicholson Street, Carlton
+**Tip:** Arrive when doors open (10am) to avoid crowds, especially during school holidays.
+
+### NGV — National Gallery of Victoria
+The NGV's permanent collection at NGV International on St Kilda Road is free for everyone. The gallery regularly features family-friendly installations and the NGV Kids program runs workshops, trails, and interactive experiences during school holidays.
+
+The Ian Potter Centre: NGV Australia at Federation Square is also free and has an excellent collection of Australian art with kid-friendly trail guides available at the entrance.
+
+**Cost:** Free (permanent collection). Special exhibitions may have fees.
+**Location:** NGV International — 180 St Kilda Road. NGV Australia — Federation Square.
+
+### State Library of Victoria
+The State Library on Swanston Street runs free school holiday activities for children, including storytelling, craft, coding workshops, and LEGO building sessions. The library itself is architecturally striking and worth exploring — children enjoy the domed reading room and the exhibition galleries.
+
+**Cost:** Free
+**Location:** 328 Swanston Street, Melbourne
+
+### ACMI — Australian Centre for the Moving Image
+ACMI at Federation Square is free to enter and has permanent interactive exhibits exploring film, television, video games, and digital culture. The museum is particularly engaging for children aged 6 and over. School holiday programs often include animation workshops, game design sessions, and film screenings.
+
+**Cost:** Free (general entry). Some workshops may charge.
+**Location:** Federation Square, Flinders Street
+
+### Council Library Holiday Programs
+Every Melbourne metropolitan council runs free school holiday programs through its library network. Programs vary by council but typically include craft workshops, coding sessions, LEGO building, author talks, science experiments, robotelling, and storytime for younger children. Sessions are free but require booking, and popular ones fill up fast — check your local council library website 2–3 weeks before each break.
+
+## Best Museums and Galleries for Kids
+
+### Scienceworks
+Scienceworks in Spotswood is one of Melbourne's best family museums. It includes hands-on science exhibits, the Lightning Room live electrical show, a planetarium, the Sportsworks interactive sports science area, and temporary exhibitions. The Planetarium is particularly impressive and runs age-appropriate shows during school holidays.
+
+**Cost:** Free for children under 16. Adults approximately $15. Planetarium and Lightning Room shows carry additional fees (approximately $6–8).
+**Location:** 2 Booker Street, Spotswood
+**Tip:** Book Lightning Room and Planetarium sessions online in advance as they sell out during holidays.
+
+### LEGOLAND Discovery Centre
+Located at Chadstone Shopping Centre, LEGOLAND Discovery Centre is designed for children aged 3–10. It includes LEGO building zones, a 4D cinema, rides, a miniland of Melbourne landmarks built from LEGO, and master builder workshops.
+
+**Cost:** From approximately $25–35 per person online. Discounts for booking in advance.
+**Location:** Chadstone Shopping Centre, 1341 Dandenong Road, Chadstone
+
+### SEA LIFE Melbourne Aquarium
+SEA LIFE on the Yarra River in the CBD features sharks, rays, penguins, jellyfish, and a range of marine life across themed zones. The aquarium runs school holiday activities including behind-the-scenes tours and animal encounter experiences.
+
+**Cost:** From approximately $35–48 per person. Discounts for online booking.
+**Location:** King Street, Melbourne (Southbank side)
+
+### ArtVo Immersive Gallery
+ArtVo in Docklands is an immersive trick-art gallery where children and adults become part of the artwork — every exhibit is designed for you to stand in, interact with, and photograph. It is particularly popular with children aged 5–15 and with teenagers.
+
+**Cost:** From approximately $22–30 per person.
+**Location:** The District Docklands, 26 Star Crescent, Docklands
+
+### Immigration Museum
+The Immigration Museum on Flinders Street is free for children under 16 and tells the story of migration to Victoria through interactive exhibits. The museum runs school holiday programs focused on cultural themes, storytelling, and craft.
+
+**Cost:** Free for children under 16. Adults approximately $15.
+**Location:** 400 Flinders Street, Melbourne
+
+## Indoor Play Centres by Region
+
+### Inner Melbourne and Inner Suburbs
+- **Lollipops Playland (multiple locations):** Large indoor play structures, ball pits, and toddler zones. Locations include South Melbourne, Dandenong South, and Epping. Cost from $15–22 per child.
+- **Chipmunks Playland (Boronia, Dandenong South):** Multi-level play structures, slides, trampolines, and separate toddler areas. Cost from $14–20 per child.
+
+### Northern Suburbs
+- **Inflatable World (various locations including Campbellfield):** Giant inflatable obstacle courses and slides. Sessions are typically 1–2 hours. Cost from $15–20 per child.
+- **Latitude (various locations):** Combination of trampolines, climbing walls, and obstacle courses. See our guide to [best trampoline parks in Melbourne](/blog/best-trampoline-parks-melbourne-kids) for full details.
+
+### South-Eastern Suburbs
+- **Lollipops Dandenong South:** One of the larger Lollipops venues. See above for details.
+- **Fun City (Noble Park):** Indoor play centre with slides, ball pits, and party rooms.
+- **Various local centres:** Most south-eastern suburbs have at least one independent indoor play centre.
+
+### Western Suburbs
+- **Indoor play centres in Werribee and surrounds** — see our guide to [things to do in Werribee with kids](/blog/things-to-do-werribee-with-kids).
+- **Inflatable World (various locations):** Giant inflatables for active play.
+
+### Outer East and Yarra Ranges
+- **Chipmunks Boronia:** Popular in the eastern suburbs.
+- **Various local centres in the Yarra Ranges** — see our guide to [kids activities in the Yarra Valley](/blog/kids-activities-yarra-valley) for more options.
+
+## Trampoline Parks and Active Play
+
+Trampoline parks have become one of Melbourne's most popular school holiday activities. They suit children from about age 3 (with dedicated toddler sessions at most parks) through to teenagers.
+
+Major trampoline parks include:
+- **Bounce (Glen Iris, Essendon):** One of the original Australian trampoline parks. Multiple zones, slam dunk basketball, and foam pits.
+- **Sky Zone (various locations):** Trampoline dodgeball, sky climbing, and ninja warrior courses.
+- **Flip Out (various locations):** Trampolines, climbing, and foam pits.
+- **Latitude (various locations):** Trampolines, climbing walls, and virtual reality zones.
+
+Expect to pay $18–30 per hour depending on the park and session type. Most parks require socks (grip socks available for purchase) and have age-specific sessions. For a detailed comparison of all Melbourne trampoline parks, see our dedicated guide to [best trampoline parks in Melbourne for kids](/blog/best-trampoline-parks-melbourne-kids).
+
+## Bowling, Laser Tag and Arcade Fun
+
+### Ten-Pin Bowling
+Bowling is a reliable school holiday activity that works across a wide age range (from about 4 years with bumper rails up to teenagers and adults). Melbourne has bowling centres across the city:
+
+- **Strike Bowling (Melbourne Central, Highpoint, QV):** Modern bowling with lane-side food and drink. Cost approximately $15–22 per person per game.
+- **Zone Bowling (various suburban locations including Knox, Moorabbin, Waverley):** Standard bowling with arcade games. Cost approximately $12–18 per game.
+- **AMF Bowling (various locations):** Similar to Zone, with combo deals during school holidays.
+
+### Laser Tag
+Laser tag is popular with children aged 6 and over and works well for groups and birthday parties during the holidays:
+
+- **Zone Bowling laser tag (various locations):** Laser tag arenas adjacent to bowling lanes.
+- **Darkzone (Box Hill, Docklands):** Dedicated laser tag centres with large multi-level arenas.
+- **Galactic Circus (Crown Melbourne):** Laser tag plus arcade games and bumper cars.
+
+### Arcade and Entertainment Centres
+- **Galactic Circus (Crown Melbourne):** Large arcade and entertainment centre with rides, games, and laser tag.
+- **Timezone (various locations):** Classic arcade games, prizes, and entertainment.
+- **Holey Moley and Strike (Melbourne Central):** Mini golf and bowling combo — popular with older kids and teenagers.
+
+## Escape Rooms for Families
+
+Escape rooms have grown rapidly in Melbourne and many now offer family-friendly rooms designed for children aged about 8 and over. These require teamwork, puzzle-solving, and communication — and are one of the most engaging indoor activities for older children and teenagers.
+
+### Best Family-Friendly Escape Rooms
+- **Escape Hunt Melbourne (CBD):** Multiple themed rooms with difficulty ratings. Staff can adjust difficulty for younger groups.
+- **Trapt (CBD):** Immersive escape rooms with theatrical elements. Some rooms suit children aged 10+.
+- **Strike Escape Rooms (various locations):** Escape rooms within Strike bowling venues, making it easy to combine activities.
+
+**Cost:** Typically $30–40 per person for a 60-minute room. Most require minimum group sizes (usually 2–6 people).
+**Best for:** Ages 8+ (with adult supervision)
+
+## Cinemas and School Holiday Movies
+
+Most Melbourne cinemas run discounted school holiday movie sessions for families:
+
+- **Village Cinemas, Hoyts, and Event Cinemas:** All run school holiday programming with discounted tickets (typically $8–12 for children) and special screenings.
+- **IMAX Melbourne (Melbourne Museum):** The IMAX screen at the Melbourne Museum shows blockbusters and family films in a massive format. A memorable school holiday experience.
+- **Sun Theatre (Yarraville):** A charming heritage cinema in Melbourne's west with a family-friendly atmosphere and competitive pricing.
+- **Palace Cinemas (various locations):** Boutique cinema experience with comfortable seating.
+
+**Tip:** Most cinema chains release their school holiday program 1–2 weeks before each break. Weekday sessions are usually cheaper and less crowded than weekends.
+
+## Indoor Activities by Age Group
+
+### Toddlers (0–3 Years)
+- Indoor play centres with dedicated toddler zones (Lollipops, Chipmunks)
+- Library storytime and rhyme time sessions (free)
+- Melbourne Museum Children's Gallery (free)
+- Toddler sessions at trampoline parks (selected parks, selected times)
+- LEGOLAND Discovery Centre DUPLO zone
+
+### Preschool and Early Primary (3–7 Years)
+- All indoor play centres
+- Melbourne Museum (free)
+- Scienceworks (free for kids)
+- LEGOLAND Discovery Centre
+- Library holiday programs (free)
+- Bowling with bumper rails
+- ArtVo immersive gallery
+
+### Primary School (7–12 Years)
+- Trampoline parks
+- Escape rooms (from age 8)
+- Scienceworks Lightning Room and Planetarium
+- Laser tag
+- SEA LIFE Aquarium
+- Bowling and arcade games
+- Library coding and maker workshops (free)
+
+### Teenagers (12+ Years)
+- Escape rooms
+- Laser tag
+- Trampoline parks (freestyle sessions)
+- Holey Moley mini golf
+- ACMI exhibitions and workshops
+- NGV exhibitions
+- IMAX cinema
+- Arcade and entertainment centres
+
+## Budget Guide: What to Expect to Pay
+
+| Activity | Typical Cost Per Child |
+|----------|----------------------|
+| Melbourne Museum | Free (under 16) |
+| NGV permanent collection | Free |
+| State Library programs | Free |
+| ACMI | Free |
+| Council library programs | Free |
+| Scienceworks | Free (under 16) |
+| Indoor play centre | $12–25 |
+| Trampoline park (1 hour) | $18–30 |
+| Bowling (1 game) | $12–22 |
+| Laser tag (1 session) | $12–20 |
+| LEGOLAND Discovery Centre | $25–35 |
+| SEA LIFE Aquarium | $35–48 |
+| ArtVo | $22–30 |
+| Escape room | $30–40 |
+| Cinema (school holiday) | $8–15 |
+
+Prices are approximate and based on 2025–2026 published rates. Book online for most paid attractions for discounted pricing.
+
+For more free options, see our guide to [free school holiday activities in Melbourne 2026](/blog/free-school-holiday-activities-melbourne-2026) and our guide to [free things to do in Melbourne with toddlers](/blog/free-things-to-do-melbourne-toddlers).
+
+## Frequently Asked Questions
+
+**What are the best indoor activities for kids in Melbourne during school holidays?**
+The best indoor activities for kids in Melbourne during school holidays include the Melbourne Museum (free for under 16s), Scienceworks, LEGOLAND Discovery Centre, ArtVo immersive gallery, SEA LIFE Melbourne Aquarium, indoor play centres like Lollipops and Chipmunks, trampoline parks, bowling alleys, escape rooms for older kids, and ACMI at Federation Square.
+
+**What indoor activities are free for kids in Melbourne?**
+Free indoor activities include the Melbourne Museum and Immigration Museum (free for children under 16), the NGV permanent collection, the State Library of Victoria, ACMI at Federation Square, and library holiday programs run by every Melbourne council. Many councils also run free indoor holiday workshops.
+
+**What are the best indoor play centres in Melbourne?**
+Popular indoor play centres in Melbourne include Lollipops Playland (multiple locations), Chipmunks (Boronia, Dandenong South), Inflatable World, Funfields (Whittlesea, partly indoor), and various local centres across the suburbs. Most offer sessions for toddlers through to age 12 and cost between $12 and $25 per child.
+
+**Are there escape rooms suitable for kids in Melbourne?**
+Yes. Several Melbourne escape rooms offer family-friendly rooms suitable for children aged about 8 and over. Popular options include Escape Hunt Melbourne (CBD), Strike Bowling escape rooms, and Trapt in the CBD. Most require at least one adult per group and offer rooms rated by difficulty.
+
+---
+
+## Sources
+
+1. Museums Victoria — Melbourne Museum, Scienceworks, and Immigration Museum visitor information and holiday programs. museumsvictoria.com.au
+2. National Gallery of Victoria — NGV Kids holiday programs and visiting information. ngv.vic.gov.au
+3. ACMI — Australian Centre for the Moving Image visitor guide and school holiday programming. acmi.net.au
+4. State Library of Victoria — School holiday program listings. slv.vic.gov.au
+5. LEGOLAND Discovery Centre Melbourne — Pricing and visitor information. legolanddiscoverycentre.com/melbourne
+
+Venue details, pricing, and programming are based on published 2025–2026 information and are subject to change. We recommend confirming current details directly with each venue before visiting. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For outdoor options and a broader view of school holiday planning, see our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide and our guide to [indoor playgrounds in Melbourne](/blog/indoor-playgrounds-melbourne).*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'school-holiday-programs-victoria-2026',
+    title: 'School Holiday Programs Victoria 2026: Best Camps, Workshops & Courses',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best school holiday programs across Victoria for 2026. Sports camps, STEM workshops, art courses, drama programs — metro and regional, with pricing and booking info.',
+    readTime: '18 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'school-holidays',
+    tags: ["school-holidays", "victoria", "holiday-programs", "camps", "workshops", "kids", "family"],
+    faqs: [
+    { q: 'What are the best school holiday programs in Victoria for 2026?', a: 'The best school holiday programs in Victoria include Australian Sports Camps (multi-sport, state-wide), Code Camp (coding and STEM), Melbourne Zoo and Healesville Sanctuary holiday programs, ArtPlay workshops (Birrarung Marr), Melbourne Theatre Company youth programs, council-run programs across all metropolitan and regional councils, and specialist camps in surfing, horse riding, bush skills, and more.' },
+    { q: 'How much do school holiday programs cost in Victoria?', a: 'Costs vary widely. Free council programs are available in every municipality. Council-subsidised programs typically cost $5 to $30 per session. Private sports camps range from $50 to $100 per day. Specialist multi-day camps (coding, drama, outdoor education) range from $60 to $150 per day. Residential camps can cost $300 to $800 or more for a multi-day experience.' },
+    { q: 'When should I book school holiday programs in Victoria?', a: 'For popular programs, book 2 to 4 weeks before the holiday period begins. Council programs are usually published 2 to 3 weeks before each break and popular sessions fill within days. Private providers like Australian Sports Camps and Code Camp often open bookings 4 to 6 weeks ahead. Residential camps may require booking months in advance.' },
+    { q: 'Are there school holiday programs in regional Victoria?', a: 'Yes. Regional councils across Victoria run school holiday programs, and several state-wide providers (Australian Sports Camps, Code Camp) run programs in regional centres. Geelong, Ballarat, Bendigo, Shepparton, and the Mornington Peninsula all have dedicated holiday program offerings from both council and private providers.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "School Holiday Programs Victoria 2026: Best Camps, Workshops & Courses",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/school-holiday-programs-victoria-2026-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best school holiday programs in Victoria for 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best programs include Australian Sports Camps, Code Camp, Melbourne Zoo and Healesville Sanctuary programs, ArtPlay workshops, Melbourne Theatre Company youth programs, council-run programs, and specialist camps in surfing, horse riding, and bush skills."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do school holiday programs cost in Victoria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Free council programs are available everywhere. Council-subsidised programs cost $5–$30 per session. Private sports camps range from $50–$100 per day. Specialist multi-day camps cost $60–$150 per day. Residential camps can cost $300–$800 or more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I book school holiday programs in Victoria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Book 2 to 4 weeks before holidays. Council programs fill within days of being published. Private providers open bookings 4 to 6 weeks ahead. Residential camps may require months of advance booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there school holiday programs in regional Victoria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Regional councils run programs, and state-wide providers operate in regional centres. Geelong, Ballarat, Bendigo, Shepparton, and the Mornington Peninsula all have dedicated holiday program offerings."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="School Holiday Programs Victoria 2026: Best Camps, Workshops & Courses" />
+<meta property="og:description" content="Best school holiday programs in Victoria 2026. Sports camps, STEM, art, drama — metro and regional, with pricing." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/school-holiday-programs-victoria-2026-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/school-holiday-programs-victoria-2026" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="School Holiday Programs Victoria 2026: Best Camps, Workshops & Courses" />
+<meta name="twitter:description" content="Best school holiday programs in Victoria 2026. Sports camps, STEM, art, drama — with pricing and booking info." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/school-holiday-programs-victoria-2026-hero.jpg" />
+
+# School Holiday Programs Victoria 2026: Best Camps, Workshops & Courses
+
+**Victorian school holidays don't have to mean two weeks of screen time and boredom. From multi-sport camps and coding workshops to drama courses, art studios, wildlife encounters, and outdoor adventure programs, Victoria has hundreds of structured school holiday programs for children of every age and interest. This comprehensive guide covers the best options across metropolitan Melbourne and regional Victoria — with pricing, age recommendations, and booking tips for every break in 2026.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [2026 Victorian School Holiday Dates](#2026-victorian-school-holiday-dates)
+- [Sports Camps and Active Programs](#sports-camps-and-active-programs)
+- [STEM, Coding and Technology Programs](#stem-coding-and-technology-programs)
+- [Art, Drama and Creative Workshops](#art-drama-and-creative-workshops)
+- [Nature, Wildlife and Outdoor Programs](#nature-wildlife-and-outdoor-programs)
+- [Council-Run Holiday Programs](#council-run-holiday-programs)
+- [Regional Victoria Holiday Programs](#regional-victoria-holiday-programs)
+- [Residential and Overnight Camps](#residential-and-overnight-camps)
+- [Booking Tips and What to Know](#booking-tips-and-what-to-know)
+- [Pricing Comparison Guide](#pricing-comparison-guide)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/school-holiday-programs-victoria-2026-hero.jpg" alt="Children participating in a school holiday sports camp on a Melbourne oval" width="1200" height="630" loading="eager" />
+<figcaption>School holiday programs keep kids active, social, and learning — and give parents a break too.</figcaption>
+
+## 2026 Victorian School Holiday Dates
+
+Victorian government school holiday dates for 2026:
+
+- **Term 1 holidays:** 28 March – 13 April
+- **Term 2 holidays:** 27 June – 12 July
+- **Term 3 holidays:** 19 September – 4 October
+- **Term 4 holidays:** 19 December 2026 – 26 January 2027
+
+Catholic and independent schools may have slightly different dates. Most holiday program providers align with government school dates, but check individual programs for exact operating dates.
+
+Holiday programs typically run Monday to Friday during the break, with most offering full-day (9am–3:30pm or similar) and some offering half-day options. Before and after-care extensions are available from some providers.
+
+## Sports Camps and Active Programs
+
+### Australian Sports Camps
+Australian Sports Camps (ASC) is one of the largest multi-sport holiday program providers in Australia. They run camps across Victoria at various venues during each school break. Sports offered include basketball, netball, soccer, AFL, cricket, tennis, hockey, and multi-sport programs. Programs are typically full-day (9am–3pm) and run for 3 to 5 days.
+
+**Ages:** 6–16 (varies by sport)
+**Cost:** Approximately $70–90 per day, or $200–350 for a 3–5 day camp. Multi-child discounts available.
+**Locations:** Various venues across Melbourne and selected regional centres.
+
+### Tennis Australia Holiday Programs
+Tennis Australia and affiliated clubs across Victoria run school holiday tennis programs ranging from beginner to advanced. Programs are available at Melbourne Park and at hundreds of local tennis clubs.
+
+**Ages:** 4–16
+**Cost:** From approximately $30–60 per half-day session, or $150–250 for a week.
+**Locations:** Melbourne Park and local clubs state-wide.
+
+### AFL Auskick and Club Holiday Programs
+Many AFL clubs and local football leagues run holiday clinics, often featuring current or former players as coaches. Programs focus on skills development, teamwork, and game play.
+
+**Ages:** 5–14
+**Cost:** From approximately $40–70 per day.
+**Locations:** Various suburban ovals and club facilities across Melbourne and regional Victoria.
+
+### Swimming and Water Sports Programs
+During warmer holiday periods (Term 1, Term 4), swimming programs are popular:
+
+- **Council aquatic centres:** Most run holiday intensive swimming programs. Cost from $50–100 per week for daily lessons.
+- **Surf schools (Torquay, Anglesea, Phillip Island):** Holiday surf programs for children aged 7+. Cost from $60–80 per session.
+- **Sailing and kayaking:** Programs through yacht clubs and outdoor education providers along Port Phillip Bay and regional waterways.
+
+### Gymnastics and Dance Holiday Programs
+Most metropolitan gymnastics clubs run school holiday programs featuring recreational gymnastics, trampoline, tumbling, and parkour. Dance studios across Melbourne also run holiday workshops in various styles.
+
+**Ages:** 3–16
+**Cost:** Gymnastics from $30–60 per session. Dance workshops from $20–50 per session.
+
+## STEM, Coding and Technology Programs
+
+### Code Camp
+Code Camp is one of Australia's largest kids' coding education providers and runs school holiday programs across Victoria. Programs teach coding through game design, app development, and other project-based activities using age-appropriate platforms.
+
+**Ages:** 5–13 (programs divided by age and experience level)
+**Cost:** Approximately $70–90 per day, or $200–350 for a 3–5 day camp.
+**Locations:** Schools and community centres across Melbourne and selected regional centres.
+
+### Robogals and Robotics Programs
+Several providers run robotics and engineering programs during school holidays, including LEGO Robotics workshops, drone programming, and 3D printing. Providers include Robogals, Bricks4Kidz, and various local maker spaces.
+
+**Ages:** 6–15
+**Cost:** From $50–90 per day.
+**Locations:** Various venues across Melbourne.
+
+### Scienceworks Holiday Programs
+Scienceworks in Spotswood runs themed STEM workshops during each school break, including engineering challenges, chemistry experiments, and astronomy sessions. These complement the museum's permanent exhibits and are popular with science-oriented children.
+
+**Ages:** 5–14
+**Cost:** From $10–30 per workshop (in addition to museum entry, which is free for under 16s).
+**Location:** 2 Booker Street, Spotswood
+
+### Melbourne Planetarium
+The Melbourne Planetarium at Scienceworks runs special holiday shows and astronomy workshops. These are immersive and educational, covering topics from the solar system to space exploration.
+
+**Ages:** 5+
+**Cost:** Approximately $6–10 per session.
+
+## Art, Drama and Creative Workshops
+
+### ArtPlay (Birrarung Marr)
+ArtPlay in Birrarung Marr, next to Federation Square, is a dedicated children's arts centre run by the City of Melbourne. During school holidays, ArtPlay runs workshops in visual arts, music, performance, and digital art. Programs are led by professional artists and are consistently high quality.
+
+**Ages:** 3–11 (programs divided by age)
+**Cost:** Free to low-cost (typically $5–20 per workshop).
+**Location:** Birrarung Marr, Melbourne
+
+### Melbourne Theatre Company — Youth Programs
+MTC runs school holiday workshops for young people interested in drama, acting, and theatre. Programs include acting intensives, playwriting workshops, and backstage experiences.
+
+**Ages:** 8–17
+**Cost:** From approximately $50–120 per workshop.
+**Location:** Southbank Theatre, Southbank
+
+### NGV Kids Holiday Programs
+The National Gallery of Victoria runs art workshops for children during every school break, often linked to current exhibitions. Activities include drawing, painting, printmaking, sculpture, and mixed media. Programs are popular and book out quickly.
+
+**Ages:** 3–15 (programs divided by age)
+**Cost:** Free to approximately $20 per workshop.
+**Location:** NGV International (St Kilda Road) and NGV Australia (Federation Square)
+
+### Music Holiday Workshops
+Several music schools across Melbourne run holiday programs:
+
+- **Melbourne Recital Centre:** Occasional family workshops and concerts during holidays.
+- **Local music schools:** Many offer holiday group workshops in guitar, drums, piano, and band programs.
+- **Rock school programs:** School of Rock and similar providers run band-style holiday intensives for children aged 8+.
+
+**Cost:** From $30–80 per session, depending on provider and duration.
+
+## Nature, Wildlife and Outdoor Programs
+
+### Melbourne Zoo Holiday Programs
+Melbourne Zoo runs structured school holiday programs called Zoo Holidays, where children participate in animal encounters, conservation activities, keeper talks, and behind-the-scenes experiences. Programs run for full or half days.
+
+**Ages:** 5–14 (programs divided by age)
+**Cost:** From approximately $70–100 per day.
+**Location:** Elliott Avenue, Parkville
+
+### Healesville Sanctuary Holiday Programs
+Healesville Sanctuary in the Yarra Valley runs similar programs to Melbourne Zoo, with a focus on Australian native wildlife. Activities include platypus and bird encounters, bushwalks, and conservation education.
+
+**Ages:** 5–14
+**Cost:** From approximately $60–90 per day.
+**Location:** Badger Creek Road, Healesville
+
+### Parks Victoria Junior Rangers
+Parks Victoria runs the Junior Rangers program during school holidays at national and state parks across Victoria. Activities include guided bushwalks, wildlife spotting, nature craft, and environmental education. These programs are free or very low-cost and run in parks across the state.
+
+**Ages:** 4–14
+**Cost:** Free or gold coin donation.
+**Locations:** Various parks state-wide — check the Parks Victoria website for each holiday period.
+
+### Bush and Outdoor Adventure Camps
+Several providers run outdoor adventure programs during school holidays:
+
+- **The Outdoor Education Group:** Runs multi-day adventure camps including bushwalking, rock climbing, canoeing, and camping. Residential and day options available.
+- **YMCA Camps:** YMCA Victoria runs residential and day camps at several locations including Camp Manyung (Mt Eliza), Camp Iluka (Shoreham), and Camp Doxa (Eildon). Activities include high ropes, archery, swimming, and team challenges.
+
+**Ages:** 7–17 (varies by program)
+**Cost:** Day camps from $80–120 per day. Residential camps from $300–800 for multi-day programs.
+
+## Council-Run Holiday Programs
+
+Every local council across metropolitan Melbourne and regional Victoria runs school holiday programs. These are often the most affordable option and are available in every part of the state.
+
+### What Councils Offer
+Council programs typically include:
+- Free library programs (craft, coding, LEGO, storytelling)
+- Subsidised sports clinics
+- Nature and environmental activities
+- Arts and craft workshops
+- Excursions to local attractions
+- Youth programs for teenagers
+
+### How to Find Your Council's Programs
+Programs are published on each council's website, typically 2–3 weeks before each holiday period. Popular sessions fill fast — set a reminder to check when programs are released. Most councils use online booking systems.
+
+### Sample Council Programs
+- **City of Melbourne:** ArtPlay workshops, library programs, Melbourne Town Hall activities
+- **City of Monash:** Sports clinics, arts programs, nature walks
+- **City of Casey:** Extensive holiday program across Berwick, Narre Warren, and Cranbourne — see our guides to [things to do in Berwick with kids](/blog/things-to-do-berwick-kids) and [things to do in Narre Warren with kids](/blog/things-to-do-narre-warren-kids)
+- **City of Greater Geelong:** Library programs, sports, cultural activities — see our guide to [school holiday activities in Geelong](/blog/school-holiday-activities-geelong-2026)
+- **City of Greater Bendigo:** Library programs, arts, and nature activities — see our guide to [school holiday activities in Bendigo](/blog/school-holiday-activities-bendigo-2026)
+
+## Regional Victoria Holiday Programs
+
+### Geelong and Surf Coast
+Geelong has a strong holiday program scene. See our dedicated guide to [school holiday activities in Geelong 2026](/blog/school-holiday-activities-geelong-2026) for full details including Adventure Park, Narana Cultural Centre, and council programs.
+
+### Ballarat
+Ballarat's holiday offerings include Sovereign Hill workshops, the Art Gallery of Ballarat, and council programs through the City of Ballarat. See our guide to [school holiday activities in Ballarat 2026](/blog/school-holiday-activities-ballarat-2026).
+
+### Bendigo
+Bendigo offers Discovery Science and Technology Centre programs, Central Deborah Gold Mine, and extensive council programs. See our dedicated guide to [school holiday activities in Bendigo 2026](/blog/school-holiday-activities-bendigo-2026).
+
+### Mornington Peninsula
+The Mornington Peninsula has a rich mix of holiday programs leveraging its natural assets. See our guide to [Mornington Peninsula school holidays 2026](/blog/mornington-peninsula-school-holidays-2026) for full details.
+
+### Yarra Valley and Dandenong Ranges
+Nature-based and farm-based holiday programs in the Yarra Valley. See our guide to [kids activities in the Yarra Valley](/blog/kids-activities-yarra-valley).
+
+### Other Regional Centres
+Shepparton, Warrnambool, Mildura, Wodonga, and Traralgon all have council-run holiday programs. Check individual council websites for each holiday period.
+
+## Residential and Overnight Camps
+
+For older children (typically 7–17), residential camps offer multi-day immersive experiences:
+
+### YMCA Camps Victoria
+YMCA runs several camp properties across Victoria:
+- **Camp Manyung (Mt Eliza):** Close to Melbourne, on the Mornington Peninsula. Activities include high ropes, giant swing, archery, and swimming.
+- **Camp Iluka (Shoreham):** Coastal camp with beach activities, surfing, and team challenges.
+- **Camp Doxa (Eildon):** Inland camp with bushwalking, canoeing on Eildon reservoir, and mountain biking.
+
+**Ages:** 7–17
+**Cost:** From approximately $300–600 for 3–5 day programs (all meals and activities included).
+
+### The Outdoor Education Group
+Runs adventure-focused residential camps including multi-day bushwalks, rock climbing camps, and kayaking expeditions. Programs are challenging and designed to build resilience, teamwork, and outdoor skills.
+
+**Ages:** 10–17
+**Cost:** From approximately $400–800 for multi-day programs.
+
+### Specialist Residential Camps
+- **Horse riding camps** — several equestrian centres in regional Victoria offer multi-day riding programs during holidays.
+- **Surf camps** — residential surf programs on the Surf Coast and Phillip Island.
+- **Farm stays** — hands-on farm experience camps in Gippsland, Western Districts, and the Yarra Valley.
+
+## Booking Tips and What to Know
+
+### When to Book
+- **Council programs:** Released 2–3 weeks before each break. Book on release day for popular sessions.
+- **Large providers (ASC, Code Camp):** Open bookings 4–6 weeks ahead. Early bird discounts sometimes available.
+- **Residential camps:** Book months in advance, especially for summer holidays.
+- **Zoo and museum programs:** Released 3–4 weeks ahead. Book quickly as these are popular.
+
+### What to Check Before Booking
+- **Age suitability:** Programs are divided by age. Check exact age requirements.
+- **What's included:** Lunch, snacks, and equipment are included in some programs but not all. Pack accordingly.
+- **Drop-off and pick-up times:** Most programs run 9am–3:30pm. Some offer before-care (from 7:30am) and after-care (until 6pm) for an additional fee.
+- **Cancellation policy:** Check refund and cancellation terms, especially for paid programs.
+- **CCS eligibility:** Some holiday programs are eligible for the Child Care Subsidy (CCS), which can significantly reduce costs. Check with the provider.
+
+### Child Care Subsidy (CCS)
+Some Outside School Hours Care (OSHC) providers and approved holiday programs are eligible for the federal Child Care Subsidy. If you use an approved provider, you may be able to claim a subsidy that covers 50% to 90% of the cost depending on your family income. Check whether a program is CCS-approved before booking, as this can make a substantial difference to cost.
+
+## Pricing Comparison Guide
+
+| Program Type | Typical Daily Cost | Notes |
+|---|---|---|
+| Council library programs | Free | Book early |
+| Council sports clinics | $5–30 | Subsidised |
+| Parks Victoria Junior Rangers | Free | Various parks |
+| ArtPlay workshops | Free–$20 | Limited places |
+| Museum/gallery workshops | $10–30 | Plus entry (free for kids at some) |
+| Multi-sport camp (ASC etc) | $70–90 | 3–5 day options |
+| Coding camp (Code Camp etc) | $70–90 | 3–5 day options |
+| Zoo/Sanctuary programs | $60–100 | Full-day |
+| Drama/theatre workshops | $50–120 | Half or full day |
+| Tennis/swimming programs | $30–60 | Half-day sessions |
+| Residential camp (per night) | $100–200 | All-inclusive |
+
+## Frequently Asked Questions
+
+**What are the best school holiday programs in Victoria for 2026?**
+The best school holiday programs in Victoria include Australian Sports Camps (multi-sport, state-wide), Code Camp (coding and STEM), Melbourne Zoo and Healesville Sanctuary holiday programs, ArtPlay workshops (Birrarung Marr), Melbourne Theatre Company youth programs, council-run programs across all metropolitan and regional councils, and specialist camps in surfing, horse riding, bush skills, and more.
+
+**How much do school holiday programs cost in Victoria?**
+Costs vary widely. Free council programs are available in every municipality. Council-subsidised programs typically cost $5 to $30 per session. Private sports camps range from $50 to $100 per day. Specialist multi-day camps range from $60 to $150 per day. Residential camps can cost $300 to $800 or more for a multi-day experience.
+
+**When should I book school holiday programs in Victoria?**
+For popular programs, book 2 to 4 weeks before the holiday period begins. Council programs are usually published 2 to 3 weeks before each break and popular sessions fill within days. Private providers often open bookings 4 to 6 weeks ahead. Residential camps may require booking months in advance.
+
+**Are there school holiday programs in regional Victoria?**
+Yes. Regional councils across Victoria run school holiday programs, and several state-wide providers run programs in regional centres. Geelong, Ballarat, Bendigo, Shepparton, and the Mornington Peninsula all have dedicated holiday program offerings.
+
+---
+
+## Sources
+
+1. Victorian Department of Education — 2026 school term dates and holidays. education.vic.gov.au
+2. Australian Sports Camps — Program listings, pricing, and booking information. australiansportscamps.com.au
+3. Code Camp — Holiday coding programs for kids in Victoria. codecamp.com.au
+4. Zoos Victoria — Melbourne Zoo and Healesville Sanctuary holiday programs. zoo.org.au
+5. Parks Victoria — Junior Rangers holiday program listings. parks.vic.gov.au
+6. City of Melbourne — ArtPlay and council holiday program information. melbourne.vic.gov.au
+7. YMCA Victoria — Camp programs and residential holiday options. victoria.ymca.org.au
+
+Program details, dates, and pricing are based on published 2025–2026 programming and are subject to change. We recommend confirming current details directly with each provider before booking. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For Melbourne-specific programs, see our [school holiday programs in Melbourne 2026](/blog/school-holiday-programs-melbourne-2026) guide. For free options, see our guide to [free school holiday activities in Melbourne](/blog/free-school-holiday-activities-melbourne-2026).*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'mornington-peninsula-school-holidays-2026',
+    title: 'Mornington Peninsula School Holidays 2026: Family Activities & Day Trips',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best family activities on the Mornington Peninsula during school holidays 2026. Beaches, mazes, berry farms, hot springs, and a sample day trip itinerary from Melbourne.',
+    readTime: '16 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'school-holidays',
+    tags: ["school-holidays", "mornington-peninsula", "beaches", "family", "kids", "day-trips"],
+    faqs: [
+    { q: 'What are the best school holiday activities on the Mornington Peninsula?', a: 'The best school holiday activities on the Mornington Peninsula include Ashcombe Maze and Lavender Gardens, Enchanted Adventure Garden, Sunny Ridge Strawberry Farm (seasonal), Peninsula Hot Springs (family bathing), the beaches at Rye, Sorrento, and Portsea, Arthur\'s Seat Eagle chairlift, the Mornington Peninsula Regional Gallery, and the many walking trails and nature reserves along the coast.' },
+    { q: 'How far is the Mornington Peninsula from Melbourne?', a: 'The Mornington Peninsula begins about 60 kilometres south of Melbourne CBD. Mornington is about 1 hour from the city. Sorrento and Portsea at the tip of the peninsula are about 1.5 hours from Melbourne via the Mornington Peninsula Freeway and Point Nepean Road.' },
+    { q: 'Are there free activities on the Mornington Peninsula for kids?', a: 'Yes. Free activities include beach days at Rye, Sorrento, and Portsea back beaches, bushwalks in the Mornington Peninsula National Park, rock pool exploration at Sorrento and Portsea, the Rye foreshore playground, and walking trails at Greens Bush and other reserves. Some councils run free holiday activities too.' },
+    { q: 'Can you visit Peninsula Hot Springs with kids?', a: 'Yes. Peninsula Hot Springs has a dedicated family bathing area with pools suitable for children. The family area is separate from the adult-only bathing areas. Children of all ages are welcome in the family section. Entry prices vary by season and session — check the website for current family pricing.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Mornington Peninsula School Holidays 2026: Family Activities & Day Trips",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/mornington-peninsula-school-holidays-2026-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best school holiday activities on the Mornington Peninsula?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best activities include Ashcombe Maze, Enchanted Adventure Garden, Sunny Ridge Strawberry Farm, Peninsula Hot Springs family bathing, beaches at Rye, Sorrento and Portsea, Arthur's Seat Eagle chairlift, and coastal walking trails."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is the Mornington Peninsula from Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mornington is about 1 hour from Melbourne CBD. Sorrento and Portsea at the tip are about 1.5 hours via the Mornington Peninsula Freeway."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there free activities on the Mornington Peninsula for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Free activities include beaches at Rye, Sorrento and Portsea, bushwalks in the Mornington Peninsula National Park, rock pool exploration, the Rye foreshore playground, and walking trails at Greens Bush."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you visit Peninsula Hot Springs with kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Peninsula Hot Springs has a dedicated family bathing area with pools suitable for children of all ages, separate from adult-only areas."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="Mornington Peninsula School Holidays 2026: Family Activities & Day Trips" />
+<meta property="og:description" content="Best family activities on the Mornington Peninsula during school holidays 2026. Beaches, mazes, berry farms, hot springs, and day trip itineraries." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/mornington-peninsula-school-holidays-2026-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/mornington-peninsula-school-holidays-2026" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Mornington Peninsula School Holidays 2026: Family Activities & Day Trips" />
+<meta name="twitter:description" content="Best family activities on the Mornington Peninsula for school holidays 2026." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/mornington-peninsula-school-holidays-2026-hero.jpg" />
+
+# Mornington Peninsula School Holidays 2026: Family Activities & Day Trips
+
+**The Mornington Peninsula is one of Melbourne's favourite family getaways, and during school holidays it comes alive with activities. From stunning beaches and rock pools to mazes, berry picking, hot springs, coastal walks, and wildlife encounters, the peninsula offers enough to fill a full week of holiday fun — or makes an excellent day trip from the city. This guide covers the best family activities for every school break in 2026, with a sample day-trip itinerary from Melbourne.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [Getting to the Mornington Peninsula](#getting-to-the-mornington-peninsula)
+- [Best Beaches for Families](#best-beaches-for-families)
+- [Top Paid Attractions](#top-paid-attractions)
+- [Free and Low-Cost Activities](#free-and-low-cost-activities)
+- [Winter and Rainy Day Activities](#winter-and-rainy-day-activities)
+- [Walking Trails and Nature Experiences](#walking-trails-and-nature-experiences)
+- [Where to Eat With Kids](#where-to-eat-with-kids)
+- [Sample Day Trip From Melbourne](#sample-day-trip-from-melbourne)
+- [Sample 3-Day Holiday Itinerary](#sample-3-day-holiday-itinerary)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/mornington-peninsula-school-holidays-2026-hero.jpg" alt="Family walking along a sandy Mornington Peninsula beach with calm bay water" width="1200" height="630" loading="eager" />
+<figcaption>The Mornington Peninsula's beaches, attractions, and natural beauty make it one of Victoria's best school holiday destinations.</figcaption>
+
+## Getting to the Mornington Peninsula
+
+### By Car
+The Mornington Peninsula is accessible from Melbourne via the Mornington Peninsula Freeway (M11), which connects to the Monash Freeway (M1) and EastLink. Key driving times from Melbourne CBD:
+
+- **Mornington:** Approximately 1 hour
+- **Dromana and Arthur's Seat:** Approximately 1 hour 10 minutes
+- **Rosebud and Rye:** Approximately 1 hour 15 minutes
+- **Sorrento and Portsea:** Approximately 1 hour 30 minutes
+
+Allow extra time during school holiday periods, especially on sunny weekend days when the peninsula roads can be busy. The stretch of Point Nepean Road between Dromana and Sorrento is single-lane and can slow to a crawl on peak days.
+
+### By Public Transport
+Bus routes run from Frankston Station (accessible by Metro train from Melbourne) down the peninsula to Portsea. Route 788 is the main service. The trip from Frankston to Sorrento takes about 1 hour and 40 minutes. While possible, public transport on the peninsula is slower than driving and less practical for families with young children wanting to visit multiple attractions.
+
+### By Ferry
+The Queenscliff–Sorrento ferry crosses the mouth of Port Phillip Bay, connecting the Bellarine Peninsula to the Mornington Peninsula. The crossing takes about 40 minutes and is an activity in itself — look for dolphins during the crossing. The ferry takes cars and passengers. For families coming from Geelong or the Bellarine, this is a scenic alternative to driving around the bay through Melbourne.
+
+## Best Beaches for Families
+
+The Mornington Peninsula has beaches on both sides — calm bay beaches on the Port Phillip Bay side and wilder ocean beaches on the Bass Strait side. For families with young children, the bay beaches are generally safer and calmer.
+
+### Bay Side Beaches (Calmer Water)
+
+**Rye Beach**
+Rye is one of the peninsula's most popular family beaches. The water is shallow and calm, with a gentle sand bottom that's ideal for toddlers and young swimmers. The foreshore has a large playground, barbecue facilities, and a grassy picnic area shaded by ti-tree and pines. Rye also has good fish and chip shops and cafes nearby.
+
+**Sorrento Front Beach**
+Sorrento's main beach is a small, sheltered bay beach with calm water and a pier. The town itself is charming with cafes, gift shops, and ice cream. Sorrento is the departure point for the ferry to Queenscliff and for dolphin-swimming tours.
+
+**Mornington Main Beach**
+A calm bay beach close to the Mornington town centre. Good facilities, lifeguards in summer, and close to cafes and shops on Main Street.
+
+**Safety Beach**
+A wide, shallow, calm beach ideal for young children. Less crowded than Rye on peak days.
+
+### Ocean Side Beaches (Stronger Surf)
+
+**Portsea Back Beach**
+A beautiful ocean beach with stronger surf and rock pools. Suited to older children who are confident swimmers. The London Bridge rock formation walk starts nearby.
+
+**Gunnamatta Beach**
+A long, dramatic surf beach. Strong currents and surf — suited to experienced swimmers and surfers only. Lifeguard patrolled in summer.
+
+**St Andrews Beach**
+A quieter ocean beach accessed through tea-tree tracks. Beautiful but unpatrolled.
+
+## Top Paid Attractions
+
+### Enchanted Adventure Garden
+Located in Arthurs Seat, the Enchanted Adventure Garden is a 25-acre garden featuring hedge mazes, tube slides, zip lines, an enchanted grotto, and a bush maze. It's one of the peninsula's most popular family attractions during school holidays. Allow 2–3 hours for a visit.
+
+**Cost:** From approximately $30–40 per person. Family passes available.
+**Ages:** All ages (some activities have height restrictions)
+**Location:** 55 Purves Road, Arthurs Seat
+
+### Ashcombe Maze and Lavender Gardens
+Ashcombe has hedge mazes (including one of Australia's oldest), a rose garden, a lavender labyrinth, and a cafe. During school holidays, the maze runs additional activities for children. It's a more gentle, garden-focused experience than Enchanted Adventure Garden.
+
+**Cost:** From approximately $20–28 per person.
+**Ages:** All ages
+**Location:** 15 Shoreham Road, Shoreham
+
+### Arthur's Seat Eagle
+The Arthur's Seat Eagle is a modern gondola-style chairlift that takes passengers from the base of Arthur's Seat to the summit, offering panoramic views of Port Phillip Bay, the peninsula, and on clear days, the city skyline. The ride takes about 10 minutes each way. At the summit there are walking trails, a cafe, and a lookout.
+
+**Cost:** From approximately $25–35 per adult, $16–22 per child.
+**Ages:** All ages (children must be accompanied by an adult)
+**Location:** 795 Arthurs Seat Road, Arthurs Seat
+
+### Peninsula Hot Springs
+Peninsula Hot Springs in Fingal is Australia's first natural hot springs bathing centre. The facility has a family bathing area with geothermal pools of varying temperatures suitable for children. The experience is relaxing for parents and fun for kids who enjoy pool-hopping between temperatures.
+
+**Cost:** From approximately $30–65 per person depending on session and time. Children's pricing available. Book in advance as sessions sell out during holidays.
+**Ages:** All ages in family area. Some bathing areas are adults-only.
+**Location:** Springs Lane, Fingal
+
+### Sunny Ridge Strawberry Farm
+During strawberry season (approximately November to May), Sunny Ridge in Main Ridge offers pick-your-own strawberry experiences. Children love picking their own berries, and the farm also has a cafe with strawberry-themed treats.
+
+**Cost:** Entry to picking fields from approximately $5 per person plus the cost of berries picked.
+**Ages:** All ages
+**Location:** 244 Shands Road, Main Ridge
+**Note:** Seasonal — check opening dates for each holiday period.
+
+### Moonlit Sanctuary Wildlife Conservation Park
+Moonlit Sanctuary in Pearcedale offers Australian wildlife encounters in a bushland setting. Highlights include koalas, dingoes, quolls, owls, and the chance to hand-feed kangaroos and wallabies. Evening lantern-lit tours allow visitors to see nocturnal animals.
+
+**Cost:** From approximately $25–35 per adult, $14–20 per child.
+**Ages:** All ages
+**Location:** 550 Tyabb-Tooradin Road, Pearcedale
+
+## Free and Low-Cost Activities
+
+### Rock Pool Exploration
+The rock platforms at Sorrento back beach, Portsea back beach, and Flinders are excellent for rock pooling at low tide. Children can find sea stars, crabs, anemones, sea urchins, and small fish. This is one of the peninsula's best free activities and works year-round (though cold in winter).
+
+**Tip:** Check tide times before visiting. Low tide is essential. Wear enclosed water shoes.
+
+### Mornington Peninsula National Park
+Point Nepean, at the tip of the peninsula within the Mornington Peninsula National Park, is a remarkable landscape of bushland, coastal dunes, and military history. The park has walking and cycling trails, Fort Nepean (a historic military fortification), and stunning views at the heads of Port Phillip Bay.
+
+**Cost:** Free entry. Bike hire available at the park entrance.
+**Location:** Point Nepean Road, Portsea
+
+### Greens Bush Walk
+Greens Bush is the largest area of remnant bushland on the Mornington Peninsula. Several walking trails wind through the bush, and it's an excellent spot for birdwatching and seeing kangaroos and echidnas. The trails are mostly flat and suitable for families.
+
+**Cost:** Free
+**Location:** Accessible from Baldry's Crossing Road or Boneo Road.
+
+### Rye Foreshore Playground
+A large, modern playground on the Rye foreshore, adjacent to the beach. Combine with a beach day for a full free outing.
+
+### Balnarring and Merricks Beaches
+Quieter beaches on the Western Port Bay side of the peninsula, with calm water and fewer crowds. Balnarring beach has a foreshore reserve and picnic facilities.
+
+## Winter and Rainy Day Activities
+
+School holidays in June–July bring cooler weather, but the peninsula still has plenty to offer:
+
+- **Peninsula Hot Springs** — hot springs bathing is arguably even better in winter
+- **Enchanted Adventure Garden** — operates year-round including the tube slides
+- **Ashcombe Maze** — open year-round
+- **Mornington Peninsula Regional Gallery** — free entry, regular exhibitions and family programs
+- **Cinema Mornington** — school holiday movie sessions
+- **Indoor play centres** in Mornington and Frankston — see our [indoor activities Melbourne school holidays](/blog/indoor-activities-melbourne-school-holidays) guide
+
+For more rainy-day options near Frankston, see our guide to [things to do in Frankston with kids](/blog/things-to-do-frankston-kids).
+
+## Walking Trails and Nature Experiences
+
+The peninsula has excellent walking trails suited to families:
+
+- **Two Bays Walking Track** — sections of this trail between Dromana and Cape Schanck are suitable for families. The Cape Schanck section has dramatic coastal views.
+- **Bushrangers Bay Walk** — a moderate coastal walk from Cape Schanck to a secluded bay. About 4km return, suitable for children aged 6+.
+- **Arthur's Seat circuit walks** — several short walks from the summit with bay views.
+- **Seawinds Gardens** — a native garden near Arthur's Seat with easy paths and bird life.
+- **Point Nepean trails** — flat cycling and walking paths through the national park.
+
+## Where to Eat With Kids
+
+- **Rye foreshore fish and chips** — several options along the foreshore. Classic peninsula fare.
+- **Sorrento cafes** — the main strip has family-friendly cafes including Sorrento Cellars and several gelato shops.
+- **Red Hill Bakery** — a popular stop for pies and pastries.
+- **Mornington Main Street** — good range of cafes and restaurants with kids' menus.
+- **Farm-gate cafes** — several farms and wineries on the peninsula have cafes with outdoor seating and space for children. Main Ridge and Red Hill areas have several options.
+
+For more dining options, see our [Mornington Peninsula family guide](/blog/mornington-peninsula-family-guide) and our guide to [kids activities on the Mornington Peninsula](/blog/kids-activities-mornington-peninsula).
+
+## Sample Day Trip From Melbourne
+
+A well-planned day trip from Melbourne can cover multiple peninsula highlights:
+
+**8:30am** — Depart Melbourne via Monash Freeway and Peninsula Freeway
+**10:00am** — Arrive Arthur's Seat Eagle. Ride the chairlift to the summit and enjoy the views (45 minutes)
+**11:00am** — Enchanted Adventure Garden — hedge mazes and tube slides (1.5 hours)
+**12:30pm** — Drive to Sorrento for lunch at a waterfront cafe (20 minutes)
+**1:30pm** — Sorrento front beach — swimming, sandcastle building, pier walk (1.5 hours)
+**3:00pm** — Drive to Rye — foreshore playground and ice cream (15 minutes)
+**4:00pm** — Begin drive back to Melbourne (1.5 hours, allowing for traffic)
+
+**Alternative winter version:**
+Replace beach time with Peninsula Hot Springs (book in advance) and Ashcombe Maze.
+
+## Sample 3-Day Holiday Itinerary
+
+**Day 1 — Beaches and Waterfront:**
+- Rye beach morning — swimming, playground
+- Lunch at Rye foreshore
+- Afternoon at Sorrento — beach, pier, town walk
+- Evening: fish and chips at the foreshore
+
+**Day 2 — Attractions:**
+- Morning: Arthur's Seat Eagle + Enchanted Adventure Garden
+- Lunch at Red Hill (farm-gate cafe)
+- Afternoon: Sunny Ridge Strawberry Farm (seasonal) or Moonlit Sanctuary
+- Evening: Peninsula Hot Springs family session (book ahead)
+
+**Day 3 — Nature and Exploration:**
+- Morning: Point Nepean National Park — cycling or walking
+- Lunch: Sorrento or Portsea
+- Afternoon: Rock pools at low tide (Sorrento or Portsea back beach)
+- Return to Melbourne
+
+## Frequently Asked Questions
+
+**What are the best school holiday activities on the Mornington Peninsula?**
+The best school holiday activities on the Mornington Peninsula include Ashcombe Maze and Lavender Gardens, Enchanted Adventure Garden, Sunny Ridge Strawberry Farm (seasonal), Peninsula Hot Springs (family bathing), the beaches at Rye, Sorrento, and Portsea, Arthur's Seat Eagle chairlift, the Mornington Peninsula Regional Gallery, and the many walking trails and nature reserves along the coast.
+
+**How far is the Mornington Peninsula from Melbourne?**
+The Mornington Peninsula begins about 60 kilometres south of Melbourne CBD. Mornington is about 1 hour from the city. Sorrento and Portsea at the tip of the peninsula are about 1.5 hours from Melbourne via the Mornington Peninsula Freeway and Point Nepean Road.
+
+**Are there free activities on the Mornington Peninsula for kids?**
+Yes. Free activities include beach days at Rye, Sorrento, and Portsea back beaches, bushwalks in the Mornington Peninsula National Park, rock pool exploration at Sorrento and Portsea, the Rye foreshore playground, and walking trails at Greens Bush and other reserves.
+
+**Can you visit Peninsula Hot Springs with kids?**
+Yes. Peninsula Hot Springs has a dedicated family bathing area with pools suitable for children. The family area is separate from the adult-only bathing areas. Children of all ages are welcome in the family section.
+
+---
+
+## Sources
+
+1. Mornington Peninsula Shire — Visitor information and family activities. mornpen.vic.gov.au
+2. Parks Victoria — Mornington Peninsula National Park and Point Nepean visitor guide. parks.vic.gov.au
+3. Peninsula Hot Springs — Family bathing information and pricing. peninsulahotsprings.com
+4. Enchanted Adventure Garden — Visitor information and school holiday activities. enchantedadventuregarden.com.au
+5. Arthur's Seat Eagle — Pricing, opening hours, and visitor information. aseagle.com.au
+
+Information in this guide is based on published 2025–2026 data and is subject to change. We recommend confirming current details directly with each venue before visiting. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For more on the Mornington Peninsula, see our comprehensive [Mornington Peninsula family guide](/blog/mornington-peninsula-family-guide) and our guide to [kids activities on the Mornington Peninsula](/blog/kids-activities-mornington-peninsula). For holiday ideas closer to Melbourne, see our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide.*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'school-holiday-activities-ballarat-2026',
+    title: 'School Holiday Activities Ballarat 2026: Family Guide to Gold Country Fun',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best school holiday activities in Ballarat for 2026. Sovereign Hill, Ballarat Wildlife Park, galleries, nature walks — plus driving times and family itineraries.',
+    readTime: '15 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'school-holidays',
+    tags: ["school-holidays", "ballarat", "sovereign-hill", "regional-victoria", "kids", "family"],
+    faqs: [
+    { q: 'What are the best school holiday activities in Ballarat for kids?', a: 'The best school holiday activities in Ballarat include Sovereign Hill (gold rush living museum), Ballarat Wildlife Park, the Art Gallery of Ballarat, the Ballarat Botanical Gardens, Lake Wendouree walking and cycling, Kryal Castle, the Eureka Centre, and free council holiday programs through the City of Ballarat libraries.' },
+    { q: 'How far is Ballarat from Melbourne?', a: 'Ballarat is approximately 115 kilometres north-west of Melbourne, about 1 hour 20 minutes by car via the Western Freeway (M8). V/Line trains run regularly from Melbourne Southern Cross Station to Ballarat Station, taking about 1 hour 20 minutes.' },
+    { q: 'Is Sovereign Hill worth visiting during school holidays?', a: 'Yes. Sovereign Hill is one of Victoria\'s best family attractions and is particularly busy during school holidays, which means extra activities and demonstrations are often scheduled. Allow a full day. Arrive early (opening time) to avoid the biggest crowds and to get the most from your visit.' },
+    { q: 'Are there free activities in Ballarat for families?', a: 'Yes. Free activities include the Ballarat Botanical Gardens, Lake Wendouree walking and cycling trail, the Eureka Stockade memorial site, Ballarat library holiday programs, several playgrounds including the Victoria Park playground, and bushwalks in nearby Creswick and the Wombat State Forest.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "School Holiday Activities Ballarat 2026: Family Guide to Gold Country Fun",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/school-holiday-activities-ballarat-2026-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best school holiday activities in Ballarat for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best activities include Sovereign Hill, Ballarat Wildlife Park, the Art Gallery of Ballarat, Ballarat Botanical Gardens, Lake Wendouree, Kryal Castle, the Eureka Centre, and free council holiday programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Ballarat from Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ballarat is about 115 kilometres from Melbourne, approximately 1 hour 20 minutes by car via the Western Freeway or by V/Line train from Southern Cross Station."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Sovereign Hill worth visiting during school holidays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Sovereign Hill is one of Victoria's best family attractions. During school holidays extra activities are often scheduled. Allow a full day and arrive early to avoid crowds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there free activities in Ballarat for families?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Free activities include the Ballarat Botanical Gardens, Lake Wendouree trail, the Eureka Stockade memorial, library programs, playgrounds, and bushwalks in nearby Creswick and Wombat State Forest."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="School Holiday Activities Ballarat 2026: Family Guide to Gold Country Fun" />
+<meta property="og:description" content="Best school holiday activities in Ballarat 2026. Sovereign Hill, Wildlife Park, galleries, nature walks — with driving times and itineraries." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/school-holiday-activities-ballarat-2026-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/school-holiday-activities-ballarat-2026" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="School Holiday Activities Ballarat 2026: Family Guide to Gold Country Fun" />
+<meta name="twitter:description" content="Best school holiday activities in Ballarat 2026 — Sovereign Hill, Wildlife Park, free activities and itineraries." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/school-holiday-activities-ballarat-2026-hero.jpg" />
+
+# School Holiday Activities Ballarat 2026: Family Guide to Gold Country Fun
+
+**Ballarat is one of Victoria's great regional family destinations, and during school holidays it shines. From the immersive gold rush experience at Sovereign Hill to the hands-on Ballarat Wildlife Park, beautiful botanical gardens, lake walks, galleries, and free council programs, Ballarat offers a full holiday of activities for children of every age. Just over an hour from Melbourne, it works equally well as a day trip or a multi-day getaway. This guide covers the best school holiday activities in Ballarat for 2026.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [Getting to Ballarat From Melbourne](#getting-to-ballarat-from-melbourne)
+- [Sovereign Hill — The Must-Visit](#sovereign-hill-the-must-visit)
+- [Ballarat Wildlife Park](#ballarat-wildlife-park)
+- [Free Activities for Families](#free-activities-for-families)
+- [Arts, Culture and Indoor Activities](#arts-culture-and-indoor-activities)
+- [Nature Walks and Outdoor Adventures](#nature-walks-and-outdoor-adventures)
+- [Rainy Day and Winter Activities](#rainy-day-and-winter-activities)
+- [Where to Eat With Kids in Ballarat](#where-to-eat-with-kids-in-ballarat)
+- [Sample Itineraries](#sample-itineraries)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/school-holiday-activities-ballarat-2026-hero.jpg" alt="Family panning for gold at Sovereign Hill in Ballarat with costumed characters in the background" width="1200" height="630" loading="eager" />
+<figcaption>Sovereign Hill is Ballarat's signature attraction and one of Victoria's best family experiences.</figcaption>
+
+## Getting to Ballarat From Melbourne
+
+### By Car
+Ballarat is approximately 115 kilometres north-west of Melbourne via the Western Freeway (M8). The drive takes about 1 hour 20 minutes in normal traffic. The freeway is well-maintained and mostly dual carriageway. Expect slightly longer travel times at the start and end of school holiday periods.
+
+**Parking:** Central Ballarat has ample street parking (some metered) and car parks. Sovereign Hill has a large free car park.
+
+### By Train
+V/Line operates regular train services from Melbourne Southern Cross Station to Ballarat Station, with the journey taking approximately 1 hour 20 minutes. Trains run frequently during the day. A Myki card covers the journey. Children under 5 travel free, children 5–18 on concession fares.
+
+Ballarat Station is centrally located. Local buses connect to Sovereign Hill and other attractions, though a car is more practical for visiting multiple sites.
+
+### Driving Times From Other Victorian Cities
+- **From Geelong:** Approximately 1 hour via the Midland Highway
+- **From Bendigo:** Approximately 1 hour 30 minutes via the Midland Highway
+- **From the Mornington Peninsula (Mornington):** Approximately 2 hours via the Western Ring Road
+
+## Sovereign Hill — The Must-Visit
+
+Sovereign Hill is Ballarat's most famous attraction and arguably one of the best family attractions in Australia. It is a living museum that recreates a gold rush township from the 1850s, with costumed characters, working shops, horse-drawn vehicles, and authentic buildings.
+
+### What to Do at Sovereign Hill
+
+- **Gold panning:** Every visitor should try panning for gold in the creek. You keep what you find (tiny specks of real gold are in the gravel). This is the activity most children remember.
+- **Underground mine tour:** A guided tour through a recreated underground gold mine. Atmospheric and educational. Suitable for children aged about 5+.
+- **Main Street:** Explore the township's shops, including a lolly shop, a bakery (try the fresh bread), a blacksmith, and a candle-making workshop.
+- **Red Hill Mine:** Watch a working stamper battery crush quartz to extract gold.
+- **Costumed performers:** Soldiers, shopkeepers, and miners in period costume throughout the site.
+- **School holiday extras:** During school holidays, Sovereign Hill often runs additional activities including gold pouring demonstrations, children's workshops, and themed events.
+- **Aura (evening show):** "Aura" is Sovereign Hill's evening sound-and-light show. It tells the story of the Eureka Stockade through projected light, sound, and fire effects across the township. It runs on selected evenings and requires a separate ticket. Recommended for children aged about 6+.
+
+### Practical Information
+
+**Cost:** Adults approximately $45–55, children (5–15) approximately $20–28, family passes available. Aura evening show is additional (approximately $30–40 per adult).
+**Hours:** Open daily from 10am. Allow a full day (4–6 hours minimum).
+**Tip:** Arrive at opening time during school holidays to beat the worst of the crowds. Pack lunch or eat at the on-site bakery and cafe. Wear comfortable walking shoes — the site is large and hilly.
+
+## Ballarat Wildlife Park
+
+The Ballarat Wildlife Park is a family-owned zoo with a strong focus on Australian wildlife and interactive experiences. Unlike larger zoos, it has a relaxed, hands-on feel that children love.
+
+### Highlights
+- **Koala encounters:** Hold and photograph a koala (additional fee).
+- **Free-range kangaroos and wallabies:** Walk among and hand-feed kangaroos in the open paddock. Food bags available for purchase.
+- **Crocodile feeding:** Watch saltwater crocodile feeding demonstrations.
+- **Reptile house:** Snakes, lizards, and turtles.
+- **Wombats, Tasmanian devils, dingoes:** Australian native species in naturalistic enclosures.
+- **Keeper talks:** Scheduled throughout the day.
+
+**Cost:** Adults approximately $38–45, children approximately $20–25, family passes available.
+**Location:** 250 Fussell Street, Ballarat East (about 10 minutes from the city centre).
+**Hours:** Open daily. Allow 2–3 hours.
+
+## Free Activities for Families
+
+### Ballarat Botanical Gardens
+The Ballarat Botanical Gardens on the shores of Lake Wendouree are among the finest regional botanical gardens in Australia. Features include the Robert Clark Conservatory, the Prime Ministers Avenue (busts of every Australian Prime Minister), mature European trees, extensive flower beds, and open lawns.
+
+The gardens are free and open daily. During school holidays they are a pleasant spot for a picnic and a walk. The playground near the entrance is suitable for younger children.
+
+### Lake Wendouree
+Lake Wendouree is a scenic artificial lake in central Ballarat with a 6-kilometre walking and cycling trail around its perimeter. The flat, sealed path is perfect for families on bikes, scooters, or on foot. Playgrounds, picnic shelters, and the Botanical Gardens line the shore.
+
+Steve Moneghetti Track circuits the lake and is one of Ballarat's most popular recreational paths. Pedal boats and rowing boats are sometimes available for hire on the lake.
+
+### Victoria Park Playground
+Victoria Park in the heart of Ballarat has a large, modern playground with equipment for children of all ages, including a flying fox, climbing structures, swings, and a toddler zone. Adjacent to the park is a skate park for older children.
+
+### Eureka Stockade Memorial
+The Eureka Stockade site in East Ballarat is a public park with interpretive displays marking the location of the 1854 Eureka uprising — a significant event in Australian democratic history. Free to visit. The adjacent Eureka Centre (museum) has entry fees.
+
+### Library Holiday Programs
+The City of Ballarat runs free school holiday programs through its library network, including craft workshops, coding sessions, LEGO building, storytelling, and author visits. Sessions are free but require booking. Check the Ballarat Libraries website before each break.
+
+## Arts, Culture and Indoor Activities
+
+### Art Gallery of Ballarat
+The Art Gallery of Ballarat is one of the oldest and largest regional galleries in Australia, with an impressive collection of Australian art. Entry is free. During school holidays, the gallery runs family workshops and art-making activities, often linked to current exhibitions.
+
+**Cost:** Free (gallery). Workshops may have a small fee.
+**Location:** 40 Lydiard Street North, Ballarat
+
+### Eureka Centre
+The Eureka Centre is a museum dedicated to the Eureka Stockade uprising. It houses the original Eureka Flag (one of Australia's most significant historical artefacts) and has interactive exhibits telling the story of the gold rush, the rebellion, and the birth of Australian democracy.
+
+**Cost:** Adults approximately $15, children approximately $8.
+**Location:** 102 Stawell Street South, Ballarat East
+
+### Kryal Castle
+Kryal Castle is a medieval-themed attraction about 10 minutes from central Ballarat. It features a recreated castle with towers, a dragon's labyrinth maze, jousting shows, archery, stocks and pillory photo opportunities, and a dungeon tour. During school holidays, additional activities and shows are typically scheduled.
+
+**Cost:** From approximately $30–40 per person. Family passes available.
+**Location:** 121 Forbes Road, Leigh Creek
+**Best for:** Ages 4–14
+
+### Her Majesty's Theatre
+Ballarat's historic Her Majesty's Theatre often programs family-friendly shows during school holidays, including children's theatre, pantomime, and musical performances. Check the program for each holiday period.
+
+## Nature Walks and Outdoor Adventures
+
+### Creswick and Hepburn Regional Park
+Creswick, about 20 minutes north of Ballarat, is surrounded by state forest with excellent walking trails. The town has a small botanical garden and a gold heritage walk. Hepburn Regional Park, further on towards Daylesford, has easy forest walks and mineral springs.
+
+### Wombat State Forest
+The Wombat State Forest, east of Ballarat, offers bushwalking, mountain biking, and nature observation. Several tracks are suitable for families with older children. The forest is home to wombats, kangaroos, echidnas, and diverse bird life.
+
+### Lal Lal Falls
+Lal Lal Falls is a seasonal waterfall about 25 minutes south-east of Ballarat. The short walk from the car park to the viewing platform is easy and suitable for families. The falls are most impressive after rain (best in winter and spring).
+
+### Canadian Regional Park
+Close to central Ballarat, Canadian Regional Park has walking trails through bushland, a small lake, and picnic facilities. It's a good option for a short bushwalk close to town.
+
+## Rainy Day and Winter Activities
+
+Ballarat can be cold and wet during winter holidays (June–July). Indoor options include:
+
+- **Sovereign Hill** — most activities are undercover or indoors
+- **Art Gallery of Ballarat** — free, warm, and engaging
+- **Eureka Centre** — indoor museum
+- **Kryal Castle** — partly indoor (dungeon tour, castle rooms)
+- **Reading Cinemas Ballarat** — school holiday movie sessions
+- **Ballarat Aquatic and Lifestyle Centre** — indoor pool and waterslide
+- **Library holiday programs** — free indoor activities
+
+For more indoor activity ideas, see our guide to [indoor activities for Melbourne school holidays](/blog/indoor-activities-melbourne-school-holidays).
+
+## Where to Eat With Kids in Ballarat
+
+- **Lydiard Street precinct** — Ballarat's historic main street has several cafes and restaurants. The Forge Pizzeria is family-friendly.
+- **Bridge Mall** — central pedestrian mall with bakeries and cafes.
+- **Sovereign Hill** — the on-site bakery sells fresh bread and pies, and the main cafe has family meals. Taking lunch in is also easy.
+- **Lake Wendouree cafes** — several cafes near the lake, including the Boatshed restaurant with views over the water.
+- **Ballarat pies** — Ballarat has strong pie culture. Several bakeries across the city make excellent pies that children love.
+
+## Sample Itineraries
+
+### Day Trip From Melbourne (1 Day)
+
+**8:30am** — Depart Melbourne via Western Freeway
+**10:00am** — Arrive Sovereign Hill — gold panning, mine tour, main street exploration (4 hours)
+**2:00pm** — Lunch at Sovereign Hill bakery or bring a picnic
+**2:30pm** — Drive to Lake Wendouree (10 minutes) — walk or cycle part of the lake trail, visit Botanical Gardens
+**4:00pm** — Begin drive back to Melbourne (1 hour 20 minutes)
+
+### Weekend Getaway (2 Days)
+
+**Day 1:**
+- Morning: Sovereign Hill (full day — arrive at opening)
+- Lunch: Sovereign Hill
+- Afternoon: Continue at Sovereign Hill or drive to Victoria Park playground
+- Evening: Dinner in Ballarat. Optional: Aura evening show at Sovereign Hill
+
+**Day 2:**
+- Morning: Ballarat Wildlife Park (2–3 hours)
+- Lunch: Lydiard Street or Bridge Mall
+- Afternoon: Art Gallery of Ballarat (free) or Kryal Castle
+- Return to Melbourne
+
+### Budget Day (Mostly Free)
+
+- Lake Wendouree walk or cycle (free)
+- Ballarat Botanical Gardens (free)
+- Victoria Park playground (free)
+- Eureka Stockade memorial (free)
+- Art Gallery of Ballarat (free)
+- Pack lunch and snacks
+
+For more on Ballarat with kids, see our detailed guide to [things to do in Ballarat with kids](/blog/things-to-do-ballarat-kids).
+
+## Frequently Asked Questions
+
+**What are the best school holiday activities in Ballarat for kids?**
+The best school holiday activities in Ballarat include Sovereign Hill (gold rush living museum), Ballarat Wildlife Park, the Art Gallery of Ballarat, the Ballarat Botanical Gardens, Lake Wendouree walking and cycling, Kryal Castle, the Eureka Centre, and free council holiday programs through the City of Ballarat libraries.
+
+**How far is Ballarat from Melbourne?**
+Ballarat is approximately 115 kilometres north-west of Melbourne, about 1 hour 20 minutes by car via the Western Freeway (M8). V/Line trains run regularly from Melbourne Southern Cross Station to Ballarat Station, taking about 1 hour 20 minutes.
+
+**Is Sovereign Hill worth visiting during school holidays?**
+Yes. Sovereign Hill is one of Victoria's best family attractions and is particularly busy during school holidays, which means extra activities and demonstrations are often scheduled. Allow a full day and arrive early to beat the biggest crowds.
+
+**Are there free activities in Ballarat for families?**
+Yes. Free activities include the Ballarat Botanical Gardens, Lake Wendouree walking and cycling trail, the Eureka Stockade memorial site, Ballarat library holiday programs, several playgrounds including the Victoria Park playground, and bushwalks in nearby Creswick and the Wombat State Forest.
+
+---
+
+## Sources
+
+1. Sovereign Hill — Visitor information, pricing, and school holiday programming. sovereignhill.com.au
+2. Ballarat Wildlife Park — Visitor information and animal encounters. wildlifepark.com.au
+3. City of Ballarat — Council holiday programs and library events. ballarat.vic.gov.au
+4. Art Gallery of Ballarat — Exhibitions and family programs. artgalleryofballarat.com.au
+5. Visit Ballarat — Official visitor information for the Ballarat region. visitballarat.com.au
+6. Victorian Department of Education — 2026 school term dates. education.vic.gov.au
+
+Information in this guide is based on published 2025–2026 data and is subject to change. We recommend confirming details directly with each venue before visiting. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For a comprehensive guide to Ballarat family activities beyond school holidays, see our [things to do in Ballarat with kids](/blog/things-to-do-ballarat-kids) guide. For holiday planning across all of Victoria, see our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide.*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'things-to-do-werribee-with-kids',
+    title: 'Things To Do in Werribee With Kids: Family Activities Guide 2026',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best things to do in Werribee with kids in 2026. Werribee Open Range Zoo, Werribee Park Mansion, playgrounds, beach, rose garden — a complete family activities guide.',
+    readTime: '15 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'local-area',
+    tags: ["werribee", "wyndham", "melbourne-west", "kids", "family", "zoo"],
+    faqs: [
+    { q: 'What are the best things to do in Werribee with kids?', a: 'The best things to do in Werribee with kids include the Werribee Open Range Zoo (safari-style Australian and African animal encounters), Werribee Park Mansion and gardens, the Shadow of the Tower adventure playground, Werribee South Beach, the State Rose Garden, and the Werribee River trail. The area also has good indoor play centres, swimming pools, and cafes.' },
+    { q: 'Is Werribee Open Range Zoo good for kids?', a: 'Yes. Werribee Open Range Zoo is one of Melbourne\'s best family attractions. The safari bus tour through the African savannah area is a highlight — children see giraffes, zebras, rhinos, and hippos from close range. The zoo also has an Australian trail with kangaroos and koalas, a playground, and school holiday programs.' },
+    { q: 'How far is Werribee from Melbourne CBD?', a: 'Werribee is approximately 32 kilometres south-west of Melbourne CBD, about 30 to 40 minutes by car via the Princes Freeway (M1). Metro trains run from Melbourne to Werribee Station, taking about 35 minutes from Flinders Street Station.' },
+    { q: 'Is there a beach at Werribee?', a: 'Yes. Werribee South Beach is a quiet, calm bay beach on Port Phillip Bay, about 10 minutes south of the Werribee town centre. The beach has calm, shallow water suitable for young children, picnic areas, and a small foreshore reserve. It is less crowded than many Melbourne beaches.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Things To Do in Werribee With Kids: Family Activities Guide 2026",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/things-to-do-werribee-with-kids-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best things to do in Werribee with kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best things to do include Werribee Open Range Zoo, Werribee Park Mansion and gardens, the Shadow of the Tower playground, Werribee South Beach, the State Rose Garden, and the Werribee River trail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Werribee Open Range Zoo good for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The safari bus tour through the African savannah is a highlight, with giraffes, zebras, rhinos, and hippos visible at close range. The zoo also has Australian animals, a playground, and school holiday programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Werribee from Melbourne CBD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 32 kilometres, or 30–40 minutes by car via the Princes Freeway. Metro trains take about 35 minutes from Flinders Street Station."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a beach at Werribee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Werribee South Beach is a quiet, calm bay beach about 10 minutes south of the town centre, with shallow water suitable for young children."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="Things To Do in Werribee With Kids: Family Activities Guide 2026" />
+<meta property="og:description" content="Best things to do in Werribee with kids 2026. Open Range Zoo, Werribee Park, playgrounds, beach, and more." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/things-to-do-werribee-with-kids-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/things-to-do-werribee-with-kids" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Things To Do in Werribee With Kids: Family Activities Guide 2026" />
+<meta name="twitter:description" content="Best things to do in Werribee with kids — Open Range Zoo, Werribee Park, beach, playgrounds." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/things-to-do-werribee-with-kids-hero.jpg" />
+
+# Things To Do in Werribee With Kids: Family Activities Guide 2026
+
+**Werribee and the wider Wyndham area in Melbourne's west have far more to offer families than many people realise. Anchored by the outstanding Werribee Open Range Zoo — one of Melbourne's best family attractions — the area also boasts the grand Werribee Park Mansion and gardens, a beautiful state rose garden, a quiet bay beach, excellent playgrounds, river trails, and a growing food and cafe scene. Whether you live locally or are visiting from elsewhere in Melbourne, this guide covers the best family activities in Werribee for 2026.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [Getting to Werribee](#getting-to-werribee)
+- [Werribee Open Range Zoo](#werribee-open-range-zoo)
+- [Werribee Park Mansion and Gardens](#werribee-park-mansion-and-gardens)
+- [Best Playgrounds in Werribee](#best-playgrounds-in-werribee)
+- [Werribee South Beach](#werribee-south-beach)
+- [Parks, Trails and Nature](#parks-trails-and-nature)
+- [Indoor Activities and Rainy Days](#indoor-activities-and-rainy-days)
+- [Where to Eat With Kids](#where-to-eat-with-kids)
+- [Nearby Attractions](#nearby-attractions)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/things-to-do-werribee-with-kids-hero.jpg" alt="Giraffes and zebras on the savannah at Werribee Open Range Zoo with families watching from a safari bus" width="1200" height="630" loading="eager" />
+<figcaption>Werribee Open Range Zoo's safari experience is one of Melbourne's most memorable family outings.</figcaption>
+
+## Getting to Werribee
+
+### By Car
+Werribee is approximately 32 kilometres south-west of Melbourne CBD via the Princes Freeway (M1). The drive takes about 30–40 minutes in normal traffic, though the freeway can be busy during peak times.
+
+The Werribee Open Range Zoo and Werribee Park are located at K Road, Werribee South, about 10 minutes south of the Werribee town centre. Werribee South Beach is in the same area.
+
+### By Train
+Metro Trains operates the Werribee line from Flinders Street Station to Werribee Station, with the journey taking approximately 35 minutes. From Werribee Station, bus route 439 connects to Werribee Open Range Zoo (about 15 minutes), though frequency is limited — driving or a taxi/rideshare from the station is more practical for families.
+
+### Driving Times From Key Locations
+- **From Melbourne CBD:** 30–40 minutes
+- **From Geelong:** 40 minutes
+- **From Melton:** 25 minutes
+- **From Point Cook:** 15 minutes
+- **From Hoppers Crossing:** 10 minutes
+
+## Werribee Open Range Zoo
+
+Werribee Open Range Zoo is the headline attraction and one of the best zoos in Victoria. Unlike the Melbourne Zoo in Parkville, Werribee is set on open grasslands that allow animals to roam in large, naturalistic spaces — particularly the African savannah section.
+
+### The Safari Bus Tour
+The signature experience is the guided safari bus tour through the African savannah section. The open-sided bus drives through the paddocks where giraffes, zebras, ostriches, antelope, rhinoceros, and hippos live in a landscape that genuinely evokes the African plains. Guides provide commentary on the animals and conservation.
+
+The safari tour takes about 40 minutes and is included in your entry ticket. It runs multiple times daily and is a must-do.
+
+### Australian Trail
+The Australian Trail is a walking path through native animal enclosures featuring kangaroos, wallabies, emus, koalas, and wombats. The path is pram-friendly and shaded.
+
+### Other Highlights
+- **Gorilla enclosure:** Werribee is home to a family of western lowland gorillas — one of only a few places in Australia where you can see gorillas.
+- **Hippo Beach:** An underwater viewing area where you can watch hippos swim.
+- **Meerkat exhibit:** Engaging and accessible for young children.
+- **Adventure playground:** A large playground within the zoo grounds.
+- **School holiday programs:** Zoos Victoria runs structured holiday programs at Werribee during each school break. Programs include keeper encounters, animal enrichment activities, and behind-the-scenes tours. These require separate booking and additional fees.
+
+### Practical Information
+**Cost:** Adults approximately $38–44, children (4–15) approximately $19–22, family passes available. Under 4s free.
+**Hours:** Open daily. Safari tours run at set times — check the daily schedule on arrival.
+**Allow:** Minimum 3 hours, ideally half a day.
+**Tip:** Bring a hat, sunscreen, and water — much of the zoo is open and exposed. Pack lunch or eat at the on-site cafe.
+
+## Werribee Park Mansion and Gardens
+
+Adjacent to the zoo (and included in a combined ticket), Werribee Park is a grand Italianate mansion built in the 1870s by the Chirnside pastoral family. The mansion is set in formal gardens, sweeping lawns, and parkland along the Werribee River.
+
+### What to See
+- **The Mansion:** Guided and self-guided tours through opulent Victorian-era rooms. Children enjoy the grand rooms, servant quarters, and the stories of life in the 1870s.
+- **Formal Gardens:** Italian-style formal gardens with fountains, hedges, and sculptured lawns. Beautiful for a walk or a picnic.
+- **State Rose Garden of Victoria:** Located within the Werribee Park grounds, the State Rose Garden is a circular garden with over 5,000 rose bushes of hundreds of varieties. Best in bloom from October to April. Free to visit.
+- **Werribee Park grounds:** The wider parkland along the river is free to access and popular for picnics, ball games, and casual walks.
+
+**Cost:** Mansion entry — adults approximately $10–15, children approximately $8. Gardens and parkland are free.
+**Hours:** Open daily. Mansion has set opening hours.
+
+## Best Playgrounds in Werribee
+
+### Shadow of the Tower Playground (K Road)
+The Shadow of the Tower playground at the Werribee Park precinct (near the Open Range Zoo entrance) is one of the best playgrounds in Melbourne's west. It features a multi-level tower structure with slides, climbing walls, rope bridges, a flying fox, a sandpit, and a water play area (seasonal).
+
+The playground is named for its proximity to the shadow cast by the adjacent historic tower. It has shaded seating for parents, barbecue facilities, and is well-maintained. Free to visit.
+
+**Best for:** Ages 2–12
+**Facilities:** Toilets, barbecues, picnic tables, parking
+
+### Presidents Park Playground (Wyndham Vale)
+A large regional playground in Wyndham Vale with an adventure theme, climbing structures, a zip line, and nature play elements. The surrounding park is spacious with walking paths and open areas.
+
+### Riverwalk Estate Playground (Werribee)
+A newer playground in the Riverwalk residential estate with modern equipment and good fencing for toddlers.
+
+### Kelly Park Playground (Werribee)
+A community playground with climbing equipment and a basketball court nearby. Popular with local families.
+
+## Werribee South Beach
+
+Werribee South Beach is one of Melbourne's hidden gems — a quiet, calm bay beach on Port Phillip Bay, about 10 minutes south of the Werribee town centre. The beach has shallow, calm water that is ideal for young children, a sandy foreshore, and picnic areas with some shade.
+
+The beach is far less crowded than Melbourne's popular bayside beaches (St Kilda, Brighton, Williamstown) and has a relaxed, community feel. The water is clean and calm — suitable for paddling, sandcastle building, and gentle swimming.
+
+**Facilities:** Basic — toilets and a small car park. Bring everything you need.
+**Tip:** Combine with a visit to the nearby Werribee Open Range Zoo or Werribee Park for a full day out.
+
+For other family beaches in the area, see our guide to [family beaches in Victoria](/blog/family-beaches-victoria).
+
+## Parks, Trails and Nature
+
+### Werribee River Trail
+The Werribee River trail follows the river through parkland in central Werribee. The path is sealed and flat, suitable for cycling, scooting, and walking with prams. The trail passes through shady river red gum bushland and is a pleasant escape from the suburban surroundings.
+
+### Wyndham Park
+Wyndham Park on the Werribee River is a large green space with barbecue facilities, a playground, and river access. Popular for picnics and casual ball games.
+
+### Werribee Gorge State Park
+About 20 minutes north of Werribee (between Werribee and Bacchus Marsh), Werribee Gorge State Park is a dramatic river gorge with bushwalking trails. The short walk to the lookout is manageable for families with older children (some steep sections). The gorge itself is impressive — sheer rock walls and a winding river below.
+
+**Note:** The gorge tracks are uneven and steep in places. Suitable for active families with children aged about 8+. Not pram-accessible.
+
+### Point Cook Coastal Park
+About 15 minutes east of Werribee, Point Cook Coastal Park is a Parks Victoria reserve on the bay with wetlands, coastal walking trails, and birdwatching. The park is free and offers easy flat walks with views across Port Phillip Bay. RAAF Museum at Point Cook (adjacent) has free entry and is interesting for children who like aircraft.
+
+## Indoor Activities and Rainy Days
+
+Werribee and the wider Wyndham area have several indoor options:
+
+- **AquaPulse (Hoppers Crossing):** Wyndham City Council's aquatic centre with indoor pools, a waterslide, and a toddler splash area. Open year-round.
+- **Bounce (Werribee):** Indoor trampoline park with sessions for different ages. See our [best trampoline parks Melbourne](/blog/best-trampoline-parks-melbourne-kids) guide.
+- **Werribee Plaza and Pacific Werribee:** Shopping centres with cinemas, food courts, and children's play areas.
+- **Event Cinemas (Pacific Werribee):** School holiday movie sessions.
+- **Local library programs:** Wyndham City Council libraries run free school holiday programs at branches across the municipality.
+
+For more indoor ideas, see our guide to [indoor activities for Melbourne school holidays](/blog/indoor-activities-melbourne-school-holidays).
+
+## Where to Eat With Kids
+
+Werribee's dining scene has improved significantly as the area has grown:
+
+- **Watton Street precinct:** Werribee's main street has several family-friendly cafes and restaurants, including Italian, Asian, and modern Australian options.
+- **Werribee South cafe:** A small cafe near the beach area — good for coffee and light meals after a zoo visit.
+- **Pacific Werribee food court:** Practical option with variety and easy parking.
+- **The Loft Cafe (Werribee):** Popular local cafe with a relaxed atmosphere and kids' menu.
+- **Picnic provisions:** For Werribee Park, the zoo, and the beach, packing a picnic is often the best option. Stock up at the Werribee Fresh Food Market or supermarkets on Watton Street.
+
+## Nearby Attractions
+
+### Point Cook
+- **RAAF Museum Point Cook:** Free aviation museum with historic aircraft. Children enjoy climbing into cockpits.
+- **Point Cook Coastal Park:** Wetlands and coastal walks (see above).
+- **Saltwater Coast playgrounds:** The Saltwater Coast residential area in Point Cook has several excellent modern playgrounds.
+
+### Bacchus Marsh
+- **Avenue of Honour:** An impressive avenue of elm trees lining the entrance to Bacchus Marsh, about 20 minutes from Werribee.
+- **Bacchus Marsh apple orchards:** Seasonal fruit picking at orchards along the highway.
+
+### You Yangs Regional Park
+About 25 minutes west of Werribee (towards Geelong), the You Yangs offer bushwalking, mountain biking, and koala spotting. Free entry. See our [school holiday activities Geelong](/blog/school-holiday-activities-geelong-2026) guide for more details.
+
+## Frequently Asked Questions
+
+**What are the best things to do in Werribee with kids?**
+The best things to do in Werribee with kids include the Werribee Open Range Zoo (safari-style Australian and African animal encounters), Werribee Park Mansion and gardens, the Shadow of the Tower adventure playground, Werribee South Beach, the State Rose Garden, and the Werribee River trail.
+
+**Is Werribee Open Range Zoo good for kids?**
+Yes. Werribee Open Range Zoo is one of Melbourne's best family attractions. The safari bus tour through the African savannah area is a highlight — children see giraffes, zebras, rhinos, and hippos from close range. The zoo also has an Australian trail with kangaroos and koalas, a playground, and school holiday programs.
+
+**How far is Werribee from Melbourne CBD?**
+Werribee is approximately 32 kilometres south-west of Melbourne CBD, about 30 to 40 minutes by car via the Princes Freeway (M1). Metro trains run from Melbourne to Werribee Station, taking about 35 minutes from Flinders Street Station.
+
+**Is there a beach at Werribee?**
+Yes. Werribee South Beach is a quiet, calm bay beach on Port Phillip Bay, about 10 minutes south of the Werribee town centre. The beach has calm, shallow water suitable for young children, picnic areas, and a small foreshore reserve.
+
+---
+
+## Sources
+
+1. Zoos Victoria — Werribee Open Range Zoo visitor information and school holiday programs. zoo.org.au
+2. Parks Victoria — Werribee Park Mansion, gardens, and Werribee Gorge State Park. parks.vic.gov.au
+3. Wyndham City Council — Family activities, playgrounds, and holiday program information. wyndham.vic.gov.au
+4. Visit Werribee — Local visitor guide and family activities. visitwerribee.com.au
+5. State Rose Garden of Victoria — Visitor information. staterosegarden.com.au
+
+Information in this guide is based on published 2025–2026 data and is subject to change. We recommend confirming details directly with each venue before visiting. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For more family activities across Melbourne's west and beyond, see our [family days out in Melbourne](/blog/family-days-out-melbourne) guide and our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide.*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'best-trampoline-parks-melbourne-kids',
+    title: 'Best Trampoline Parks Melbourne for Kids 2026: Prices, Locations & Reviews',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best trampoline parks in Melbourne for kids in 2026. Bounce, Sky Zone, Flip Out, Latitude — prices, locations, age suitability, and comparison table.',
+    readTime: '16 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'category-guide',
+    tags: ["trampoline-parks", "melbourne", "indoor-activities", "kids", "family", "active-play"],
+    faqs: [
+    { q: 'What is the best trampoline park in Melbourne for kids?', a: 'The best trampoline park depends on your child\'s age and location. Bounce (Glen Iris, Essendon) is widely considered the original and best overall, with high-quality facilities and multiple zones. Sky Zone (multiple locations) is great for ninja courses and dodgeball. Latitude offers trampolines plus climbing walls and VR. Flip Out has good value sessions across several suburban locations.' },
+    { q: 'How much do trampoline parks cost in Melbourne?', a: 'Most Melbourne trampoline parks charge between $18 and $30 per hour for a standard jump session. Prices vary by park, session type, and time of week. Toddler sessions are often cheaper ($12–18). Grip socks are usually required and cost $3–5 if you do not have your own. Family deals and multi-visit passes are available at most parks.' },
+    { q: 'What age can kids go to trampoline parks in Melbourne?', a: 'Most Melbourne trampoline parks welcome children from age 3, with dedicated toddler sessions for ages 3–5 at specific times. General sessions typically suit ages 5 and up. Some parks have minimum height requirements for certain activities like ninja courses or high-performance trampolines.' },
+    { q: 'Do trampoline parks in Melbourne have toddler sessions?', a: 'Yes. Most major trampoline parks in Melbourne run dedicated toddler sessions (usually called Mini Bounce, Toddler Time, or similar) for children aged approximately 2–5 during weekday mornings. These sessions have lower numbers, softer play, and are age-appropriate. Check individual park websites for schedules.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Best Trampoline Parks Melbourne for Kids 2026: Prices, Locations & Reviews",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/best-trampoline-parks-melbourne-kids-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best trampoline park in Melbourne for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bounce (Glen Iris, Essendon) is widely considered the best overall. Sky Zone is great for ninja courses. Latitude combines trampolines with climbing and VR. Flip Out offers good value across suburban locations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do trampoline parks cost in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most parks charge $18–$30 per hour. Toddler sessions are often $12–$18. Grip socks cost $3–$5 if required. Family deals and multi-visit passes are available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What age can kids go to trampoline parks in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most parks welcome children from age 3, with dedicated toddler sessions. General sessions suit ages 5 and up. Some activities have height requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do trampoline parks in Melbourne have toddler sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Most major parks run toddler sessions for ages 2–5 during weekday mornings with lower numbers and age-appropriate play."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="Best Trampoline Parks Melbourne for Kids 2026: Prices, Locations & Reviews" />
+<meta property="og:description" content="Best trampoline parks in Melbourne for kids 2026. Bounce, Sky Zone, Flip Out, Latitude — prices, locations, and comparison." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/best-trampoline-parks-melbourne-kids-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/best-trampoline-parks-melbourne-kids" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Best Trampoline Parks Melbourne for Kids 2026: Prices, Locations & Reviews" />
+<meta name="twitter:description" content="Best trampoline parks in Melbourne for kids — Bounce, Sky Zone, Flip Out, Latitude compared." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/best-trampoline-parks-melbourne-kids-hero.jpg" />
+
+# Best Trampoline Parks Melbourne for Kids 2026: Prices, Locations & Reviews
+
+**Trampoline parks have become one of Melbourne's most popular family activities — perfect for burning energy on rainy days, school holidays, or any weekend. But with multiple brands and locations across the city, it can be hard to know which park is best for your family. This guide compares every major trampoline park in Melbourne for 2026, covering prices, locations, age suitability, what's on offer, and which parks are best for toddlers, primary schoolers, and teenagers.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [Quick Comparison Table](#quick-comparison-table)
+- [Bounce](#bounce)
+- [Sky Zone](#sky-zone)
+- [Flip Out](#flip-out)
+- [Latitude](#latitude)
+- [Other Trampoline and Active Play Venues](#other-trampoline-and-active-play-venues)
+- [Best Parks by Age Group](#best-parks-by-age-group)
+- [Toddler Sessions Guide](#toddler-sessions-guide)
+- [Safety Tips for Parents](#safety-tips-for-parents)
+- [Birthday Parties at Trampoline Parks](#birthday-parties-at-trampoline-parks)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/best-trampoline-parks-melbourne-kids-hero.jpg" alt="Children jumping on interconnected trampolines in a brightly lit indoor trampoline park" width="1200" height="630" loading="eager" />
+<figcaption>Melbourne's trampoline parks offer high-energy fun for kids of every age.</figcaption>
+
+## Quick Comparison Table
+
+| Park | Locations | Price (1hr) | Toddler Sessions | Ninja Course | Climbing | Best For |
+|------|-----------|-------------|-------------------|--------------|----------|----------|
+| Bounce | Glen Iris, Essendon | $22–28 | Yes (Mini Bounce) | Yes | No | Overall quality, all ages |
+| Sky Zone | Multiple | $20–28 | Yes | Yes (Ninja Warrior) | Yes (some) | Active kids 6+, dodgeball |
+| Flip Out | Multiple suburban | $18–25 | Yes | Some locations | No | Value, suburban access |
+| Latitude | Multiple | $22–30 | Yes | Yes | Yes (walls + bouldering) | Variety (trampolines + climbing + VR) |
+
+Prices are approximate and based on 2025–2026 published rates. Book online for the best pricing at all parks.
+
+## Bounce
+
+### Overview
+Bounce is the original Australian trampoline park brand and set the standard when it launched. The facilities are consistently well-maintained, the safety standards are high, and the variety of zones means there is something for every age and skill level.
+
+### Melbourne Locations
+- **Bounce Glen Iris:** 601 High Street Road, Glen Iris (inner south-east)
+- **Bounce Essendon:** DFO Essendon, 100 Bulla Road, Essendon Fields (inner north-west)
+
+### What's On Offer
+- **Free-jump trampolines:** The main area with interconnected trampolines, angled walls, and slam-dunk basketball hoops.
+- **Performance trampolines:** Higher-performance trampolines for experienced jumpers and those wanting to practise flips and tricks (staff-supervised).
+- **Foam pit:** Jump from trampolines into deep foam pits. A favourite with children of all ages.
+- **The Wall:** Angled trampolines that let you run up the wall and flip off.
+- **Ninja course:** Obstacle course elements inspired by Ninja Warrior — monkey bars, warped walls, and balance challenges.
+- **Mini Bounce:** Dedicated toddler sessions (see Toddler Sessions below).
+- **Bounce Fit:** Fitness classes on trampolines for adults and older teenagers.
+
+### Pricing
+- **1-hour general session:** Approximately $22–28 per person
+- **Mini Bounce (toddler):** Approximately $14–18 per child
+- **Grip socks:** Required — approximately $3.50 (reusable at Bounce locations)
+- **Online booking:** Discounts available for advance online booking
+
+### Our Take
+Bounce is the best all-round trampoline park in Melbourne. The facilities are clean and modern, staff are well-trained, and the range of zones means kids don't get bored. Glen Iris is the better of the two Melbourne locations for most families in the south and east. Essendon is convenient for families in the north and west.
+
+## Sky Zone
+
+### Overview
+Sky Zone is a global trampoline park brand with multiple Melbourne locations. It distinguishes itself with its SkySlam basketball, Ultimate Dodgeball arena, and Ninja Warrior course — making it particularly popular with competitive older kids and teenagers.
+
+### Melbourne Locations
+- **Sky Zone Alexandria (Epping):** 3/19 Kingsbury Street, Epping
+- **Sky Zone Dandenong:** Factory 1, 42 Bennet Street, Dandenong
+- **Additional locations may vary — check the Sky Zone website for current Melbourne venues**
+
+### What's On Offer
+- **Freestyle jump:** Main trampoline area with interconnected trampolines.
+- **SkySlam:** Slam-dunk basketball on trampolines — very popular.
+- **Ultimate Dodgeball:** Dodgeball played on trampolines. Available during general sessions and as a group activity. Extremely popular with children aged 8+.
+- **Ninja Warrior course:** Multi-element obstacle course. Timed challenges and competitive play.
+- **Foam zone:** Jump and flip into foam pits.
+- **SkyClimb (selected locations):** Climbing walls integrated into the trampoline park experience.
+- **Toddler Time:** Dedicated sessions for young children.
+
+### Pricing
+- **1-hour session:** Approximately $20–28 per person
+- **Toddler Time:** Approximately $12–18 per child
+- **Grip socks:** Required — approximately $3.50
+- **Online booking:** Recommended, especially during school holidays
+
+### Our Take
+Sky Zone is the best choice for sporty, competitive kids — the dodgeball arena and ninja course are more substantial than most competitors. The Dandenong location is well-placed for south-eastern suburbs families. Quality is good though facilities at some locations can show more wear than Bounce.
+
+## Flip Out
+
+### Overview
+Flip Out is an Australian trampoline park brand with a presence across Melbourne's suburbs. It tends to be slightly more affordable than Bounce and Sky Zone, making it a good-value option for regular visits.
+
+### Melbourne Locations
+Flip Out operates at several suburban locations that may change — check the Flip Out website for current Melbourne venues. Typical locations include venues in the northern and western suburbs.
+
+### What's On Offer
+- **Interconnected trampolines:** Standard trampoline jumping area.
+- **Foam pits:** Jump into foam from trampolines and platforms.
+- **Dodgeball court:** Trampoline dodgeball at most locations.
+- **Basketball:** Slam-dunk hoops on trampolines.
+- **Toddler sessions:** Available at most locations during weekday mornings.
+- **Ninja-style obstacles:** Some locations have ninja course elements.
+
+### Pricing
+- **1-hour session:** Approximately $18–25 per person
+- **Toddler sessions:** Approximately $12–16 per child
+- **Grip socks:** Required — approximately $3–4
+
+### Our Take
+Flip Out offers solid value and is often the closest trampoline park for families in the outer suburbs. Facilities vary more between locations than Bounce or Sky Zone, so check recent reviews for the specific venue you plan to visit.
+
+## Latitude
+
+### Overview
+Latitude is a newer entrant that differentiates itself by combining trampolines with climbing walls, bouldering, virtual reality, and other activities under one roof. This variety makes it particularly appealing for groups with mixed ages and interests.
+
+### Melbourne Locations
+- **Latitude (various locations):** Check the Latitude website for current Melbourne venues. Locations have included Epping and other suburban centres.
+
+### What's On Offer
+- **Trampolines:** Freestyle jump area, foam pits, basketball.
+- **Climbing walls:** Multiple climbing walls with auto-belay systems (no climbing experience needed).
+- **Bouldering:** Low-height bouldering walls.
+- **Ninja course:** Obstacle course elements.
+- **Virtual reality:** VR gaming experiences at selected locations.
+- **Toddler time:** Dedicated young children's sessions.
+
+### Pricing
+- **1-hour session:** Approximately $22–30 per person (may include access to multiple zones)
+- **Combo passes:** Deals for accessing trampolines + climbing + other zones.
+- **Toddler sessions:** Approximately $14–18 per child
+- **Grip socks:** Required
+
+### Our Take
+Latitude is the best option if your family wants variety beyond just trampolines. The climbing walls are genuinely good and give the visit a different feel. Ideal for families with children of mixed ages who might otherwise struggle to find a single activity that suits everyone. For a deeper look at climbing options, see our guide to [best rock climbing for kids in Melbourne](/blog/best-rock-climbing-kids-melbourne).
+
+## Other Trampoline and Active Play Venues
+
+### Inflatable World
+Not a trampoline park in the traditional sense, but Inflatable World operates giant inflatable obstacle courses and slides in warehouse spaces across Melbourne. Sessions are typically 1–2 hours, and the inflatables suit children aged about 3–14.
+
+**Cost:** Approximately $15–22 per session.
+**Best for:** Younger children (3–10) who want active play without the intensity of trampolines.
+
+### Bounce Geelong
+Bounce operates a venue in Geelong for families in that region. See our guide to [school holiday activities in Geelong](/blog/school-holiday-activities-geelong-2026).
+
+### AirRider Indoor Skydiving
+Not a trampoline park, but indoor skydiving (vertical wind tunnel) is an exciting active experience for older children. iFLY and similar operators offer sessions for children from about age 3.
+
+**Cost:** From approximately $60–90 per flight session.
+**Best for:** Ages 3+ for a unique thrill experience.
+
+## Best Parks by Age Group
+
+### Toddlers (2–4 Years)
+- **Best:** Bounce (Mini Bounce sessions) — well-structured, safe, purpose-designed
+- **Also good:** Sky Zone Toddler Time, Flip Out toddler sessions
+- **Tip:** Only attend dedicated toddler sessions. General sessions are too intense and crowded for this age group.
+
+### Young Children (5–7 Years)
+- **Best:** Bounce or Sky Zone — both have zones that suit this age group during general sessions
+- **Also good:** Latitude (can try climbing walls as well as trampolines)
+- **Tip:** Weekday sessions and off-peak times are less crowded and better for younger children.
+
+### Primary School (8–12 Years)
+- **Best:** Sky Zone (dodgeball, ninja course) or Bounce (foam pits, performance trampolines)
+- **Also good:** Latitude (variety of activities keeps this age group engaged longer)
+- **Tip:** This is the core age group for trampoline parks. All parks cater well to these ages.
+
+### Teenagers (13+ Years)
+- **Best:** Sky Zone (competitive elements, dodgeball) or Latitude (climbing walls, VR add variety)
+- **Also good:** Bounce (performance trampolines for flip practice)
+- **Tip:** Teenagers may find basic trampolining boring after 30 minutes — choose a park with ninja courses, dodgeball, or climbing for more engagement.
+
+## Toddler Sessions Guide
+
+All major trampoline parks in Melbourne offer dedicated toddler sessions. These are essential for families with children under 5 — general sessions are not suitable for very young children due to the size and energy of older jumpers.
+
+### What Toddler Sessions Include
+- **Reduced numbers:** Fewer children on the trampolines at once.
+- **Age-restricted:** Only children under 5 (exact age varies by park, typically 2–5 or 3–5).
+- **Supervised areas:** Staff focus on the needs of younger children.
+- **Modified activities:** Smaller jumps, soft play elements, and gentler activities.
+- **Parent access:** At least one adult can usually go on the trampolines with their child (included in the session price).
+
+### Typical Schedule
+- Toddler sessions run on weekday mornings (typically Tuesday to Friday, 9:30am–11am).
+- Some parks run additional toddler sessions during school holidays.
+- Booking in advance is recommended as sessions have capacity limits.
+
+### Cost
+- **Bounce Mini Bounce:** Approximately $14–18 per child (one accompanying adult free)
+- **Sky Zone Toddler Time:** Approximately $12–18 per child
+- **Flip Out Toddler Sessions:** Approximately $12–16 per child
+- **Latitude Toddler Time:** Approximately $14–18 per child
+
+## Safety Tips for Parents
+
+Trampoline parks are generally safe when used correctly, but injuries can occur. Tips for parents:
+
+- **Grip socks are essential.** All parks require them. Buy a pair at your first visit and bring them back. Bare feet and regular socks are not allowed.
+- **Stay within your ability.** Discourage children from attempting flips or tricks they haven't been taught. Most injuries occur from attempting skills beyond a child's ability.
+- **Choose the right session.** Toddlers should only attend toddler sessions. Younger children should avoid peak weekend sessions when parks are at capacity with older, bigger jumpers.
+- **Warm up.** A few minutes of gentle bouncing before going all-out reduces injury risk.
+- **Hydrate.** Trampolining is surprisingly tiring. Bring water bottles.
+- **Follow park rules.** Each park has rules about safe jumping — one person per trampoline, no landing on head or neck, etc. Ensure your children understand the rules before starting.
+- **Supervise.** Even older children should be supervised. Watch from the viewing areas.
+
+## Birthday Parties at Trampoline Parks
+
+All major Melbourne trampoline parks offer birthday party packages, making them one of the most popular party venues for children aged 5–14.
+
+### What's Typically Included
+- 1–2 hours of jump time
+- A dedicated party room or area for food and cake
+- A party host
+- Invitations (digital or printed)
+- Basic food and drink (packages vary)
+
+### Approximate Costs
+- **Basic packages:** From approximately $25–35 per child (usually minimum 8–10 children)
+- **Premium packages:** From approximately $35–50 per child (more time, better food, additional activities)
+
+### Tips for Trampoline Park Parties
+- Book well in advance during school holidays and peak weekends.
+- Check what food is provided versus what you need to bring.
+- Confirm the party host arrangements and any supervision the park provides.
+- Consider the age of guests — some parks have age-appropriate party formats.
+
+For more birthday party venue ideas, see our guide to [kids birthday party venues in Melbourne](/blog/kids-birthday-party-venues-melbourne).
+
+## Frequently Asked Questions
+
+**What is the best trampoline park in Melbourne for kids?**
+Bounce (Glen Iris, Essendon) is widely considered the best overall, with high-quality facilities and multiple zones. Sky Zone is great for ninja courses and dodgeball. Latitude combines trampolines with climbing and VR. Flip Out offers good value across suburban locations.
+
+**How much do trampoline parks cost in Melbourne?**
+Most parks charge between $18 and $30 per hour for a standard session. Toddler sessions are often $12–18. Grip socks cost $3–5. Family deals and multi-visit passes are available.
+
+**What age can kids go to trampoline parks in Melbourne?**
+Most parks welcome children from age 3, with dedicated toddler sessions. General sessions suit ages 5 and up. Some activities have height or age requirements.
+
+**Do trampoline parks in Melbourne have toddler sessions?**
+Yes. Most major parks run toddler sessions for ages 2–5 during weekday mornings with lower numbers and age-appropriate play.
+
+---
+
+## Sources
+
+1. Bounce Australia — Venue information, pricing, and session types for Glen Iris and Essendon. bounceinc.com.au
+2. Sky Zone Australia — Melbourne locations, pricing, and session information. skyzone.com.au
+3. Flip Out Australia — Location finder and pricing information. flipout.com.au
+4. Latitude — Melbourne venues, pricing, and activity information. latitudegroup.com.au
+5. Kidsafe Victoria — Trampoline park safety advice for families. kidsafevic.com.au
+
+Venue details, pricing, and session information are based on published 2025–2026 data and are subject to change. We recommend checking each venue's website for current pricing and availability before visiting. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For more active indoor options, see our guide to [indoor activities for Melbourne school holidays](/blog/indoor-activities-melbourne-school-holidays). For other active play ideas, see our guide to [best rock climbing for kids in Melbourne](/blog/best-rock-climbing-kids-melbourne).*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'best-rock-climbing-kids-melbourne',
+    title: 'Best Rock Climbing for Kids in Melbourne 2026: Indoor Walls & Bouldering',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best rock climbing and bouldering for kids in Melbourne 2026. Hardrock, Bayside Rock, Northside Boulders, Clip N Climb — prices, ages, and what to expect.',
+    readTime: '15 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'category-guide',
+    tags: ["rock-climbing", "bouldering", "melbourne", "indoor-activities", "kids", "family", "active-play"],
+    faqs: [
+    { q: 'What is the best rock climbing gym for kids in Melbourne?', a: 'The best rock climbing gyms for kids in Melbourne include Hardrock Climbing (multiple locations) for serious climbing and bouldering, Bayside Rock in Moorabbin for family-friendly rope climbing, Northside Boulders in Brunswick for bouldering, and Clip N Climb at various locations for a fun, accessible first climbing experience. The best choice depends on your child\'s age, experience, and what type of climbing they want to try.' },
+    { q: 'What age can kids start rock climbing in Melbourne?', a: 'Children can start indoor rock climbing from about age 4 at most Melbourne gyms, though some facilities have sessions or walls designed for children as young as 3. Clip N Climb venues are particularly well-suited for younger and first-time climbers (from about age 4). Bouldering (low walls, no ropes) is accessible from about age 3 at some gyms.' },
+    { q: 'How much does indoor rock climbing cost for kids in Melbourne?', a: 'Indoor rock climbing for kids in Melbourne typically costs $15 to $25 per session for a casual climb. Shoe hire is usually $3 to $5 extra. Clip N Climb sessions are typically $18 to $28 per person. Bouldering casual entry is usually $15 to $22. Harness hire for rope climbing is typically included or $3 to $5.' },
+    { q: 'Is rock climbing safe for kids?', a: 'Yes, indoor rock climbing is generally safe for children when proper safety practices are followed. Indoor climbing gyms use padded floors, auto-belay systems, and trained staff. Bouldering walls are low (typically 3–4 metres) with thick crash mats. Children should always be supervised, and first-time climbers benefit from an introductory lesson.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Best Rock Climbing for Kids in Melbourne 2026: Indoor Walls & Bouldering",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/best-rock-climbing-kids-melbourne-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best rock climbing gym for kids in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hardrock Climbing for serious climbing and bouldering, Bayside Rock for family-friendly rope climbing, Northside Boulders for bouldering, and Clip N Climb for accessible first experiences. The best choice depends on age and experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What age can kids start rock climbing in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Children can start from about age 4 at most gyms, with some facilities catering to children as young as 3. Clip N Climb suits younger first-timers. Bouldering is accessible from about age 3."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does indoor rock climbing cost for kids in Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically $15–$25 per session for casual climbing. Shoe hire is $3–$5 extra. Clip N Climb is $18–$28 per person. Bouldering is $15–$22 casual entry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is rock climbing safe for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, indoor climbing is generally safe with padded floors, auto-belay systems, and trained staff. Children should be supervised and first-timers benefit from an introductory lesson."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="Best Rock Climbing for Kids in Melbourne 2026: Indoor Walls & Bouldering" />
+<meta property="og:description" content="Best rock climbing and bouldering for kids in Melbourne 2026. Hardrock, Bayside Rock, Northside Boulders, Clip N Climb — prices and reviews." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/best-rock-climbing-kids-melbourne-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/best-rock-climbing-kids-melbourne" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Best Rock Climbing for Kids in Melbourne 2026: Indoor Walls & Bouldering" />
+<meta name="twitter:description" content="Best rock climbing for kids in Melbourne — Hardrock, Bayside Rock, Clip N Climb and more." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/best-rock-climbing-kids-melbourne-hero.jpg" />
+
+# Best Rock Climbing for Kids in Melbourne 2026: Indoor Walls & Bouldering
+
+**Indoor rock climbing is one of the best active pursuits for kids in Melbourne — it builds strength, problem-solving skills, confidence, and resilience, and most children take to it naturally. Melbourne has a growing number of indoor climbing gyms, bouldering centres, and Clip N Climb venues that welcome children from as young as 3 or 4 years old. This guide covers the best options across Melbourne for 2026, including dedicated climbing gyms, bouldering centres, and fun-focused Clip N Climb venues — with prices, age guidance, and what to expect on your first visit.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [Types of Indoor Climbing for Kids](#types-of-indoor-climbing-for-kids)
+- [Best Climbing Gyms for Kids](#best-climbing-gyms-for-kids)
+- [Best Bouldering Gyms for Kids](#best-bouldering-gyms-for-kids)
+- [Clip N Climb Venues](#clip-n-climb-venues)
+- [Comparison Table](#comparison-table)
+- [What to Expect on Your First Visit](#what-to-expect-on-your-first-visit)
+- [Climbing Programs and Classes for Kids](#climbing-programs-and-classes-for-kids)
+- [Birthday Parties at Climbing Gyms](#birthday-parties-at-climbing-gyms)
+- [Safety and What to Wear](#safety-and-what-to-wear)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/best-rock-climbing-kids-melbourne-hero.jpg" alt="Child climbing a colourful indoor climbing wall with safety harness and auto-belay" width="1200" height="630" loading="eager" />
+<figcaption>Indoor rock climbing is an engaging, confidence-building activity that kids of all ages enjoy.</figcaption>
+
+## Types of Indoor Climbing for Kids
+
+Before choosing a venue, it helps to understand the three main types of indoor climbing available in Melbourne:
+
+### Rope Climbing (Top-Rope and Lead)
+Traditional indoor climbing on tall walls (typically 10–15 metres) using a harness attached to a rope. Most gyms use auto-belay systems (automatic rope devices) for casual climbers, meaning you don't need a belaying partner or experience. Routes are graded by difficulty and colour-coded.
+
+**Best for:** Ages 5+, children who want the full climbing experience, progression to competitive climbing.
+
+### Bouldering
+Climbing on shorter walls (typically 3–4.5 metres) without ropes, over thick crash mats. Bouldering emphasises technique, problem-solving, and strength. Routes (called "problems") are graded by difficulty and colour-coded. Because there are no ropes or harnesses, bouldering is more accessible for casual visitors.
+
+**Best for:** Ages 3+, first-time climbers, children who prefer independence, social climbing.
+
+### Clip N Climb
+A branded fun-climbing experience designed specifically for recreation and first-time climbers. Clip N Climb venues feature colourful, themed climbing challenges (not traditional climbing routes) with auto-belay systems. Challenges include vertical drops, speed climbs, stairways, and obstacle-style walls.
+
+**Best for:** Ages 4–12, first-time climbers, birthday parties, children who want fun over technical challenge.
+
+## Best Climbing Gyms for Kids
+
+### Hardrock Climbing
+Hardrock is Melbourne's largest and most established climbing gym chain, with several locations across the city. Each venue has a mix of rope climbing walls and bouldering areas, making them versatile for families.
+
+**Locations:**
+- Hardrock Nunawading (eastern suburbs)
+- Hardrock Bayside (Moorabbin area)
+- Additional locations — check the Hardrock website
+
+**Kids' Facilities:**
+- Rope climbing with auto-belay on most walls (no experience needed)
+- Bouldering area with routes from beginner to advanced
+- Kids' climbing programs and school holiday camps
+- Birthday party packages
+
+**Pricing:**
+- Casual climb (adults): approximately $22–28
+- Casual climb (children under 16): approximately $16–22
+- Shoe hire: approximately $4–5
+- Harness hire (for rope walls): included or approximately $3
+
+**Our Take:** Hardrock is the best option for families who want a genuine climbing gym experience. The facilities are large and well-maintained, and the range of difficulty levels means children can progress over time. The kids' programs are well-run and a good entry point for children interested in climbing as a regular activity.
+
+### Bayside Rock (Moorabbin)
+Bayside Rock is a family-oriented climbing gym in the Moorabbin area of south-east Melbourne. It has a friendly, welcoming atmosphere and is particularly well-suited for families new to climbing.
+
+**Facilities:**
+- Tall rope walls with auto-belay
+- Bouldering area
+- Dedicated kids' area with easier routes
+- Introductory lessons for first-time climbers
+- School holiday programs
+- Birthday parties
+
+**Pricing:**
+- Casual climb: approximately $18–24 per person
+- Shoe hire: approximately $4
+- Introductory lesson: from approximately $30–40 (includes climb session)
+
+**Our Take:** Bayside Rock is one of the most welcoming climbing gyms in Melbourne for families. The staff are patient with new climbers, the kids' area is well-designed, and the overall atmosphere is less intimidating than some larger gyms. A great first climbing gym for families.
+
+### BlocHaus Bouldering + Climbing
+BlocHaus has several Melbourne locations offering a mix of bouldering and rope climbing in modern, well-designed facilities. The gyms have a strong community feel and are popular with both casual visitors and regular climbers.
+
+**Locations:** Multiple — check the BlocHaus website for current Melbourne venues.
+
+**Pricing:**
+- Casual climb: approximately $20–26 per person
+- Shoe hire: approximately $4–5
+
+## Best Bouldering Gyms for Kids
+
+### Northside Boulders (Brunswick)
+Northside Boulders in Brunswick is a dedicated bouldering gym — no ropes, just short walls and crash mats. It has a strong community feel and is popular with families in Melbourne's inner north.
+
+**Facilities:**
+- Extensive bouldering walls with routes from complete beginner to advanced
+- Problems reset regularly (new routes every few weeks)
+- Toddler and young children's area with lower, easier walls
+- Kids' bouldering programs
+- Birthday parties
+- Cafe on site
+
+**Pricing:**
+- Casual entry (adults): approximately $20–24
+- Casual entry (children under 16): approximately $14–18
+- Shoe hire: approximately $4
+
+**Our Take:** Northside Boulders is excellent for families who want bouldering specifically. The beginner routes are accessible to children from about age 4, the toddler area is good for younger siblings, and the cafe means parents can sit and watch comfortably. The atmosphere is relaxed and inclusive.
+
+### Other Bouldering Gyms
+Several other bouldering gyms across Melbourne welcome families:
+
+- **BlocHaus (multiple locations):** Large, modern bouldering facilities with kids' areas.
+- **Urban Climb (various):** Bouldering and rope climbing with well-graded beginner routes.
+- **Gravity Worx (Epping):** Northern suburbs bouldering gym.
+
+## Clip N Climb Venues
+
+Clip N Climb is designed as a fun activity rather than a sport. The climbing challenges are colourful, varied, and designed to be achievable for first-timers. This makes Clip N Climb the best option for young children, first-time climbers, and birthday parties where not everyone has climbing experience.
+
+### What to Expect
+- 15–30+ different climbing challenges in a single venue
+- Auto-belay on every challenge (no belaying experience needed)
+- Challenges range from easy (gentle inclines, large holds) to difficult (overhanging, small holds, speed climbs)
+- Sessions are typically 1 hour
+- All equipment (harness, clip-in device) provided
+- Staff assist with clipping in and safety
+
+### Melbourne Venues
+Clip N Climb operates within various leisure and climbing centres across Melbourne. Some trampoline parks and entertainment centres also incorporate Clip N Climb-style climbing walls. Check for current venues in your area.
+
+### Pricing
+- Clip N Climb sessions: approximately $18–28 per person
+- Included: harness, auto-belay, safety briefing
+- Shoe hire: may be additional ($3–5) or own enclosed shoes can be worn
+
+### Our Take
+Clip N Climb is perfect for children aged 4–12 who want a fun, accessible climbing experience. It's less about technical climbing and more about the excitement of reaching the top of different challenges. The colourful, varied challenges keep children engaged, and the auto-belay system means there's no need for climbing knowledge. For children who enjoy Clip N Climb and want to progress, a move to a bouldering gym or rope climbing gym is the natural next step.
+
+## Comparison Table
+
+| Venue | Type | Locations | Price (Kids) | Min Age | Best For |
+|-------|------|-----------|-------------|---------|----------|
+| Hardrock | Rope + Boulder | Multiple | $16–22 | ~5 | Serious climbing, progression |
+| Bayside Rock | Rope + Boulder | Moorabbin | $18–24 | ~5 | Family-friendly first visit |
+| Northside Boulders | Bouldering | Brunswick | $14–18 | ~4 | Bouldering, inner north |
+| BlocHaus | Boulder + Rope | Multiple | $14–20 | ~4 | Modern facilities, community |
+| Clip N Climb | Fun climbing | Various | $18–28 | ~4 | First-timers, parties, fun |
+| Latitude | Climbing + Trampoline | Various | $22–30 | ~4 | Variety (climbing + trampolines) |
+
+## What to Expect on Your First Visit
+
+### Before You Go
+- **Book online** if the venue offers it, especially during school holidays.
+- **Wear comfortable clothing** — stretchy pants or leggings and a t-shirt. Avoid jeans (too restrictive) and loose clothing that could catch.
+- **Enclosed shoes** are required at most gyms. Climbing shoes can be hired for $3–5.
+- **No jewellery** — rings, bracelets, and long necklaces should be removed.
+
+### When You Arrive
+1. **Sign a waiver.** Every climbing gym requires a waiver signed by a parent or guardian for children under 18. Many gyms allow you to sign online before arriving.
+2. **Safety briefing.** First-time visitors receive a brief orientation on rules, auto-belay use, and safety practices. This takes 5–10 minutes.
+3. **Gear up.** For rope climbing: you'll be fitted with a harness and shown how to clip into the auto-belay. For bouldering: just climbing shoes (hired or your own).
+4. **Start on easy routes.** Begin with the easiest graded routes (colour-coded, usually green or white) and progress as confidence builds.
+
+### Tips for First-Time Climbing Families
+- **Don't force it.** Some children take to climbing immediately; others need time. Let them start at their own pace.
+- **Celebrate effort, not just reaching the top.** Getting halfway up a wall is an achievement for a first-timer.
+- **Bouldering is a great starting point** for nervous children because the walls are short and there's no height anxiety.
+- **Try an introductory lesson.** Many gyms offer beginner lessons that teach basic technique and build confidence faster than figuring it out alone.
+
+## Climbing Programs and Classes for Kids
+
+Most Melbourne climbing gyms offer structured programs for children who want to climb regularly:
+
+### Kids' After-School Programs
+Weekly 1-hour sessions (typically once a week) where children learn climbing technique, safety skills, and progressively tackle harder routes. Most gyms run these during school terms for ages 5–16.
+
+**Cost:** Typically $15–25 per session, or $120–200 per term.
+
+### School Holiday Climbing Camps
+Multi-day programs during school breaks, typically 3–5 days of half-day or full-day climbing. These are intensive and suit children who want to develop their climbing skills.
+
+**Cost:** From approximately $50–80 per day.
+
+### Competition and Squad Training
+For children who show talent and interest, most gyms offer competition squads that train multiple times per week and compete at state and national level. Climbing will be an Olympic sport in Los Angeles 2028 (as it was in Tokyo 2020 and Paris 2024), which has boosted interest in youth competitive climbing.
+
+For school holiday program options beyond climbing, see our guide to [school holiday programs across Victoria](/blog/school-holiday-programs-victoria-2026).
+
+## Birthday Parties at Climbing Gyms
+
+Climbing gyms are excellent birthday party venues — active, exciting, and memorable. Most Melbourne climbing gyms offer party packages.
+
+### What's Typically Included
+- 1–2 hours of supervised climbing
+- A party room for food and cake
+- A party host or climbing instructor
+- All equipment (harness, shoes)
+- Basic food and drink (packages vary)
+
+### Approximate Costs
+- **Basic party:** From approximately $25–35 per child (minimum 6–10 children)
+- **Premium party:** From approximately $35–50 per child
+
+### Tips
+- Climbing parties work well for ages 5–14.
+- Ensure all guests have signed waivers (send them to parents in advance).
+- Not all guests need climbing experience — instructors guide first-timers.
+
+For more birthday venue ideas, see our guide to [kids birthday party venues in Melbourne](/blog/kids-birthday-party-venues-melbourne).
+
+## Safety and What to Wear
+
+### Safety at Indoor Climbing Gyms
+Indoor climbing gyms in Australia are well-regulated and maintain high safety standards. Key safety features include:
+
+- **Auto-belay systems** on rope walls (automatically control descent speed)
+- **Thick crash mats** under all bouldering walls
+- **Staff supervision** and safety briefings for all new visitors
+- **Regular equipment inspection** and route maintenance
+- **First aid trained staff** at all venues
+
+### What to Wear
+- **Comfortable, stretchy clothing:** Leggings, tracksuit pants, or shorts. T-shirt or long-sleeve top.
+- **Climbing shoes or enclosed sports shoes:** Climbing shoes can be hired at every gym. Own sports shoes are fine for Clip N Climb.
+- **Hair tied back:** Long hair should be tied up to avoid it catching.
+- **No jewellery:** Remove rings, watches, and bracelets.
+- **Bring a water bottle:** Climbing is physical and children will get thirsty.
+
+## Frequently Asked Questions
+
+**What is the best rock climbing gym for kids in Melbourne?**
+Hardrock Climbing (multiple locations) is best for serious climbing, Bayside Rock for a welcoming family atmosphere, Northside Boulders for bouldering, and Clip N Climb venues for fun, accessible first experiences. The best choice depends on your child's age and experience.
+
+**What age can kids start rock climbing in Melbourne?**
+Children can start from about age 4 at most gyms, with some bouldering accessible from age 3. Clip N Climb venues are particularly well-suited for younger first-time climbers.
+
+**How much does indoor rock climbing cost for kids in Melbourne?**
+Typically $15 to $25 per session for casual climbing. Shoe hire is $3–5 extra. Clip N Climb sessions are $18–28. Bouldering casual entry is $15–22.
+
+**Is rock climbing safe for kids?**
+Yes. Indoor climbing gyms use padded floors, auto-belay systems, and trained staff. Children should always be supervised, and first-timers benefit from an introductory lesson.
+
+---
+
+## Sources
+
+1. Climbing Queensland / Climbing Australia — Indoor climbing safety standards and youth climbing information. climbing.org.au
+2. Hardrock Climbing — Venue information, pricing, and kids' programs. hardrock.com.au
+3. Northside Boulders — Visitor information and youth programs. northsideboulders.com.au
+4. Sport Climbing Australia — Youth competition climbing and club information. sportclimbing.org.au
+5. Kidsafe Victoria — Children's activity safety guidelines. kidsafevic.com.au
+
+Venue details, pricing, and program information are based on published 2025–2026 data and are subject to change. We recommend checking each venue's website for current pricing and availability. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For more active indoor options, see our guide to [best trampoline parks in Melbourne for kids](/blog/best-trampoline-parks-melbourne-kids) and our guide to [indoor activities for Melbourne school holidays](/blog/indoor-activities-melbourne-school-holidays).*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'family-activities-craigieburn-2026',
+    title: 'Family Activities Craigieburn 2026: Things To Do With Kids Locally',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best family activities in Craigieburn for 2026. Aitken Creek, Woodlands Historical Park, playgrounds, indoor fun, and nearby attractions for kids and families.',
+    readTime: '15 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'local-area',
+    tags: ["craigieburn", "hume", "melbourne-north", "kids", "family", "playgrounds"],
+    faqs: [
+    { q: 'What are the best things to do with kids in Craigieburn?', a: 'The best family activities in Craigieburn include walking and cycling along Aitken Creek, visiting Woodlands Historical Park for bushwalks and kangaroo spotting, the Craigieburn Town Centre playground, Hume Global Learning Centre library programs, Splash Aqua Park and Leisure Centre, and nearby attractions like the Melbourne Airport viewing area and Greenvale Reservoir Park.' },
+    { q: 'Are there good playgrounds in Craigieburn?', a: 'Yes. Craigieburn has several good playgrounds including the playground at Craigieburn Town Centre, Aitken Creek playground, D.S. Aitken Reserve, and several estate playgrounds in newer residential developments. The Newbury Estate and Aston Estate areas have modern, well-equipped playgrounds.' },
+    { q: 'What is Woodlands Historical Park?', a: 'Woodlands Historical Park in Greenvale, about 10 minutes from Craigieburn, is a Parks Victoria reserve that preserves the original grassland landscape of the western plains. It has walking trails, historic farm buildings, and a resident population of kangaroos. Entry is free and it is a great spot for family walks and picnics.' },
+    { q: 'What indoor activities are there for kids in Craigieburn?', a: 'Indoor activities near Craigieburn include Splash Aqua Park and Leisure Centre (indoor pool and waterslides), Craigieburn Central and Craigieburn Junction shopping centres, Sky Zone Epping (trampoline park, about 15 minutes away), Event Cinemas at Craigieburn Central, and Hume libraries holiday programs.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Family Activities Craigieburn 2026: Things To Do With Kids Locally",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/family-activities-craigieburn-2026-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best things to do with kids in Craigieburn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best activities include Aitken Creek walking trails, Woodlands Historical Park for bushwalks and kangaroos, Craigieburn Town Centre playground, Hume library programs, Splash Aqua Park, and nearby attractions like Greenvale Reservoir Park."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there good playgrounds in Craigieburn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Good playgrounds include the Craigieburn Town Centre playground, Aitken Creek playground, D.S. Aitken Reserve, and modern estate playgrounds in Newbury and Aston areas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Woodlands Historical Park?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A free Parks Victoria reserve in Greenvale with walking trails, historic farm buildings, and resident kangaroos. About 10 minutes from Craigieburn, ideal for family walks and picnics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What indoor activities are there for kids in Craigieburn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indoor options include Splash Aqua Park and Leisure Centre, shopping centres, Sky Zone Epping trampoline park (15 minutes away), Event Cinemas at Craigieburn Central, and Hume library holiday programs."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="Family Activities Craigieburn 2026: Things To Do With Kids Locally" />
+<meta property="og:description" content="Best family activities in Craigieburn 2026. Aitken Creek, Woodlands Historical Park, playgrounds, indoor fun for kids." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/family-activities-craigieburn-2026-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/family-activities-craigieburn-2026" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Family Activities Craigieburn 2026: Things To Do With Kids Locally" />
+<meta name="twitter:description" content="Best family activities in Craigieburn — playgrounds, nature, indoor fun for kids." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/family-activities-craigieburn-2026-hero.jpg" />
+
+# Family Activities Craigieburn 2026: Things To Do With Kids Locally
+
+**Craigieburn, in Melbourne's northern growth corridor, is home to a growing number of young families. While it may not have the headline attractions of inner Melbourne, Craigieburn and its surrounding suburbs — including Mickleham, Greenvale, and Roxburgh Park — offer a solid range of family activities. From creek trails and nature reserves with resident kangaroos to modern playgrounds, aquatic centres, libraries, and easy access to northern Melbourne attractions, there is plenty to keep kids entertained. This guide covers the best family activities in and around Craigieburn for 2026.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [About Craigieburn for Families](#about-craigieburn-for-families)
+- [Outdoor Activities and Nature](#outdoor-activities-and-nature)
+- [Best Playgrounds in Craigieburn](#best-playgrounds-in-craigieburn)
+- [Indoor Activities and Rainy Days](#indoor-activities-and-rainy-days)
+- [Swimming and Aquatic Fun](#swimming-and-aquatic-fun)
+- [Libraries and Free Programs](#libraries-and-free-programs)
+- [Nearby Attractions Worth the Drive](#nearby-attractions-worth-the-drive)
+- [Where to Eat With Kids](#where-to-eat-with-kids)
+- [School Holiday Activities](#school-holiday-activities)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/family-activities-craigieburn-2026-hero.jpg" alt="Families walking along a tree-lined creek path in a northern Melbourne suburb" width="1200" height="630" loading="eager" />
+<figcaption>Craigieburn's creek trails and nature reserves offer green space and wildlife within the suburban landscape.</figcaption>
+
+## About Craigieburn for Families
+
+Craigieburn sits about 28 kilometres north of Melbourne CBD in the City of Hume. It has grown rapidly over the past two decades, with new residential estates, schools, and shopping centres transforming what was once semi-rural land on Melbourne's fringe.
+
+For families, Craigieburn's strengths are its open spaces, relatively new infrastructure (including modern playgrounds and community facilities), and proximity to both natural areas and the northern suburbs' shopping and entertainment options. The Hume Freeway and Metro train line connect Craigieburn to the city, with the Craigieburn train line terminus providing direct access to the CBD.
+
+The surrounding area includes Mickleham and Kalkallo to the north (rapidly developing), Greenvale to the west (established, with excellent nature reserves), and Roxburgh Park and Meadow Heights to the south.
+
+## Outdoor Activities and Nature
+
+### Aitken Creek Trail
+Aitken Creek runs through the heart of Craigieburn, and the paved trail along its banks is the suburb's most popular family walking and cycling path. The trail connects several parks and playgrounds and passes through grassy reserves and wetland areas. It is flat, pram-friendly, and suitable for young children on bikes or scooters.
+
+The creek corridor also provides habitat for waterbirds, and the revegetated sections along the banks are pleasant for a casual walk.
+
+**Length:** Several kilometres through central Craigieburn, connecting multiple reserves.
+**Cost:** Free
+**Best for:** All ages
+
+### Woodlands Historical Park (Greenvale)
+Woodlands Historical Park is one of the hidden gems of Melbourne's north. Located in Greenvale, about 10 minutes' drive from central Craigieburn, this Parks Victoria reserve preserves a large area of original western plains grassland — one of the last remaining examples of the landscape that once covered much of Melbourne's north and west.
+
+**Highlights:**
+- **Kangaroos:** A resident mob of eastern grey kangaroos lives in the park. They are often visible grazing on the open grasslands, particularly in the late afternoon. This is one of the closest places to Melbourne where children can see kangaroos in a natural setting.
+- **Historic farm buildings:** The park includes the original Woodlands homestead and farm buildings from the 1840s, providing a glimpse into early colonial farming life.
+- **Walking trails:** Several easy, flat trails loop through the grasslands and woodland areas. The main circuit is about 4 kilometres and suitable for families.
+- **Birdwatching:** The park is home to a variety of grassland birds including raptors, parrots, and ground-nesting species.
+- **Picnic facilities:** Picnic tables and a shelter are available near the car park.
+
+**Cost:** Free entry. Small car park fee may apply.
+**Location:** Woodlands Road, Greenvale
+**Tip:** Visit in the late afternoon for the best chance of seeing kangaroos. Bring water and sun protection — there is limited shade on the grassland trails.
+
+### Greenvale Reservoir Park
+Greenvale Reservoir Park is a large recreational reserve surrounding the Greenvale Reservoir, about 10 minutes from Craigieburn. The park has a sealed walking and cycling trail around the reservoir (approximately 5.5 kilometres), barbecue facilities, playgrounds, and open grassland.
+
+The trail is flat and pram-friendly, with views across the water. It is popular with families for walking, cycling, and picnics.
+
+**Cost:** Free
+**Location:** Somerton Road, Greenvale
+
+### Galada Tamboore
+Galada Tamboore is a wetland and grassland reserve in Meadow Heights, about 10 minutes south of Craigieburn. The reserve protects significant indigenous and ecological values, with walking trails through grassland and around constructed wetlands. Interpretive signs explain the Aboriginal cultural significance of the site and the local ecology.
+
+**Cost:** Free
+**Best for:** Ages 4+ (easy flat trails)
+
+### Craigieburn Grasslands Nature Conservation Reserve
+This small reserve on the edge of Craigieburn protects critically endangered native grassland. While not a recreational park in the traditional sense, it has a short walking trail and is an interesting educational visit for older children interested in ecology and conservation.
+
+## Best Playgrounds in Craigieburn
+
+### Craigieburn Town Centre Playground
+Adjacent to Craigieburn Central shopping centre, this playground is a convenient option for families combining a shopping trip with outdoor play. It has modern equipment suitable for a range of ages.
+
+### Aitken Creek Playground (D.S. Aitken Reserve)
+D.S. Aitken Reserve on Aitken Creek has a well-equipped playground with climbing structures, swings, slides, and a toddler zone. The playground is adjacent to the creek trail, making it easy to combine a walk with play time. Barbecue facilities and picnic tables are available.
+
+### Newbury Estate Playgrounds
+The newer residential estates in Craigieburn — particularly Newbury, Aston, and Highlands — have modern, well-designed playgrounds built as part of the residential development. These often include nature play elements, climbing nets, and equipment for a range of ages. They are typically less crowded than central playgrounds.
+
+### Craigieburn Gardens
+Craigieburn Gardens on Craigieburn Road is an older but well-maintained park with mature trees, a playground, tennis courts, and open space. It has a more established, shady feel compared to the newer estate playgrounds.
+
+### Roxburgh Park Splash Park (Seasonal)
+During warmer months, the splash park at Roxburgh Park lake (about 10 minutes south of Craigieburn) is popular with young children. The splash pad features water jets and is free to use.
+
+For more playground ideas across Melbourne, see our guide to [best playgrounds in Melbourne](/blog/best-playgrounds-melbourne).
+
+## Indoor Activities and Rainy Days
+
+### Splash Aqua Park and Leisure Centre
+The Hume City Council's aquatic facility in Craigieburn is a modern centre with an indoor pool, waterslides, a toddler splash area, and a gym. During school holidays, the centre runs additional family programs and swim sessions.
+
+**Cost:** Casual swim from approximately $6–8 per person. Waterslide access may be additional.
+**Location:** Craigieburn
+
+### Event Cinemas (Craigieburn Central)
+Event Cinemas at Craigieburn Central shopping centre runs school holiday movie sessions at discounted prices. The cinema is modern with comfortable seating.
+
+### Craigieburn Central and Craigieburn Junction
+Craigieburn's two main shopping centres provide indoor options on rainy days, with food courts, children's play areas (Craigieburn Central has a small indoor play space), and retail stores.
+
+### Sky Zone Epping
+Sky Zone's trampoline park in Epping is about 15 minutes east of Craigieburn and is one of the best active indoor options in the area. See our [best trampoline parks in Melbourne](/blog/best-trampoline-parks-melbourne-kids) guide for full details.
+
+### Latitude (Epping or nearby)
+Latitude offers trampolines, climbing walls, and VR — about 15 minutes from Craigieburn. Good for a combined activity outing during school holidays.
+
+For more indoor options, see our comprehensive guide to [indoor activities for Melbourne school holidays](/blog/indoor-activities-melbourne-school-holidays).
+
+## Swimming and Aquatic Fun
+
+### Splash Aqua Park and Leisure Centre
+See above for details. The centre's indoor pool is open year-round and is the primary local swimming option for Craigieburn families.
+
+### Oak Park Aquatic Centre
+Further south in the Hume council area, the Oak Park Aquatic Centre has an outdoor pool (summer) and an indoor pool (year-round). About 20 minutes from Craigieburn.
+
+### Watermarc (Greensborough)
+Watermarc in Greensborough (about 25 minutes east of Craigieburn) is one of Melbourne's best aquatic centres, with water slides, a wave pool, a lazy river, and a toddler area. Worth the drive for a special school holiday outing.
+
+## Libraries and Free Programs
+
+### Hume Libraries
+Hume City Council operates several libraries in the Craigieburn area, including:
+
+- **Craigieburn Library** (at Hume Global Learning Centre)
+- **Broadmeadows Library**
+- **Sunbury Library**
+
+All branches run free school holiday programs during every break, including:
+- Craft workshops
+- Coding and robotics sessions
+- LEGO building
+- Storytime and rhyme time for younger children
+- Author visits
+- Science experiments
+
+Programs are free but require booking. Check the Hume Libraries website 2–3 weeks before each school holiday period for the program schedule. Popular sessions fill quickly.
+
+### Hume Global Learning Centre
+The Hume Global Learning Centre in Craigieburn is a modern community facility that hosts library services, community programs, and council events. During school holidays, the centre is a hub for free family activities.
+
+## Nearby Attractions Worth the Drive
+
+### Melbourne Airport Viewing Area (Tullamarine)
+About 15 minutes from Craigieburn, the viewing areas near Melbourne Airport are a free, exciting outing for plane-loving children. Watch aircraft take off and land from close range. Several informal viewing spots exist along Airport Drive and surrounding roads.
+
+### Bundoora Park (Bundoora)
+Bundoora Park, about 20 minutes south-east of Craigieburn, is a large regional park with a farm (Bundoora Park Farm, with animals to see and feed), playgrounds, walking trails, and heritage areas. The farm is free and a great outing for younger children.
+
+### Epping Plaza and Surrounds
+Epping (about 15 minutes east) has additional shopping, dining, and entertainment options including Sky Zone trampoline park and various food options.
+
+### Melbourne CBD and Inner City
+Craigieburn is well-connected to the city via the Craigieburn Metro train line (about 50 minutes to the CBD) and the Hume Freeway. During school holidays, a city day trip offers access to the Melbourne Museum (free for kids), NGV, Scienceworks, and more. See our guide to [free school holiday activities in Melbourne](/blog/free-school-holiday-activities-melbourne-2026).
+
+### Sunbury
+Sunbury, about 25 minutes west of Craigieburn, is a semi-rural town with good walking trails along Jacksons Creek, the Sunbury Rings (historic Aboriginal rock wells), and several cafes and parks.
+
+## Where to Eat With Kids
+
+- **Craigieburn Central food court:** Practical and varied — good for a quick family meal.
+- **Highlands cafes and takeaways:** The Highlands shopping precinct has several casual dining options.
+- **Roxburgh Park restaurants:** Along Somerton Road, a range of cuisines including Italian, Indian, Turkish, and Vietnamese.
+- **Greenvale cafes:** Greenvale has several family-friendly cafes, particularly along Greenvale Drive.
+- **Picnic options:** Woodlands Historical Park and Greenvale Reservoir are excellent picnic spots — bring your own food and enjoy the open space.
+
+## School Holiday Activities
+
+During school holidays, the best options in and around Craigieburn include:
+
+**Free:**
+- Woodlands Historical Park walk and kangaroo spotting
+- Aitken Creek trail walking or cycling
+- Hume Libraries holiday programs (book early)
+- Greenvale Reservoir walk or cycle
+- Playground visits across Craigieburn
+- Melbourne Airport viewing
+
+**Paid:**
+- Splash Aqua Park swimming and waterslides
+- Sky Zone Epping trampoline park
+- Event Cinemas school holiday movies
+- Melbourne CBD day trip (train from Craigieburn station)
+
+For a full overview of school holiday options, see our [school holiday programs in Melbourne 2026](/blog/school-holiday-programs-melbourne-2026) guide and our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide.
+
+## Frequently Asked Questions
+
+**What are the best things to do with kids in Craigieburn?**
+The best family activities in Craigieburn include walking and cycling along Aitken Creek, visiting Woodlands Historical Park for bushwalks and kangaroo spotting, the Craigieburn Town Centre playground, Hume Global Learning Centre library programs, Splash Aqua Park and Leisure Centre, and nearby attractions like the Melbourne Airport viewing area and Greenvale Reservoir Park.
+
+**Are there good playgrounds in Craigieburn?**
+Yes. Craigieburn has several good playgrounds including the playground at Craigieburn Town Centre, Aitken Creek playground, D.S. Aitken Reserve, and several estate playgrounds in newer residential developments like Newbury and Aston.
+
+**What is Woodlands Historical Park?**
+Woodlands Historical Park in Greenvale is a Parks Victoria reserve that preserves the original grassland landscape of the western plains. It has walking trails, historic farm buildings, and a resident population of kangaroos. Entry is free and it is a great spot for family walks and picnics.
+
+**What indoor activities are there for kids in Craigieburn?**
+Indoor activities include Splash Aqua Park and Leisure Centre (indoor pool and waterslides), shopping centres, Sky Zone Epping (trampoline park, about 15 minutes away), Event Cinemas at Craigieburn Central, and Hume libraries holiday programs.
+
+---
+
+## Sources
+
+1. Hume City Council — Family activities, playgrounds, library programs, and community facilities. hume.vic.gov.au
+2. Parks Victoria — Woodlands Historical Park visitor information. parks.vic.gov.au
+3. Hume Libraries — School holiday program schedule and library services. humelibraries.vic.gov.au
+4. Melbourne Water — Greenvale Reservoir Park visitor information. melbournewater.com.au
+5. Splash Aqua Park and Leisure Centre — Facility information and programs. splashaquapark.com.au
+
+Information in this guide is based on published 2025–2026 data and is subject to change. We recommend confirming details directly with each venue before visiting. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For more family activities across Melbourne's northern suburbs and beyond, see our [family days out in Melbourne](/blog/family-days-out-melbourne) guide and our [free kids activities in Melbourne](/blog/free-kids-activities-melbourne) guide.*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
+  },
+  {
+    slug: 'school-holiday-activities-bendigo-2026',
+    title: 'School Holiday Activities Bendigo 2026: Fun Things To Do With Kids',
+    date: "2026-04-01",
+    publishDate: "2026-04-01",
+    description: 'The best school holiday activities in Bendigo for 2026. Discovery Science Centre, Central Deborah Gold Mine, galleries, nature walks — plus a day trip guide from Melbourne.',
+    readTime: '15 min read',
+    author: "VicBuzz Editorial Team",
+    category: 'school-holidays',
+    tags: ["school-holidays", "bendigo", "regional-victoria", "gold-mine", "kids", "family"],
+    faqs: [
+    { q: 'What are the best school holiday activities in Bendigo for kids?', a: 'The best school holiday activities in Bendigo include the Discovery Science and Technology Centre (hands-on science museum), Central Deborah Gold Mine underground tours, the Bendigo Art Gallery, the Bendigo Tramway vintage tram rides, Lake Weeroona walking and playground, the Great Stupa of Universal Compassion, Bendigo Pottery, and free library holiday programs through the City of Greater Bendigo.' },
+    { q: 'How far is Bendigo from Melbourne?', a: 'Bendigo is approximately 150 kilometres north-west of Melbourne, about 1 hour 45 minutes by car via the Calder Freeway (M79). V/Line trains run regularly from Melbourne Southern Cross Station to Bendigo Station, taking about 2 hours.' },
+    { q: 'Is the Central Deborah Gold Mine good for kids?', a: 'Yes. The Central Deborah Gold Mine is one of Bendigo\'s best family attractions. The underground mine tours take visitors 60 metres underground through original mining tunnels. Tours are guided and safe, and children find the experience of going underground in a real gold mine exciting and memorable. Different tour depths are available — the shallowest is suitable for children aged about 4 and up.' },
+    { q: 'Are there free activities in Bendigo for families?', a: 'Yes. Free activities in Bendigo include Lake Weeroona walking trail and playground, Rosalind Park (central Bendigo, with a playground, lookout tower, and gardens), the Bendigo Creek Trail for walking and cycling, the Chinese heritage precinct walking trail, Bendigo library holiday programs, and several free or low-cost council events during school holidays.' }
+    ],
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "School Holiday Activities Bendigo 2026: Fun Things To Do With Kids",
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "author": {
+    "@type": "Organization",
+    "name": "VicBuzz Editorial Team",
+    "url": "https://vicbuzz.com.au/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VicBuzz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vicbuzz.com.au/logo.png"
+    }
+  },
+  "image": ["https://vicbuzz.com.au/images/articles/school-holiday-activities-bendigo-2026-hero.jpg"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best school holiday activities in Bendigo for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best activities include the Discovery Science and Technology Centre, Central Deborah Gold Mine tours, Bendigo Art Gallery, Bendigo Tramway vintage rides, Lake Weeroona, the Great Stupa, Bendigo Pottery, and free library holiday programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Bendigo from Melbourne?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 150 kilometres, approximately 1 hour 45 minutes by car via the Calder Freeway or 2 hours by V/Line train from Southern Cross Station."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Central Deborah Gold Mine good for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Underground tours take visitors 60 metres below through original tunnels. Guided and safe, with different tour depths available — the shallowest suits children aged about 4 and up."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there free activities in Bendigo for families?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Free activities include Lake Weeroona trail and playground, Rosalind Park, Bendigo Creek Trail, Chinese heritage walking trail, and library holiday programs."
+      }
+    }
+  ]
+}
+</script>
+
+<meta property="og:title" content="School Holiday Activities Bendigo 2026: Fun Things To Do With Kids" />
+<meta property="og:description" content="Best school holiday activities in Bendigo 2026. Science centre, gold mine, galleries, nature walks — plus day trip guide from Melbourne." />
+<meta property="og:image" content="https://vicbuzz.com.au/images/articles/school-holiday-activities-bendigo-2026-hero.jpg" />
+<meta property="og:url" content="https://vicbuzz.com.au/school-holiday-activities-bendigo-2026" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="VicBuzz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="School Holiday Activities Bendigo 2026: Fun Things To Do With Kids" />
+<meta name="twitter:description" content="Best school holiday activities in Bendigo 2026 — science centre, gold mine, galleries, and free activities." />
+<meta name="twitter:image" content="https://vicbuzz.com.au/images/articles/school-holiday-activities-bendigo-2026-hero.jpg" />
+
+# School Holiday Activities Bendigo 2026: Fun Things To Do With Kids
+
+**Bendigo is one of Victoria's most rewarding regional family destinations, and during school holidays it offers a rich mix of hands-on experiences, cultural attractions, nature, and gold rush history. From the interactive Discovery Science Centre and the underground tunnels of Central Deborah Gold Mine to the world-class Bendigo Art Gallery, vintage tram rides, and lakeside walks, Bendigo punches well above its weight for family activities. At under two hours from Melbourne by car or train, it makes an excellent day trip or weekend getaway. This guide covers the best school holiday activities in Bendigo for 2026.**
+
+*By VicBuzz Editorial Team | Last updated April 2026*
+
+---
+
+## Table of Contents
+
+- [Getting to Bendigo From Melbourne](#getting-to-bendigo-from-melbourne)
+- [Discovery Science and Technology Centre](#discovery-science-and-technology-centre)
+- [Central Deborah Gold Mine](#central-deborah-gold-mine)
+- [Free Activities for Families](#free-activities-for-families)
+- [Arts, Culture and Museums](#arts-culture-and-museums)
+- [Outdoor Activities and Nature](#outdoor-activities-and-nature)
+- [Rainy Day and Winter Activities](#rainy-day-and-winter-activities)
+- [Where to Eat With Kids in Bendigo](#where-to-eat-with-kids-in-bendigo)
+- [Sample Day Trip From Melbourne](#sample-day-trip-from-melbourne)
+- [Sample Weekend Itinerary](#sample-weekend-itinerary)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources](#sources)
+
+---
+
+<img src="/images/articles/school-holiday-activities-bendigo-2026-hero.jpg" alt="Family exploring the underground tunnels at Central Deborah Gold Mine in Bendigo" width="1200" height="630" loading="eager" />
+<figcaption>Central Deborah Gold Mine's underground tours are one of Bendigo's most memorable family experiences.</figcaption>
+
+## Getting to Bendigo From Melbourne
+
+### By Car
+Bendigo is approximately 150 kilometres north-west of Melbourne via the Calder Freeway (M79). The drive takes about 1 hour 45 minutes in normal traffic. The road is well-maintained and mostly dual carriageway, passing through Kyneton, Castlemaine, and the goldfields region.
+
+**Parking:** Central Bendigo has ample street parking (time-limited in some areas) and several car parks near the main attractions.
+
+### By Train
+V/Line operates regular train services from Melbourne Southern Cross Station to Bendigo Station, with the journey taking approximately 2 hours. Trains run about every hour during the day. A Myki card covers the journey. Children under 5 travel free, children 5–18 on concession fares.
+
+Bendigo Station is centrally located, within walking distance of many attractions. The Bendigo Tramway connects the station to key sites along Pall Mall.
+
+### Driving Times From Other Victorian Cities
+- **From Ballarat:** Approximately 1 hour 30 minutes via the Midland Highway
+- **From Shepparton:** Approximately 1 hour 30 minutes
+- **From Echuca:** Approximately 1 hour
+
+## Discovery Science and Technology Centre
+
+The Discovery Science and Technology Centre is Bendigo's top family attraction for children interested in science, engineering, and problem-solving. It is a hands-on, interactive science museum where children can experiment, build, test, and explore across dozens of exhibits.
+
+### What to See and Do
+- **Interactive exhibits:** Over 100 hands-on exhibits covering physics, electricity, magnetism, optics, engineering, and earth science. Children can create electrical circuits, test pulleys and levers, explore optical illusions, and more.
+- **Planetarium:** A small planetarium with regular shows about the solar system, stars, and space. Shows are age-appropriate and engaging for children from about age 5.
+- **School holiday programs:** During each school break, Discovery runs themed workshops and activities, often including science shows, robotics challenges, and building projects.
+- **Outdoor science playground:** An outdoor area with science-themed play equipment.
+
+### Practical Information
+**Cost:** Adults approximately $16–20, children approximately $12–15, family passes available. Planetarium shows are additional (approximately $5–8).
+**Location:** 7 Railway Place, Bendigo (adjacent to Bendigo Station)
+**Hours:** Open daily. Allow 2–3 hours.
+**Tip:** This is one of the best-value science museums in Victoria and is significantly less crowded than Scienceworks. Children who love hands-on experiments will want to stay for hours.
+
+## Central Deborah Gold Mine
+
+Central Deborah Gold Mine is a preserved gold mine in central Bendigo that offers guided underground tours through original mining tunnels. It is one of the few places in Australia where visitors can go underground in a real mine, and the experience is both educational and exciting.
+
+### Tour Options
+- **Mine Experience Tour (60 metres underground):** The standard tour descends about 60 metres underground through the main shaft and tunnels. Guides explain mining techniques, the life of gold miners, and the geology of the region. The tour takes about 75 minutes. Suitable for children aged about 4 and up (younger children may find the darkness and confined spaces overwhelming).
+- **Underground Adventure Tour (deeper):** A more intensive tour that goes deeper underground and includes more physical elements. Suitable for older children and teenagers (typically 8+).
+- **Surface tour:** For families with very young children or those uncomfortable underground, a surface tour covers the mine buildings, equipment, and panning area without going underground.
+
+### Practical Information
+**Cost:** Mine Experience Tour — adults approximately $30–38, children approximately $18–24, family passes available. Underground Adventure Tour prices are higher.
+**Location:** 76 Violet Street, Bendigo (central — walkable from the station)
+**Hours:** Tours run at set times. Book in advance during school holidays as popular sessions fill.
+**Tip:** Wear enclosed shoes and a warm layer — it is cool underground regardless of the surface temperature. Helmets and cap lamps are provided.
+
+### Vintage Tram Ride
+Central Deborah Gold Mine also operates the Bendigo Tramway — a heritage tram service that runs vintage trams along Pall Mall in central Bendigo, connecting the mine to other attractions. The tram ride is an experience in itself and children enjoy the novelty of riding a historic tram.
+
+**Cost:** Approximately $6–10 per person. Combination tickets with the mine tour are available.
+
+## Free Activities for Families
+
+### Lake Weeroona
+Lake Weeroona is a scenic recreational lake about 10 minutes' walk north of central Bendigo. The 2.2-kilometre walking trail around the lake is flat, paved, and suitable for families with prams, bikes, and scooters. The lake has a large, modern playground, barbecue facilities, and picnic areas.
+
+Lake Weeroona is one of the nicest urban lake walks in regional Victoria and is an ideal spot for a morning walk before visiting Bendigo's attractions.
+
+**Cost:** Free
+
+### Rosalind Park
+Rosalind Park is Bendigo's central park, located between Pall Mall and the Art Gallery. It features a playground, a lookout tower (free to climb, with views over Bendigo), formal gardens, a fern gully, and open lawns. The park is heritage-listed and beautifully maintained.
+
+The playground has equipment for younger children, and the lookout tower (a timber structure) provides modest views that children enjoy climbing to.
+
+**Cost:** Free
+
+### Bendigo Creek Trail
+The Bendigo Creek Trail is a walking and cycling path that follows Bendigo Creek through the city and out into surrounding bushland. The trail connects several parks and reserves and is suitable for family cycling.
+
+**Cost:** Free
+
+### Chinese Heritage Walk
+Bendigo has a significant Chinese heritage from the gold rush era. A self-guided walking trail through central Bendigo takes in the Joss House (Chinese temple), the Golden Dragon Museum area, and the Chinese precinct. The walk is free (museum entry is separate).
+
+### Library Holiday Programs
+The Goldfields Libraries network (City of Greater Bendigo) runs free school holiday programs at libraries across Bendigo during every school break. Programs include craft, coding, LEGO, science experiments, and author visits. Sessions are free but require booking.
+
+## Arts, Culture and Museums
+
+### Bendigo Art Gallery
+The Bendigo Art Gallery is one of Australia's oldest and largest regional galleries, with a nationally significant collection. The gallery hosts major touring exhibitions and has a strong reputation for bringing world-class shows to regional Victoria.
+
+During school holidays, the gallery runs family workshops, art-making activities, and guided tours designed for children. The gallery itself is architecturally impressive and free to enter (special exhibitions may have fees).
+
+**Cost:** Free (permanent collection). Special exhibitions approximately $10–25.
+**Location:** 42 View Street, Bendigo
+**Best for:** Ages 5+ (younger children may enjoy the workshops more than the gallery itself)
+
+### Golden Dragon Museum
+The Golden Dragon Museum tells the story of Bendigo's Chinese community from the gold rush to the present. It houses the world's longest imperial dragon (Sun Loong) and Bendigo's heritage processional dragons. The museum is compact but culturally significant and engaging for children who enjoy history and cultural stories.
+
+**Cost:** Adults approximately $12–15, children approximately $6–8.
+**Location:** 1–11 Bridge Street, Bendigo
+
+### Bendigo Pottery
+Bendigo Pottery is Australia's oldest working pottery, located about 5 minutes north of central Bendigo. The site includes a museum of pottery history, a gallery, and — most importantly for families — hands-on pottery workshops where children can throw pots on a wheel and paint their own pottery.
+
+**Cost:** Museum entry is free or low-cost. Pottery workshops from approximately $20–40 per person.
+**Location:** 146 Midland Highway, Epsom
+**Best for:** Ages 4+ for painting, ages 8+ for wheel throwing
+
+### Great Stupa of Universal Compassion
+The Great Stupa in Myers Flat (about 10 minutes from central Bendigo) is a Buddhist temple complex that, when completed, will be one of the largest stupas in the Western world. The site is already visually impressive and houses a jade Buddha and prayer wheels. It is a unique and peaceful experience for families, and children enjoy the visual spectacle of the prayer wheels and the jade Buddha.
+
+**Cost:** By donation (gold coin)
+**Location:** 25 Sandhurst Town Road, Myers Flat
+
+## Outdoor Activities and Nature
+
+### One Tree Hill Lookout
+One Tree Hill, just east of central Bendigo, offers panoramic views of the city and surrounding goldfields from a lookout point. The drive to the top takes about 5 minutes from central Bendigo, and there is a short walk from the car park to the viewing area. The views are impressive and give a sense of how the goldfields landscape stretches out from the city.
+
+**Cost:** Free
+
+### Whipstick State Park
+Whipstick State Park, about 15 minutes north of Bendigo, is a nature reserve with walking trails through eucalyptus woodland. The park is known for wildflowers (spring) and birdlife. Easy, family-friendly trails are available.
+
+**Cost:** Free
+
+### Bendigo Bushland Trail
+A network of walking and cycling trails on the edges of Bendigo, passing through bushland and former gold mining areas. Some trails pass old mine sites and mullock heaps — remnants of the gold rush visible in the landscape.
+
+### Kangaroo Flat Swimming Pool
+During warmer holiday periods, the Kangaroo Flat pool complex (about 10 minutes from central Bendigo) has outdoor pools, a waterslide, and a toddler area. A good option for a hot day.
+
+## Rainy Day and Winter Activities
+
+Bendigo's winter holidays (June–July) can be cold and wet. Indoor options include:
+
+- **Discovery Science and Technology Centre** — fully indoor, perfect for any weather
+- **Central Deborah Gold Mine** — underground is cool year-round but dry
+- **Bendigo Art Gallery** — free, warm, and engaging
+- **Golden Dragon Museum** — indoor museum
+- **Bendigo Pottery workshops** — indoor activities
+- **Star Cinema Bendigo** — school holiday movie sessions
+- **Bendigo Libraries** — free indoor holiday programs
+- **Splash Aquatics (Kangaroo Flat)** — indoor swimming (check current facilities)
+
+## Where to Eat With Kids in Bendigo
+
+Bendigo has an excellent food scene for a regional city:
+
+- **Pall Mall and Hargreaves Street:** Bendigo's main streets have a range of cafes and restaurants. Several are family-friendly with outdoor seating.
+- **Good Loaf Sourdough Bakery:** A popular cafe and bakery — good coffee, pastries, and lunch options.
+- **The Dispensary:** A well-known Bendigo restaurant in a heritage building. More upmarket but accommodates families during the day.
+- **Bakeries:** Bendigo has several excellent bakeries with pies, sausage rolls, and pastries that children love. Beechworth Bakery has a Bendigo location.
+- **Fish and chips and pub meals:** Several family-friendly pubs along the main street offer casual meals.
+- **Picnic provisions:** For Lake Weeroona or Rosalind Park picnics, stock up at the Bendigo Marketplace or supermarkets on the highway.
+
+## Sample Day Trip From Melbourne
+
+**8:00am** — Depart Melbourne via Calder Freeway
+**10:00am** — Arrive Bendigo. Start at the Discovery Science and Technology Centre (2 hours)
+**12:00pm** — Walk to Rosalind Park for a picnic lunch (15 minutes' walk or vintage tram ride)
+**1:00pm** — Central Deborah Gold Mine tour (1.5 hours including booking and waiting time)
+**2:30pm** — Walk through Pall Mall, optional Bendigo Art Gallery visit (free, 45 minutes)
+**3:30pm** — Lake Weeroona walk and playground (30 minutes)
+**4:00pm** — Begin drive back to Melbourne (1 hour 45 minutes)
+
+## Sample Weekend Itinerary
+
+**Day 1:**
+- Morning: Discovery Science and Technology Centre (2–3 hours)
+- Lunch: Pall Mall cafe
+- Afternoon: Central Deborah Gold Mine tour + vintage tram ride
+- Evening: Dinner in central Bendigo
+
+**Day 2:**
+- Morning: Bendigo Pottery workshop (hands-on pottery, 1.5 hours)
+- Late morning: Lake Weeroona walk and playground
+- Lunch: Picnic at Lake Weeroona or Rosalind Park
+- Afternoon: Bendigo Art Gallery (free) or Great Stupa visit
+- Return to Melbourne
+
+**Budget Day (Mostly Free):**
+- Lake Weeroona walk and playground (free)
+- Rosalind Park playground and lookout tower (free)
+- Chinese Heritage Walk (free, self-guided)
+- Bendigo Creek Trail cycling (free)
+- Library holiday program (free, book ahead)
+- Bendigo Art Gallery permanent collection (free)
+
+For more regional holiday ideas, see our guide to [school holiday activities in Ballarat](/blog/school-holiday-activities-ballarat-2026) and our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide.
+
+## Frequently Asked Questions
+
+**What are the best school holiday activities in Bendigo for kids?**
+The best school holiday activities in Bendigo include the Discovery Science and Technology Centre, Central Deborah Gold Mine underground tours, the Bendigo Art Gallery, the Bendigo Tramway vintage tram rides, Lake Weeroona walking and playground, the Great Stupa of Universal Compassion, Bendigo Pottery, and free library holiday programs through the City of Greater Bendigo.
+
+**How far is Bendigo from Melbourne?**
+Bendigo is approximately 150 kilometres north-west of Melbourne, about 1 hour 45 minutes by car via the Calder Freeway (M79). V/Line trains run regularly from Melbourne Southern Cross Station to Bendigo Station, taking about 2 hours.
+
+**Is the Central Deborah Gold Mine good for kids?**
+Yes. The underground mine tours take visitors 60 metres underground through original mining tunnels. Tours are guided and safe. Different tour depths are available — the shallowest is suitable for children aged about 4 and up.
+
+**Are there free activities in Bendigo for families?**
+Yes. Free activities include Lake Weeroona walking trail and playground, Rosalind Park (playground, lookout tower, gardens), the Bendigo Creek Trail, the Chinese heritage walking trail, Bendigo library holiday programs, and the Bendigo Art Gallery permanent collection.
+
+---
+
+## Sources
+
+1. Discovery Science and Technology Centre — Visitor information and school holiday programs. discovery.asn.au
+2. Central Deborah Gold Mine — Tour information, pricing, and booking. central-deborah.com
+3. Bendigo Art Gallery — Exhibitions, family programs, and visitor information. bendigoregion.com.au/bendigo-art-gallery
+4. City of Greater Bendigo — Council holiday programs and library events. bendigo.vic.gov.au
+5. Visit Bendigo — Official visitor information for the Bendigo region. bendigoregion.com.au
+6. Victorian Department of Education — 2026 school term dates. education.vic.gov.au
+
+Information in this guide is based on published 2025–2026 data and is subject to change. We recommend confirming details directly with each venue before visiting. Pricing is in Australian dollars and is indicative only.
+
+---
+
+*Written by the VicBuzz Editorial Team. For holiday planning across all of Victoria, see our [school holiday activities across Victoria](/blog/school-holiday-activities-victoria) pillar guide. For free options closer to Melbourne, see our [free school holiday activities in Melbourne](/blog/free-school-holiday-activities-melbourne-2026) guide.*
+
+*Author: VicBuzz Editorial Team — local parents and community contributors covering family life across Victoria. We research, visit, and review family venues and programs across Melbourne and regional Victoria to help parents make informed decisions.*`
   }
 ];
 
