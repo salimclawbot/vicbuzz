@@ -8759,7 +8759,7 @@ Program details, dates, and pricing are based on published 2025–2026 programmi
 
 ---
 
-<img src="/images/articles/school-holiday-activities-geelong-2026-hero.jpg" alt="Families enjoying the Geelong Waterfront playground with the bay in the background" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/1001914/pexels-photo-1001914.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Families enjoying the Geelong Waterfront playground with the bay in the background" width="1200" height="630" loading="eager" />
 <figcaption>The Geelong Waterfront is the starting point for most family visits to the region.</figcaption>
 
 ## Why Geelong Is a Top School Holiday Destination
@@ -9138,7 +9138,7 @@ Information in this guide is based on published 2025–2026 data and is subject 
 
 ---
 
-<img src="/images/articles/indoor-activities-melbourne-school-holidays-hero.jpg" alt="Children playing in a colourful indoor play centre with slides and ball pits" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/3768722/pexels-photo-3768722.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Children playing in a colourful indoor play centre with slides and ball pits" width="1200" height="630" loading="eager" />
 <figcaption>Melbourne's indoor play centres and attractions keep kids entertained regardless of the weather.</figcaption>
 
 ## Free Indoor Activities for Kids
@@ -9499,7 +9499,7 @@ Venue details, pricing, and programming are based on published 2025–2026 infor
 
 ---
 
-<img src="/images/articles/school-holiday-programs-victoria-2026-hero.jpg" alt="Children participating in a school holiday sports camp on a Melbourne oval" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/1148998/pexels-photo-1148998.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Children participating in a school holiday sports camp on a Melbourne oval" width="1200" height="630" loading="eager" />
 <figcaption>School holiday programs keep kids active, social, and learning — and give parents a break too.</figcaption>
 
 ## 2026 Victorian School Holiday Dates
@@ -9895,7 +9895,7 @@ Program details, dates, and pricing are based on published 2025–2026 programmi
 
 ---
 
-<img src="/images/articles/mornington-peninsula-school-holidays-2026-hero.jpg" alt="Family walking along a sandy Mornington Peninsula beach with calm bay water" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Family walking along a sandy Mornington Peninsula beach with calm bay water" width="1200" height="630" loading="eager" />
 <figcaption>The Mornington Peninsula's beaches, attractions, and natural beauty make it one of Victoria's best school holiday destinations.</figcaption>
 
 ## Getting to the Mornington Peninsula
@@ -10231,7 +10231,7 @@ Information in this guide is based on published 2025–2026 data and is subject 
 
 ---
 
-<img src="/images/articles/school-holiday-activities-ballarat-2026-hero.jpg" alt="Family panning for gold at Sovereign Hill in Ballarat with costumed characters in the background" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Family panning for gold at Sovereign Hill in Ballarat with costumed characters in the background" width="1200" height="630" loading="eager" />
 <figcaption>Sovereign Hill is Ballarat's signature attraction and one of Victoria's best family experiences.</figcaption>
 
 ## Getting to Ballarat From Melbourne
@@ -10552,7 +10552,7 @@ Information in this guide is based on published 2025–2026 data and is subject 
 
 ---
 
-<img src="/images/articles/things-to-do-werribee-with-kids-hero.jpg" alt="Giraffes and zebras on the savannah at Werribee Open Range Zoo with families watching from a safari bus" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Giraffes and zebras on the savannah at Werribee Open Range Zoo with families watching from a safari bus" width="1200" height="630" loading="eager" />
 <figcaption>Werribee Open Range Zoo's safari experience is one of Melbourne's most memorable family outings.</figcaption>
 
 ## Getting to Werribee
@@ -10841,7 +10841,7 @@ Information in this guide is based on published 2025–2026 data and is subject 
 
 ---
 
-<img src="/images/articles/best-trampoline-parks-melbourne-kids-hero.jpg" alt="Children jumping on interconnected trampolines in a brightly lit indoor trampoline park" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/3768722/pexels-photo-3768722.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Children jumping on interconnected trampolines in a brightly lit indoor trampoline park" width="1200" height="630" loading="eager" />
 <figcaption>Melbourne's trampoline parks offer high-energy fun for kids of every age.</figcaption>
 
 ## Quick Comparison Table
@@ -11203,7 +11203,7 @@ Venue details, pricing, and session information are based on published 2025–20
 
 ---
 
-<img src="/images/articles/best-rock-climbing-kids-melbourne-hero.jpg" alt="Child climbing a colourful indoor climbing wall with safety harness and auto-belay" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/2754985/pexels-photo-2754985.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Child climbing a colourful indoor climbing wall with safety harness and auto-belay" width="1200" height="630" loading="eager" />
 <figcaption>Indoor rock climbing is an engaging, confidence-building activity that kids of all ages enjoy.</figcaption>
 
 ## Types of Indoor Climbing for Kids
@@ -11564,7 +11564,7 @@ Venue details, pricing, and program information are based on published 2025–20
 
 ---
 
-<img src="/images/articles/family-activities-craigieburn-2026-hero.jpg" alt="Families walking along a tree-lined creek path in a northern Melbourne suburb" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/1001914/pexels-photo-1001914.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Families walking along a tree-lined creek path in a northern Melbourne suburb" width="1200" height="630" loading="eager" />
 <figcaption>Craigieburn's creek trails and nature reserves offer green space and wildlife within the suburban landscape.</figcaption>
 
 ## About Craigieburn for Families
@@ -11885,7 +11885,7 @@ Information in this guide is based on published 2025–2026 data and is subject 
 
 ---
 
-<img src="/images/articles/school-holiday-activities-bendigo-2026-hero.jpg" alt="Family exploring the underground tunnels at Central Deborah Gold Mine in Bendigo" width="1200" height="630" loading="eager" />
+<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Family exploring the underground tunnels at Central Deborah Gold Mine in Bendigo" width="1200" height="630" loading="eager" />
 <figcaption>Central Deborah Gold Mine's underground tours are one of Bendigo's most memorable family experiences.</figcaption>
 
 ## Getting to Bendigo From Melbourne
