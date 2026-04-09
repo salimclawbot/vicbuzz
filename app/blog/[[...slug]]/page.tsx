@@ -327,20 +327,19 @@ export default async function BlogPage({ params }: Props) {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: 
-        {/* Social Share */}
+    mainEntity:         {/* Social Share */}
         <div className="mt-8 pt-6 border-t border-gray-200">
           <p className="text-xs font-semibold uppercase tracking-widest text-[#FF6B6B] mb-3">Share this guide</p>
           <div className="flex gap-2">
-            <button onClick={() => window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(typeof window !== "undefined" ? window.location.href : "")}`, "_blank")}
+            <button onClick={() => typeof window !== "undefined" && window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(window.location.href)}`, "_blank")}
               className="flex items-center gap-1.5 px-4 py-2 bg-[#1A1A2E] text-white rounded-lg text-xs font-semibold hover:bg-[#2D2D2D] transition-colors">
               <span>X</span> Share
             </button>
-            <button onClick={() => window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(typeof window !== "undefined" ? window.location.href : "")}`, "_blank")}
+            <button onClick={() => typeof window !== "undefined" && window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.href)}`, "_blank")}
               className="flex items-center gap-1.5 px-4 py-2 bg-[#1877F2] text-white rounded-lg text-xs font-semibold hover:bg-[#166fe5] transition-colors">
               f Share
             </button>
-            <button onClick={() => navigator.clipboard?.writeText(typeof window !== "undefined" ? window.location.href : "")}
+            <button onClick={() => navigator.clipboard?.writeText(window.location.href)}
               className="flex items-center gap-1.5 px-4 py-2 bg-gray-100 text-[#374151] rounded-lg text-xs font-semibold hover:bg-gray-200 transition-colors">
               📋 Copy link
             </button>
