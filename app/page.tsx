@@ -19,7 +19,7 @@ export default function Home() {
 
       {/* What's On This Weekend Banner */}
       {weekendEvents.length > 0 && (
-        <section className="bg-[#1A1A2E] px-4 py-6">
+        <section className="bg-[var(--color-text-strong)] px-4 py-6">
           <div className="max-w-5xl mx-auto">
             <p className="text-xs font-semibold uppercase tracking-widest text-amber-400 mb-3">This Weekend</p>
             <h2 className="text-xl font-bold text-white mb-4">What's on in Victoria this weekend</h2>
@@ -52,22 +52,22 @@ export default function Home() {
           <div className="max-w-5xl mx-auto">
             <div className="flex items-center justify-between mb-5">
               <div>
-                <p className="text-xs font-semibold uppercase tracking-widest text-[#FF6B6B]">Latest</p>
-                <h2 className="text-xl font-bold text-[#1A1A2E] mt-0.5">Recent Guides</h2>
+                <p className="text-xs font-semibold uppercase tracking-widest text-[var(--color-primary)]">Latest</p>
+                <h2 className="text-xl font-bold text-[var(--color-text-strong)] mt-0.5">Recent Guides</h2>
               </div>
-              <Link href="/blog" className="text-xs text-[#FF6B6B] font-semibold hover:underline">View all →</Link>
+              <Link href="/blog" className="text-xs text-[var(--color-primary)] font-semibold hover:underline">View all →</Link>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               {recentArticles.map(article => (
                 <Link key={article.slug} href={`/blog/${article.slug}`}
-                  className="group rounded-xl border border-[#EFEFEF] overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5">
-                  <div className="h-36 w-full bg-gradient-to-br from-[#FF6B6B]/20 to-[#FFB347]/20 flex items-center justify-center">
+                  className="group rounded-xl border border-[var(--color-border)] overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5">
+                  <div className="h-36 w-full bg-gradient-to-br from-[var(--color-primary)]/20 to-[var(--color-secondary)]/20 flex items-center justify-center">
                     <span className="text-4xl">📍</span>
                   </div>
                   <div className="p-3">
-                    <p className="text-xs font-semibold text-[#FF6B6B] uppercase tracking-wide">{article.category}</p>
-                    <h3 className="text-sm font-bold text-[#1A1A2E] mt-1 line-clamp-2">{article.title}</h3>
-                    <p className="text-xs text-[#6B7280] mt-1 line-clamp-2">{article.description}</p>
+                    <p className="text-xs font-semibold text-[var(--color-primary)] uppercase tracking-wide">{article.category}</p>
+                    <h3 className="text-sm font-bold text-[var(--color-text-strong)] mt-1 line-clamp-2">{article.title}</h3>
+                    <p className="text-xs text-[var(--color-text-muted)] mt-1 line-clamp-2">{article.description}</p>
                   </div>
                 </Link>
               ))}

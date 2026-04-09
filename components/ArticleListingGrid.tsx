@@ -40,7 +40,7 @@ export default function ArticleListingGrid({ suburb, category, title, limit = 6 
       {title && (
         <div className="flex items-center gap-2 mb-3">
           <span className="text-amber-500 text-sm">📍</span>
-          <p className="text-xs font-bold uppercase tracking-widest text-[#FF6B6B]">{title}</p>
+          <p className="text-xs font-bold uppercase tracking-widest text-[var(--color-primary)]">{title}</p>
         </div>
       )}
       <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -48,7 +48,7 @@ export default function ArticleListingGrid({ suburb, category, title, limit = 6 
           <Link
             key={listing.id}
             href={`/listing/${listing.id}`}
-            className="group rounded-xl overflow-hidden border border-[#EFEFEF] bg-white shadow-sm hover:shadow-md transition-all hover:-translate-y-0.5"
+            className="group rounded-xl overflow-hidden border border-[var(--color-border)] bg-white shadow-sm hover:shadow-md transition-all hover:-translate-y-0.5"
           >
             <div className="relative h-28 w-full bg-amber-50 overflow-hidden">
               {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -63,14 +63,14 @@ export default function ArticleListingGrid({ suburb, category, title, limit = 6 
               )}
             </div>
             <div className="p-2.5">
-              <p className="text-xs font-semibold text-[#1A1A2E] leading-snug line-clamp-2">{listing.title}</p>
-              {listing.suburb && <p className="text-[10px] text-[#9CA3AF] mt-0.5">📍 {listing.suburb}</p>}
+              <p className="text-xs font-semibold text-[var(--color-text-strong)] leading-snug line-clamp-2">{listing.title}</p>
+              {listing.suburb && <p className="text-[10px] text-[var(--color-text-muted)] mt-0.5">📍 {listing.suburb}</p>}
             </div>
           </Link>
         ))}
       </div>
       <div className="mt-3 text-right">
-        <Link href={suburb ? `/explore/${suburb.toLowerCase().replace(/ /g, "-")}` : "/"} className="text-xs text-[#FF6B6B] hover:underline font-medium">
+        <Link href={suburb ? `/explore/${suburb.toLowerCase().replace(/ /g, "-")}` : "/"} className="text-xs text-[var(--color-primary)] hover:underline font-medium">
           See all activities {suburb ? `in ${suburb}` : "on VicBuzz"} →
         </Link>
       </div>

@@ -39,23 +39,23 @@ export default function EventsPage() {
   const formatTime = (d: string) => new Date(d).toLocaleTimeString("en-AU", { hour: "2-digit", minute: "2-digit" });
 
   return (
-    <div className="min-h-screen bg-[#FEFEFE]">
+    <div className="min-h-screen bg-[var(--color-bg)]">
       <div className="max-w-3xl mx-auto px-4 py-6">
-        <h1 className="text-2xl font-bold text-[#1A1A2E]">What's On in Victoria</h1>
-        <p className="text-sm text-[#6B7280] mt-1">Family-friendly events across Victoria</p>
+        <h1 className="text-2xl font-bold text-[var(--color-text-strong)]">What's On in Victoria</h1>
+        <p className="text-sm text-[var(--color-text-muted)] mt-1">Family-friendly events across Victoria</p>
 
         <input
           type="text"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder="Search events..."
-          className="w-full mt-4 px-4 py-2.5 rounded-lg border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-[#FF6B6B]"
+          className="w-full mt-4 px-4 py-2.5 rounded-lg border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]"
         />
 
         <div className="flex gap-2 mt-4">
           {( [["week","This Week"], ["weekend","This Weekend"], ["all","All Upcoming"]] as const).map(([f, label]) => (
             <button key={f} onClick={() => setFilter(f)}
-              className={`px-4 py-1.5 rounded-full text-xs font-semibold transition-colors ${filter === f ? "bg-[#FF6B6B] text-white" : "bg-gray-100 text-[#6B7280]"}`}>
+              className={`px-4 py-1.5 rounded-full text-xs font-semibold transition-colors ${filter === f ? "bg-[var(--color-primary)] text-white" : "bg-gray-100 text-[var(--color-text-muted)]"}`}>
               {label}
             </button>
           ))}
@@ -64,7 +64,7 @@ export default function EventsPage() {
         <div className="flex gap-2 mt-3 overflow-x-auto pb-1">
           {categories.map(cat => (
             <button key={cat} onClick={() => setCategory(cat)}
-              className={`px-3 py-1 rounded-full text-xs font-medium whitespace-nowrap transition-colors ${category === cat ? "bg-[#1A1A2E] text-white" : "bg-gray-100 text-[#6B7280]"}`}>
+              className={`px-3 py-1 rounded-full text-xs font-medium whitespace-nowrap transition-colors ${category === cat ? "bg-[var(--color-text-strong)] text-white" : "bg-gray-100 text-[var(--color-text-muted)]"}`}>
               {cat === "all" ? "All" : `${getIcon(cat)} ${cat}`}
             </button>
           ))}
@@ -72,29 +72,29 @@ export default function EventsPage() {
 
         <div className="mt-5 space-y-3">
           {filtered.length === 0 ? (
-            <div className="text-center py-12 text-[#6B7280]">
+            <div className="text-center py-12 text-[var(--color-text-muted)]">
               <p className="text-4xl">🔍</p>
               <p className="mt-2 text-sm">No events found.</p>
               <button onClick={() => { setFilter("week"); setCategory("all"); setSearch(""); }}
-                className="mt-3 text-xs text-[#FF6B6B] font-semibold">Clear filters</button>
+                className="mt-3 text-xs text-[var(--color-primary)] font-semibold">Clear filters</button>
             </div>
           ) : filtered.map(event => (
             <a key={event.id} href={event.ticketUrl || event.url} target="_blank" rel="noopener noreferrer"
-              className="flex gap-3 rounded-xl border border-[#E5E7EB] bg-white p-3 hover:shadow-lg hover:-translate-y-0.5 transition-all block">
+              className="flex gap-3 rounded-xl border border-[var(--color-border)] bg-white p-3 hover:shadow-lg hover:-translate-y-0.5 transition-all block">
               {event.image ? (
                 <div className="relative h-20 w-20 flex-shrink-0 rounded-lg overflow-hidden">
                   <Image src={event.image} alt={event.name} fill className="object-cover" sizes="80px" />
                 </div>
               ) : (
-                <div className="flex h-20 w-20 flex-shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-[#FF6B6B]/10 to-[#FFB347]/10 text-2xl">
+                <div className="flex h-20 w-20 flex-shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-[var(--color-primary)]/10 to-[var(--color-secondary)]/10 text-2xl">
                   {getIcon(event.category)}
                 </div>
               )}
               <div className="flex-1 min-w-0">
-                <p className="text-xs text-[#FF6B6B] font-semibold uppercase tracking-wide">{event.category}</p>
-                <h3 className="text-sm font-semibold text-[#1A1A2E] mt-0.5 line-clamp-2">{event.name}</h3>
-                <p className="text-xs text-[#6B7280] mt-1">{formatDate(event.startDate)} · {formatTime(event.startDate)}</p>
-                {event.suburb && <p className="text-xs text-[#6B7280]">📍 {event.suburb}</p>}
+                <p className="text-xs text-[var(--color-primary)] font-semibold uppercase tracking-wide">{event.category}</p>
+                <h3 className="text-sm font-semibold text-[var(--color-text-strong)] mt-0.5 line-clamp-2">{event.name}</h3>
+                <p className="text-xs text-[var(--color-text-muted)] mt-1">{formatDate(event.startDate)} · {formatTime(event.startDate)}</p>
+                {event.suburb && <p className="text-xs text-[var(--color-text-muted)]">📍 {event.suburb}</p>}
               </div>
             </a>
           ))}

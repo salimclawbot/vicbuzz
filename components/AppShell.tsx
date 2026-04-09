@@ -20,8 +20,8 @@ const MapView = dynamic(() => import("./MapView"), { ssr: false });
 type Tab = "weekend" | "search" | "explore" | "saved";
 
 // Unified chip styles — no per-category pastels
-const chipSelected = "bg-white border-2 border-[#FF6B6B] text-[#FF6B6B] font-bold";
-const chipUnselected = "bg-white border border-[#E5E7EB] text-[#374151]";
+const chipSelected = "bg-white border-2 border-[var(--color-primary)] text-[var(--color-primary)] font-bold";
+const chipUnselected = "bg-white border border-[var(--color-border)] text-[var(--color-text)]";
 
 const spotFilters = [
   { key: "all", emoji: "🐝", label: "All" },
@@ -77,8 +77,8 @@ function EmptyState() {
   return (
     <div className="text-center py-16">
       <div className="text-6xl mb-4">🐝</div>
-      <p className="font-bold text-[#1A1A2E] text-lg">No results here</p>
-      <p className="text-[#6B7280] text-sm mt-1">
+      <p className="font-bold text-[var(--color-text-strong)] text-lg">No results here</p>
+      <p className="text-[var(--color-text-muted)] text-sm mt-1">
         Try a different suburb or category
       </p>
     </div>
@@ -368,7 +368,7 @@ export default function AppShell({
       detailListing.image && detailListing.image.startsWith("http");
     return (
       <div className="min-h-screen bg-white">
-        <div className="relative aspect-video bg-[#FFF7F7]">
+        <div className="relative aspect-video bg-[var(--color-primary-soft)]">
           {hasImage ? (
             <Image
               src={detailListing.image}
@@ -384,29 +384,29 @@ export default function AppShell({
           )}
         </div>
         <div className="p-5 max-w-2xl mx-auto">
-          <h1 className="text-2xl font-bold text-[#1A1A2E]">
+          <h1 className="text-2xl font-bold text-[var(--color-text-strong)]">
             {detailListing.title}
           </h1>
           <div className="flex flex-wrap gap-2 mt-3">
-            <span className="bg-gray-100 text-[#6B7280] text-xs px-3 py-1 rounded-full">
+            <span className="bg-gray-100 text-[var(--color-text-muted)] text-xs px-3 py-1 rounded-full">
               📍 {detailListing.suburb}
             </span>
-            <span className="bg-gray-100 text-[#6B7280] text-xs px-3 py-1 rounded-full">
+            <span className="bg-gray-100 text-[var(--color-text-muted)] text-xs px-3 py-1 rounded-full">
               🗺️{" "}
               {regionLabels[detailListing.region] || detailListing.region}
             </span>
             {isFree && (
-              <span className="bg-[#DCFCE7] text-[#166534] text-xs font-bold px-3 py-1 rounded-full">
+              <span className="bg-[#dcfce7] text-[#166534] text-xs font-bold px-3 py-1 rounded-full">
                 FREE
               </span>
             )}
           </div>
           {detailListing.description && (
-            <p className="text-[#1A1A2E] mt-4 leading-relaxed">
+            <p className="text-[var(--color-text-strong)] mt-4 leading-relaxed">
               {detailListing.description}
             </p>
           )}
-          <div className="flex flex-wrap gap-2 mt-4 text-sm text-[#6B7280]">
+          <div className="flex flex-wrap gap-2 mt-4 text-sm text-[var(--color-text-muted)]">
             {["markets", "sports", "music"].includes(
               detailListing.category
             ) && (
@@ -431,7 +431,7 @@ export default function AppShell({
                 href={detailListing.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex-1 bg-[#FF6B6B] text-white text-center py-3 rounded-xl font-semibold text-sm hover:bg-[#e55a5a] transition-colors"
+                className="flex-1 bg-[var(--color-primary)] text-white text-center py-3 rounded-xl font-semibold text-sm hover:bg-[var(--color-primary-strong)] transition-colors"
               >
                 Get Directions →
               </a>
@@ -468,8 +468,8 @@ export default function AppShell({
         onClick={() => setViewMode("list")}
         className={`px-3 py-1 text-xs font-medium ${
           viewMode === "list"
-            ? "bg-[#FF6B6B] text-white"
-            : "bg-white text-[#6B7280] border border-[#E5E7EB]"
+            ? "bg-[var(--color-primary)] text-white"
+            : "bg-white text-[var(--color-text-muted)] border border-[var(--color-border)]"
         }`}
       >
         List
@@ -478,8 +478,8 @@ export default function AppShell({
         onClick={() => setViewMode("map")}
         className={`px-3 py-1 text-xs font-medium ${
           viewMode === "map"
-            ? "bg-[#FF6B6B] text-white"
-            : "bg-white text-[#6B7280] border border-[#E5E7EB]"
+            ? "bg-[var(--color-primary)] text-white"
+            : "bg-white text-[var(--color-text-muted)] border border-[var(--color-border)]"
         }`}
       >
         Map
@@ -488,18 +488,18 @@ export default function AppShell({
   );
 
   return (
-    <div className="min-h-screen bg-[#FEFEFE] pb-20">
+    <div className="min-h-screen bg-[var(--color-bg)] pb-20">
       {/* HEADER */}
-      <header className="sticky top-0 z-50 bg-white border-b border-[#F3F4F6] px-4 py-3">
+      <header className="sticky top-0 z-50 bg-white border-b border-[var(--color-border)] px-4 py-3">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
           <div className="flex items-center gap-5">
-            <h1 className="text-xl font-extrabold text-[#1A1A2E]">
+            <h1 className="text-xl font-extrabold text-[var(--color-text-strong)]">
               Vic<span>🐝</span>Buzz
             </h1>
-            <nav className="hidden md:flex items-center gap-4 text-sm font-semibold text-[#6B7280]">
-              <Link href="/" className="hover:text-[#FF6B6B]">Home</Link>
-              <Link href="/explore" className="hover:text-[#FF6B6B]">Explore</Link>
-              <Link href="/blog" className="hover:text-[#FF6B6B]">Guides</Link>
+            <nav className="hidden md:flex items-center gap-4 text-sm font-semibold text-[var(--color-text-muted)]">
+              <Link href="/" className="hover:text-[var(--color-primary)]">Home</Link>
+              <Link href="/explore" className="hover:text-[var(--color-primary)]">Explore</Link>
+              <Link href="/blog" className="hover:text-[var(--color-primary)]">Guides</Link>
             </nav>
           </div>
           <div className="flex items-center gap-3">
@@ -507,7 +507,7 @@ export default function AppShell({
               onClick={handleGetLocation}
               className={`flex items-center gap-1 text-xs font-semibold px-3 py-1.5 rounded-full border transition-all ${
                 userLocation
-                  ? "bg-[#FF6B6B] text-white border-[#FF6B6B]"
+                  ? "bg-[var(--color-primary)] text-white border-[var(--color-primary)]"
                   : "bg-white text-gray-600 border-gray-200"
               }`}
             >
@@ -537,7 +537,7 @@ export default function AppShell({
             >
               ❤️
               {savedIds.size > 0 && (
-                <span className="absolute -top-1 -right-2 bg-[#FF6B6B] text-white text-[10px] font-bold w-4 h-4 rounded-full flex items-center justify-center">
+                <span className="absolute -top-1 -right-2 bg-[var(--color-primary)] text-white text-[10px] font-bold w-4 h-4 rounded-full flex items-center justify-center">
                   {savedIds.size}
                 </span>
               )}
@@ -552,7 +552,7 @@ export default function AppShell({
               placeholder="Search events, spots, suburbs..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full px-4 py-2.5 rounded-xl border border-[#E5E7EB] text-sm text-[#374151] placeholder-[#9CA3AF] focus:outline-none focus:border-[#FF6B6B] focus:ring-1 focus:ring-[#FF6B6B]"
+              className="w-full px-4 py-2.5 rounded-xl border border-[var(--color-border)] text-sm text-[var(--color-text)] placeholder-[var(--color-text-muted)] focus:outline-none focus:border-[var(--color-primary)] focus:ring-1 focus:ring-[var(--color-primary)]"
             />
           </div>
         )}
@@ -622,15 +622,15 @@ export default function AppShell({
         {activeTab === "weekend" && (
           <>
             {/* Hero tagline */}
-            <div className="rounded-2xl p-6 mb-6 text-center" style={{background: 'linear-gradient(135deg, #FFF5F5 0%, #F0FFFE 100%)'}}>
-              <h2 className="text-lg font-bold text-[#1A1A2E]">Victoria&apos;s Best Family Activities</h2>
-              <p className="text-sm text-[#6B7280] mt-1">Parks, events, markets and free things to do with kids</p>
+            <div className="rounded-2xl p-6 mb-6 text-center" style={{background: 'linear-gradient(135deg, var(--color-primary-soft) 0%, #f0fffe 100%)'}}>
+              <h2 className="text-lg font-bold text-[var(--color-text-strong)]">Victoria&apos;s Best Family Activities</h2>
+              <p className="text-sm text-[var(--color-text-muted)] mt-1">Parks, events, markets and free things to do with kids</p>
             </div>
 
             {/* Editor's Picks */}
             {editorPicks.length > 0 && viewMode === "list" && (
               <section className="mb-6">
-                <h2 className="text-lg font-bold text-[#1A1A2E] mb-3">
+                <h2 className="text-lg font-bold text-[var(--color-text-strong)] mb-3">
                   🌟 Editor&apos;s Picks
                 </h2>
                 <div className="flex gap-4 overflow-x-auto no-scrollbar pb-2">
@@ -659,14 +659,14 @@ export default function AppShell({
             )}
 
             <section className="mb-6">
-              <h2 className="text-lg font-bold text-[#1A1A2E]">
+              <h2 className="text-lg font-bold text-[var(--color-text-strong)]">
                 📅 What&apos;s On This Month
               </h2>
-              <p className="text-sm text-[#6B7280] mt-0.5">
+              <p className="text-sm text-[var(--color-text-muted)] mt-0.5">
                 {filteredEvents.length} events happening in Melbourne
                 this month
               </p>
-              <p className="text-xs text-[#9CA3AF] mt-0.5">
+              <p className="text-xs text-[var(--color-text-muted)] mt-0.5">
                 {eventsLoading
                   ? "Refreshing events..."
                   : lastFetched
@@ -711,12 +711,12 @@ export default function AppShell({
                 </div>
               ) : selectedSuburb !== "all" ? (
                 <div className="mt-3">
-                  <div className="bg-[#FFF5F5] border border-[#FF6B6B]/20 rounded-2xl p-4 mb-6 text-center">
+                  <div className="bg-[var(--color-primary-soft)] border border-[var(--color-primary)]/20 rounded-2xl p-4 mb-6 text-center">
                     <p className="text-2xl mb-1">🐝</p>
-                    <p className="font-bold text-[#1A1A2E]">
+                    <p className="font-bold text-[var(--color-text-strong)]">
                       No events in {selectedSuburb} right now
                     </p>
-                    <p className="text-sm text-[#6B7280] mt-1">
+                    <p className="text-sm text-[var(--color-text-muted)] mt-1">
                       Events are mainly in Melbourne CBD — but here are
                       spots to explore near you!
                     </p>
@@ -724,7 +724,7 @@ export default function AppShell({
                       onClick={() => {
                         setActiveTab("explore");
                       }}
-                      className="mt-3 text-sm font-semibold text-white bg-[#FF6B6B] px-4 py-2 rounded-full"
+                      className="mt-3 text-sm font-semibold text-white bg-[var(--color-primary)] px-4 py-2 rounded-full"
                     >
                       Browse all spots in {selectedSuburb} →
                     </button>
@@ -735,9 +735,9 @@ export default function AppShell({
                     );
                     return nearbySpots.length > 0 ? (
                       <>
-                        <h3 className="font-bold text-[#1A1A2E] text-lg mb-3">
+                        <h3 className="font-bold text-[var(--color-text-strong)] text-lg mb-3">
                           📍 Things to do in {selectedSuburb}
-                          <span className="ml-2 text-sm bg-[#FF6B6B] text-white px-2 py-0.5 rounded-full font-semibold">
+                          <span className="ml-2 text-sm bg-[var(--color-primary)] text-white px-2 py-0.5 rounded-full font-semibold">
                             {nearbySpots.length}
                           </span>
                         </h3>
@@ -757,7 +757,7 @@ export default function AppShell({
                             onClick={() =>
                               setActiveTab("explore")
                             }
-                            className="mt-4 w-full py-3 text-sm font-semibold text-[#FF6B6B] border-2 border-[#FF6B6B] rounded-2xl hover:bg-[#FFF5F5] transition-colors"
+                            className="mt-4 w-full py-3 text-sm font-semibold text-[var(--color-primary)] border-2 border-[var(--color-primary)] rounded-2xl hover:bg-[var(--color-primary-soft)] transition-colors"
                           >
                             See all {nearbySpots.length} spots in{" "}
                             {selectedSuburb} →
@@ -765,7 +765,7 @@ export default function AppShell({
                         )}
                       </>
                     ) : (
-                      <p className="text-center text-[#9CA3AF] py-8">
+                      <p className="text-center text-[var(--color-text-muted)] py-8">
                         No spots found in {selectedSuburb} either. Try
                         a nearby suburb!
                       </p>
@@ -780,15 +780,15 @@ export default function AppShell({
             {recentGuides.length > 0 && (
               <section className="mb-6">
                 <div className="flex items-center justify-between">
-                  <h3 className="text-lg font-bold text-[#1A1A2E]">📚 Latest guides</h3>
-                  <Link href="/blog" className="text-sm font-semibold text-[#FF6B6B]">View all →</Link>
+                  <h3 className="text-lg font-bold text-[var(--color-text-strong)]">📚 Latest guides</h3>
+                  <Link href="/blog" className="text-sm font-semibold text-[var(--color-primary)]">View all →</Link>
                 </div>
                 <div className="mt-3 grid grid-cols-1 gap-3 md:grid-cols-3">
                   {recentGuides.map((guide) => (
-                    <Link key={guide.slug} href={`/blog/${guide.slug}`} className="rounded-2xl border border-[#F0F0F0] bg-white p-4 hover:border-[#FF6B6B] hover:shadow-sm transition-all">
-                      <p className="text-xs font-semibold uppercase tracking-wide text-[#FF6B6B]">Guide</p>
-                      <p className="mt-1 text-sm font-bold text-[#1A1A2E]">{guide.title}</p>
-                      <p className="mt-2 text-xs text-[#6B7280]">{guide.publishDate} · {guide.readTime}</p>
+                    <Link key={guide.slug} href={`/blog/${guide.slug}`} className="rounded-2xl border border-[var(--color-muted-surface)] bg-white p-4 hover:border-[var(--color-primary)] hover:shadow-sm transition-all">
+                      <p className="text-xs font-semibold uppercase tracking-wide text-[var(--color-primary)]">Guide</p>
+                      <p className="mt-1 text-sm font-bold text-[var(--color-text-strong)]">{guide.title}</p>
+                      <p className="mt-2 text-xs text-[var(--color-text-muted)]">{guide.publishDate} · {guide.readTime}</p>
                     </Link>
                   ))}
                 </div>
@@ -808,7 +808,7 @@ export default function AppShell({
               placeholder="Search events, spots, suburbs..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full px-4 py-3 rounded-xl border border-[#E5E7EB] text-sm text-[#374151] placeholder-[#9CA3AF] focus:outline-none focus:border-[#FF6B6B] focus:ring-1 focus:ring-[#FF6B6B] mb-4"
+              className="w-full px-4 py-3 rounded-xl border border-[var(--color-border)] text-sm text-[var(--color-text)] placeholder-[var(--color-text-muted)] focus:outline-none focus:border-[var(--color-primary)] focus:ring-1 focus:ring-[var(--color-primary)] mb-4"
             />
             {searchQuery &&
               searchEvents.length === 0 &&
@@ -819,10 +819,10 @@ export default function AppShell({
             {searchEvents.length > 0 && (
               <div className="mb-6">
                 <div className="flex items-center gap-2 mb-3">
-                  <h3 className="text-base font-bold text-[#1A1A2E]">
+                  <h3 className="text-base font-bold text-[var(--color-text-strong)]">
                     🎫 Events
                   </h3>
-                  <span className="bg-[#FF6B6B] text-white text-xs font-bold px-2 py-0.5 rounded-full">
+                  <span className="bg-[var(--color-primary)] text-white text-xs font-bold px-2 py-0.5 rounded-full">
                     {searchEvents.length}
                   </span>
                 </div>
@@ -842,10 +842,10 @@ export default function AppShell({
             {searchListings.length > 0 && (
               <div className="mb-6">
                 <div className="flex items-center gap-2 mb-3">
-                  <h3 className="text-base font-bold text-[#1A1A2E]">
+                  <h3 className="text-base font-bold text-[var(--color-text-strong)]">
                     📍 Spots
                   </h3>
-                  <span className="bg-[#FF6B6B] text-white text-xs font-bold px-2 py-0.5 rounded-full">
+                  <span className="bg-[var(--color-primary)] text-white text-xs font-bold px-2 py-0.5 rounded-full">
                     {searchListings.length}
                   </span>
                 </div>
@@ -866,10 +866,10 @@ export default function AppShell({
             {!searchQuery && (
               <div className="text-center py-12">
                 <p className="text-4xl mb-2">🔍</p>
-                <p className="text-[#6B7280]">
+                <p className="text-[var(--color-text-muted)]">
                   Search events and spots
                 </p>
-                <p className="text-sm text-[#6B7280] mt-1">
+                <p className="text-sm text-[var(--color-text-muted)] mt-1">
                   Try &quot;market&quot;, &quot;playground&quot;, or a
                   suburb name
                 </p>
@@ -881,10 +881,10 @@ export default function AppShell({
         {/* ==================== EXPLORE TAB ==================== */}
         {activeTab === "explore" && (
           <section>
-            <h2 className="text-lg font-bold text-[#1A1A2E]">
+            <h2 className="text-lg font-bold text-[var(--color-text-strong)]">
               🗺️ Explore Victoria
             </h2>
-            <p className="text-sm text-[#6B7280] mt-0.5 mb-4">
+            <p className="text-sm text-[var(--color-text-muted)] mt-0.5 mb-4">
               1,200+ family spots across Victoria
             </p>
 
@@ -903,10 +903,10 @@ export default function AppShell({
             ) : (
               <>
                 <div className="flex items-center gap-2 mb-3">
-                  <h3 className="text-base font-bold text-[#1A1A2E]">
+                  <h3 className="text-base font-bold text-[var(--color-text-strong)]">
                     ✨ All Spots
                   </h3>
-                  <span className="bg-[#FF6B6B] text-white text-xs font-bold px-2 py-0.5 rounded-full">
+                  <span className="bg-[var(--color-primary)] text-white text-xs font-bold px-2 py-0.5 rounded-full">
                     {filteredListings.length}
                   </span>
                 </div>
@@ -926,13 +926,13 @@ export default function AppShell({
                   </div>
                 )}
 
-                <h3 className="text-base font-bold text-[#1A1A2E] mb-3">
+                <h3 className="text-base font-bold text-[var(--color-text-strong)] mb-3">
                   🗺️ Explore by Region
                 </h3>
-                <div className="rounded-2xl overflow-hidden border border-[#F3F4F6] mb-6 flex items-center justify-center" style={{height: 160, background: 'linear-gradient(135deg, #FFF5F5 0%, #F0FFFE 100%)'}}>
+                <div className="rounded-2xl overflow-hidden border border-[var(--color-border)] mb-6 flex items-center justify-center" style={{height: 160, background: 'linear-gradient(135deg, var(--color-primary-soft) 0%, #f0fffe 100%)'}}>
                   <div className="text-center">
                     <p className="text-4xl mb-2">🗺️🐝</p>
-                    <p className="text-sm font-medium text-[#1A1A2E]">Tap a region below to explore</p>
+                    <p className="text-sm font-medium text-[var(--color-text-strong)]">Tap a region below to explore</p>
                   </div>
                 </div>
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-3 mb-6">
@@ -948,13 +948,13 @@ export default function AppShell({
                             setSearchQuery(key);
                             setActiveTab("search");
                           }}
-                          className="bg-white rounded-xl border border-[#F0F0F0] p-4 text-left hover:border-[#FF6B6B] hover:shadow-md transition-all"
+                          className="bg-white rounded-xl border border-[var(--color-muted-surface)] p-4 text-left hover:border-[var(--color-primary)] hover:shadow-md transition-all"
                         >
                           <p className="text-2xl mb-1">📍</p>
-                          <p className="font-bold text-[#1A1A2E] text-sm">
+                          <p className="font-bold text-[var(--color-text-strong)] text-sm">
                             {label}
                           </p>
-                          <p className="text-xs text-[#6B7280]">
+                          <p className="text-xs text-[var(--color-text-muted)]">
                             {count} spots
                           </p>
                         </button>
@@ -973,7 +973,7 @@ export default function AppShell({
         {activeTab === "saved" && (
           <section>
             <div className="flex items-center justify-between mb-4">
-              <h2 className="text-lg font-bold text-[#1A1A2E]">
+              <h2 className="text-lg font-bold text-[var(--color-text-strong)]">
                 ❤️ Saved
               </h2>
               {savedIds.size > 0 && (
@@ -982,7 +982,7 @@ export default function AppShell({
                     setSavedIds(new Set());
                     localStorage.removeItem("vicbuzz-saved");
                   }}
-                  className="text-xs text-[#6B7280] hover:text-red-500 transition-colors"
+                  className="text-xs text-[var(--color-text-muted)] hover:text-red-500 transition-colors"
                 >
                   Clear all
                 </button>
@@ -992,10 +992,10 @@ export default function AppShell({
             savedListings.length === 0 ? (
               <div className="text-center py-16">
                 <p className="text-5xl mb-3">🐝</p>
-                <p className="text-[#6B7280] font-medium">
+                <p className="text-[var(--color-text-muted)] font-medium">
                   You haven&apos;t saved anything yet
                 </p>
-                <p className="text-sm text-[#6B7280] mt-1">
+                <p className="text-sm text-[var(--color-text-muted)] mt-1">
                   Tap the heart on any event or spot to save it here
                 </p>
               </div>
@@ -1003,7 +1003,7 @@ export default function AppShell({
               <>
                 {savedEvents.length > 0 && (
                   <div className="mb-6">
-                    <h3 className="text-base font-bold text-[#1A1A2E] mb-3">
+                    <h3 className="text-base font-bold text-[var(--color-text-strong)] mb-3">
                       🎫 Saved Events
                     </h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -1020,7 +1020,7 @@ export default function AppShell({
                 )}
                 {savedListings.length > 0 && (
                   <div className="mb-6">
-                    <h3 className="text-base font-bold text-[#1A1A2E] mb-3">
+                    <h3 className="text-base font-bold text-[var(--color-text-strong)] mb-3">
                       📍 Saved Spots
                     </h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -1043,23 +1043,23 @@ export default function AppShell({
       </main>
 
       {/* FOOTER */}
-      <footer className="max-w-5xl mx-auto px-4 py-6 text-center text-xs text-[#9CA3AF] border-t border-gray-100 mt-8 mb-16">
+      <footer className="max-w-5xl mx-auto px-4 py-6 text-center text-xs text-[var(--color-text-muted)] border-t border-gray-100 mt-8 mb-16">
         <div className="flex justify-center gap-4 mb-2">
           <Link
             href="/claim"
-            className="text-[#1A1A2E] font-semibold hover:text-[#FF6B6B]"
+            className="text-[var(--color-text-strong)] font-semibold hover:text-[var(--color-primary)]"
           >
             Claim Your Listing
           </Link>
           <Link
             href="/submit"
-            className="text-[#1A1A2E] font-semibold hover:text-[#FF6B6B]"
+            className="text-[var(--color-text-strong)] font-semibold hover:text-[var(--color-primary)]"
           >
             Submit a Spot
           </Link>
           <Link
             href="/explore"
-            className="text-[#1A1A2E] font-semibold hover:text-[#FF6B6B]"
+            className="text-[var(--color-text-strong)] font-semibold hover:text-[var(--color-primary)]"
           >
             Explore by Suburb
           </Link>
@@ -1068,7 +1068,7 @@ export default function AppShell({
       </footer>
 
       {/* BOTTOM NAV */}
-      <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-[#F3F4F6] z-50 pb-[env(safe-area-inset-bottom)]">
+      <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-[var(--color-border)] z-50 pb-[env(safe-area-inset-bottom)]">
         <div className="max-w-5xl mx-auto flex">
           {(
             [
@@ -1092,14 +1092,14 @@ export default function AppShell({
               }}
               className={`flex-1 flex flex-col items-center py-2 text-xs font-medium transition-colors ${
                 activeTab === tab.key
-                  ? "text-[#FF6B6B]"
-                  : "text-[#9CA3AF]"
+                  ? "text-[var(--color-primary)]"
+                  : "text-[var(--color-text-muted)]"
               }`}
             >
               <span className="text-xl relative">
                 {tab.icon}
                 {tab.key === "saved" && savedIds.size > 0 && (
-                  <span className="absolute -top-1 -right-2 bg-[#FF6B6B] text-white text-[8px] font-bold w-3.5 h-3.5 rounded-full flex items-center justify-center">
+                  <span className="absolute -top-1 -right-2 bg-[var(--color-primary)] text-white text-[8px] font-bold w-3.5 h-3.5 rounded-full flex items-center justify-center">
                     {savedIds.size}
                   </span>
                 )}
@@ -1107,7 +1107,7 @@ export default function AppShell({
               <span className="mt-0.5">{tab.label}</span>
             </button>
           ))}
-          <Link href="/blog" className="flex-1 flex flex-col items-center py-2 text-xs font-medium text-[#9CA3AF]">
+          <Link href="/blog" className="flex-1 flex flex-col items-center py-2 text-xs font-medium text-[var(--color-text-muted)]">
             <span className="text-xl">📚</span>
             <span className="mt-0.5">Guides</span>
           </Link>

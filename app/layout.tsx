@@ -8,7 +8,7 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   maximumScale: 1,
-  themeColor: "#FF6B6B",
+  themeColor: "var(--color-primary)",
 };
 
 export const metadata: Metadata = {
@@ -63,7 +63,7 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className="antialiased bg-[#FEFEFE]">
+      <body className="antialiased bg-[var(--color-bg)]">
         <SiteHeader />
         <main>{children}</main>
         <SiteFooter />

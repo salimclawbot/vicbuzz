@@ -1,15 +1,38 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=DM+Serif+Display:ital@0;1&display=swap");
 @import "tailwindcss";
 
 @theme {
   --font-sans: "DM Sans", sans-serif;
+  --font-serif: "DM Serif Display", serif;
+}
+
+:root {
+  --color-primary: #ff8fa3;
+  --color-primary-strong: #f26f89;
+  --color-primary-soft: #ffe4ea;
+  --color-secondary: #ffd58a;
+  --color-secondary-soft: #fff2d9;
+  --color-accent: #a7e3d5;
+  --color-bg: #fff9f5;
+  --color-surface: #ffffff;
+  --color-border: #ede7e3;
+  --color-muted-surface: #f7f0eb;
+  --color-text-strong: #2f3a4a;
+  --color-text: #4b5563;
+  --color-text-muted: #7b8794;
 }
 
 body {
   font-family: "DM Sans", sans-serif;
-  background: #FEFEFE;
-  color: #374151;
+  background: var(--color-bg);
+  color: var(--color-text);
   padding-bottom: env(safe-area-inset-bottom);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--color-text-strong);
 }
 
 * {
@@ -17,11 +40,10 @@ body {
 }
 
 ::selection {
-  background: #FF6B6B;
-  color: #ffffff;
+  background: var(--color-primary);
+  color: #fff;
 }
 
-/* Hide scrollbar on filter chips */
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
@@ -30,15 +52,13 @@ body {
   scrollbar-width: none;
 }
 
-/* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #f7f0eb;
 }
 ::-webkit-scrollbar-thumb {
-  background: #FF6B6B;
+  background: var(--color-primary);
   border-radius: 3px;
 }
-

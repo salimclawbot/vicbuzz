@@ -41,7 +41,7 @@ export default function MapView({
     return (
       <div className="text-center py-16">
         <div className="text-6xl mb-4">🗺️</div>
-        <p className="font-bold text-[#2D2D2D]">No map data available</p>
+        <p className="font-bold text-[var(--color-text-strong)]">No map data available</p>
         <p className="text-gray-500 text-sm mt-1">
           These items don&apos;t have location coordinates
         </p>
@@ -50,7 +50,7 @@ export default function MapView({
   }
 
   return (
-    <div className="rounded-2xl overflow-hidden border border-[#F0F0F0]">
+    <div className="rounded-2xl overflow-hidden border border-[var(--color-muted-surface)]">
       <MapContainer
         center={[-37.8136, 144.9631]}
         zoom={10}
@@ -65,12 +65,12 @@ export default function MapView({
           <Marker key={item.id} position={[item.lat, item.lng]}>
             <Popup>
               <div className="text-sm">
-                <p className="font-bold text-[#2D2D2D]">{item.name}</p>
+                <p className="font-bold text-[var(--color-text-strong)]">{item.name}</p>
                 <p className="text-gray-500 text-xs">📍 {item.suburb}</p>
                 {type === "listings" ? (
                   <a
                     href={`/listing/${item.id}`}
-                    className="text-xs font-semibold text-[#FF6B6B] hover:underline"
+                    className="text-xs font-semibold text-[var(--color-primary)] hover:underline"
                   >
                     View →
                   </a>

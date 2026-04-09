@@ -252,9 +252,9 @@ export default async function BlogPage({ params }: Props) {
   if (!slug || slug.length === 0) {
     const articles = getPublishedArticles();
     return (
-      <main className="min-h-screen bg-[#FEFEFE] px-4 py-8 sm:px-6 lg:px-8">
+      <main className="min-h-screen bg-[var(--color-bg)] px-4 py-8 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-6xl">
-          <div className="rounded-2xl bg-[#1A1A2E] p-6 text-white sm:p-8">
+          <div className="rounded-2xl bg-[var(--color-text-strong)] p-6 text-white sm:p-8">
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-amber-300">VicBuzz Guides</p>
             <h1 className="mt-2 text-3xl font-bold sm:text-4xl">Family activity guides for Victoria</h1>
             <p className="mt-3 max-w-2xl text-sm text-white/80 sm:text-base">
@@ -263,13 +263,13 @@ export default async function BlogPage({ params }: Props) {
           </div>
           <div className="mt-8 grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
             {articles.map((article) => (
-              <article key={article.slug} className="rounded-2xl border border-[#EFEFEF] bg-white p-5 shadow-sm hover:shadow-md transition-shadow">
-                <p className="text-xs font-semibold uppercase tracking-wide text-[#FF6B6B]">{article.category}</p>
-                <h2 className="mt-2 text-xl font-bold text-[#1A1A2E]">
-                  <Link href={`/blog/${article.slug}`} className="hover:text-[#FF6B6B]">{article.title}</Link>
+              <article key={article.slug} className="rounded-2xl border border-[var(--color-border)] bg-white p-5 shadow-sm hover:shadow-md transition-shadow">
+                <p className="text-xs font-semibold uppercase tracking-wide text-[var(--color-primary)]">{article.category}</p>
+                <h2 className="mt-2 text-xl font-bold text-[var(--color-text-strong)]">
+                  <Link href={`/blog/${article.slug}`} className="hover:text-[var(--color-primary)]">{article.title}</Link>
                 </h2>
-                <p className="mt-2 text-sm text-[#6B7280]">{article.description}</p>
-                <div className="mt-4 flex items-center justify-between text-xs text-[#6B7280]">
+                <p className="mt-2 text-sm text-[var(--color-text-muted)]">{article.description}</p>
+                <div className="mt-4 flex items-center justify-between text-xs text-[var(--color-text-muted)]">
                   <span>{article.readTime}</span>
                   <span>{article.publishDate}</span>
                 </div>
@@ -336,12 +336,12 @@ export default async function BlogPage({ params }: Props) {
   };
 
   return (
-    <main className="min-h-screen bg-[#FEFEFE]">
+    <main className="min-h-screen bg-[var(--color-bg)]">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Hero */}
-      <div className="bg-[#1A1A2E] px-4 pt-8 pb-10 sm:px-6 lg:px-8">
+      <div className="bg-[var(--color-text-strong)] px-4 pt-8 pb-10 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-4xl">
           <nav className="text-xs text-white/50 mb-4">
             <Link href="/" className="hover:text-white">Home</Link>
@@ -396,7 +396,7 @@ export default async function BlogPage({ params }: Props) {
               if (block.type === "skip") return null;
               if (block.type === "html") return <div key={i} dangerouslySetInnerHTML={{ __html: block.html! }} />;
               if (block.type === "img") return <BlogImage key={i} src={block.html!} alt={block.text} loading="lazy" />;
-              if (block.type === "h1") return <h1 key={i} className="text-3xl font-bold text-[#1A1A2E] mt-8 mb-4">{block.text}</h1>;
+              if (block.type === "h1") return <h1 key={i} className="text-3xl font-bold text-[var(--color-text-strong)] mt-8 mb-4">{block.text}</h1>;
               if (block.type === "h2") {
                 h2Count++;
                 listingOffset += 3; // rotate through different listings each section
@@ -407,7 +407,7 @@ export default async function BlogPage({ params }: Props) {
                   : h2Count % 2 === 0 ? "Explore on VicBuzz" : "Popular activities";
                 return (
                   <div key={i}>
-                    <h2 id={block.id} className="text-2xl font-bold text-[#1A1A2E] mt-10 mb-4 scroll-mt-20">{block.text}</h2>
+                    <h2 id={block.id} className="text-2xl font-bold text-[var(--color-text-strong)] mt-10 mb-4 scroll-mt-20">{block.text}</h2>
                     {showGrid && (
                       <ArticleListingGrid
                         suburb={suburb || undefined}
@@ -419,11 +419,11 @@ export default async function BlogPage({ params }: Props) {
                   </div>
                 );
               }
-              if (block.type === "h3") return <h3 key={i} id={block.id} className="text-xl font-semibold text-[#1A1A2E] mt-6 mb-3">{block.text}</h3>;
-              if (block.type === "bold") return <p key={i} className="font-semibold text-[#1A1A2E] my-3">{block.text}</p>;
-              if (block.type === "link") return <li key={i} className="text-[#374151] ml-4 my-1 list-disc"><a href={block.href} className="text-amber-700 hover:underline">{block.text}</a></li>;
-              if (block.type === "li") return <li key={i} className="text-[#374151] ml-4 my-1 list-disc">{block.text}</li>;
-              return <p key={i} className="text-[#374151] leading-relaxed my-3">{block.text}</p>;
+              if (block.type === "h3") return <h3 key={i} id={block.id} className="text-xl font-semibold text-[var(--color-text-strong)] mt-6 mb-3">{block.text}</h3>;
+              if (block.type === "bold") return <p key={i} className="font-semibold text-[var(--color-text-strong)] my-3">{block.text}</p>;
+              if (block.type === "link") return <li key={i} className="text-[var(--color-text)] ml-4 my-1 list-disc"><a href={block.href} className="text-amber-700 hover:underline">{block.text}</a></li>;
+              if (block.type === "li") return <li key={i} className="text-[var(--color-text)] ml-4 my-1 list-disc">{block.text}</li>;
+              return <p key={i} className="text-[var(--color-text)] leading-relaxed my-3">{block.text}</p>;
             });
           })()}
         </div>
@@ -436,14 +436,14 @@ export default async function BlogPage({ params }: Props) {
         {/* FAQs */}
         {article.faqs.length > 0 && (
           <div className="mt-12">
-            <h2 className="text-2xl font-bold text-[#1A1A2E] mb-6">Frequently Asked Questions</h2><ShareButtons title={article.title} />
+            <h2 className="text-2xl font-bold text-[var(--color-text-strong)] mb-6">Frequently Asked Questions</h2><ShareButtons title={article.title} />
 
         
             <div className="space-y-4">
               {article.faqs.map((faq, i) => (
-                <div key={i} className="rounded-xl border border-[#EFEFEF] bg-white p-5">
-                  <p className="font-semibold text-[#1A1A2E]">{faq.q}</p>
-                  <p className="mt-2 text-sm text-[#6B7280]">{faq.a}</p>
+                <div key={i} className="rounded-xl border border-[var(--color-border)] bg-white p-5">
+                  <p className="font-semibold text-[var(--color-text-strong)]">{faq.q}</p>
+                  <p className="mt-2 text-sm text-[var(--color-text-muted)]">{faq.a}</p>
                 </div>
               ))}
             </div>
@@ -456,18 +456,18 @@ export default async function BlogPage({ params }: Props) {
           const related = allArticles.filter(a => a.slug !== slug?.[0] && a.category === article.category).slice(0, 3);
           if (related.length === 0) return null;
           return (
-            <div className="mt-10 pt-8 border-t border-[#EFEFEF]">
-              <h3 className="text-lg font-bold text-[#1A1A2E] mb-4">More Guides</h3>
+            <div className="mt-10 pt-8 border-t border-[var(--color-border)]">
+              <h3 className="text-lg font-bold text-[var(--color-text-strong)] mb-4">More Guides</h3>
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                 {related.map(a => (
                   <Link key={a.slug} href={`/blog/${a.slug}`}
-                    className="group rounded-xl border border-[#EFEFEF] overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5 block">
-                    <div className="h-24 bg-gradient-to-br from-[#FF6B6B]/10 to-[#FFB347]/10 flex items-center justify-center">
+                    className="group rounded-xl border border-[var(--color-border)] overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5 block">
+                    <div className="h-24 bg-gradient-to-br from-[var(--color-primary)]/10 to-[var(--color-secondary)]/10 flex items-center justify-center">
                       <span className="text-2xl">📍</span>
                     </div>
                     <div className="p-3">
-                      <p className="text-xs font-semibold text-[#FF6B6B] uppercase">{a.category}</p>
-                      <p className="text-xs font-bold text-[#1A1A2E] mt-0.5 line-clamp-2">{a.title}</p>
+                      <p className="text-xs font-semibold text-[var(--color-primary)] uppercase">{a.category}</p>
+                      <p className="text-xs font-bold text-[var(--color-text-strong)] mt-0.5 line-clamp-2">{a.title}</p>
                     </div>
                   </Link>
                 ))}
@@ -477,8 +477,8 @@ export default async function BlogPage({ params }: Props) {
         })()}
 
         {/* Back */}
-        <div className="mt-10 pt-8 border-t border-[#EFEFEF]">
-          <Link href="/blog" className="text-sm text-[#FF6B6B] hover:underline">← Back to Guides</Link>
+        <div className="mt-10 pt-8 border-t border-[var(--color-border)]">
+          <Link href="/blog" className="text-sm text-[var(--color-primary)] hover:underline">← Back to Guides</Link>
         </div>
       </div>
     </main>

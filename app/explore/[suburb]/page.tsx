@@ -66,22 +66,22 @@ export default async function SuburbPage({
   };
 
   return (
-    <div className="min-h-screen bg-[#FEFEFE]">
+    <div className="min-h-screen bg-[var(--color-bg)]">
       
       <div className="max-w-5xl mx-auto px-4 py-6">
         <nav className="text-sm text-gray-500 mb-4">
-          <Link href="/" className="hover:text-[#FF6B6B]">
+          <Link href="/" className="hover:text-[var(--color-primary)]">
             Home
           </Link>
           {" > "}
-          <Link href="/explore" className="hover:text-[#FF6B6B]">
+          <Link href="/explore" className="hover:text-[var(--color-primary)]">
             Explore
           </Link>
           {" > "}
-          <span className="text-[#2D2D2D] font-medium">{name}</span>
+          <span className="text-[var(--color-text-strong)] font-medium">{name}</span>
         </nav>
 
-        <h1 className="text-2xl font-bold text-[#2D2D2D]">
+        <h1 className="text-2xl font-bold text-[var(--color-text-strong)]">
           Family Activities in {name}
         </h1>
         <p className="text-sm text-gray-500 mt-1 mb-6">

@@ -34,8 +34,8 @@ export default async function ListingPage({
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <p className="text-4xl mb-3">🐝</p>
-          <p className="text-[#6B7280]">Listing not found</p>
-          <Link href="/" className="text-[#FF6B6B] font-semibold mt-2 inline-block">
+          <p className="text-[var(--color-text-muted)]">Listing not found</p>
+          <Link href="/" className="text-[var(--color-primary)] font-semibold mt-2 inline-block">
             ← Back to VicBuzz
           </Link>
         </div>
@@ -49,7 +49,7 @@ export default async function ListingPage({
   return (
     <div className="min-h-screen bg-white">
       
-      <div className="relative aspect-video bg-[#FF6B6B]/10 max-w-4xl mx-auto">
+      <div className="relative aspect-video bg-[var(--color-primary)]/10 max-w-4xl mx-auto">
         {hasImage ? (
           <Image
             src={listing.image}
@@ -66,12 +66,12 @@ export default async function ListingPage({
       </div>
 
       <div className="p-5 max-w-2xl mx-auto">
-        <h1 className="text-2xl font-bold text-[#2D2D2D]">{listing.title}</h1>
+        <h1 className="text-2xl font-bold text-[var(--color-text-strong)]">{listing.title}</h1>
         <div className="flex flex-wrap gap-2 mt-3">
-          <span className="bg-gray-100 text-[#6B7280] text-xs px-3 py-1 rounded-full">
+          <span className="bg-gray-100 text-[var(--color-text-muted)] text-xs px-3 py-1 rounded-full">
             📍 {listing.suburb}
           </span>
-          <span className="bg-gray-100 text-[#6B7280] text-xs px-3 py-1 rounded-full">
+          <span className="bg-gray-100 text-[var(--color-text-muted)] text-xs px-3 py-1 rounded-full">
             🗺️ {regionLabels[listing.region] || listing.region}
           </span>
           {isFree && (
@@ -81,7 +81,7 @@ export default async function ListingPage({
           )}
         </div>
         {listing.description && (
-          <p className="text-[#2D2D2D] mt-4 leading-relaxed">
+          <p className="text-[var(--color-text-strong)] mt-4 leading-relaxed">
             {listing.description}
           </p>
         )}
@@ -91,7 +91,7 @@ export default async function ListingPage({
               href={listing.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex-1 bg-[#FF6B6B] text-white text-center py-3 rounded-xl font-semibold text-sm hover:bg-[#e55a5a] transition-colors"
+              className="flex-1 bg-[var(--color-primary)] text-white text-center py-3 rounded-xl font-semibold text-sm hover:bg-[var(--color-primary-strong)] transition-colors"
             >
               Get Directions →
             </a>

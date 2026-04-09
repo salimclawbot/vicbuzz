@@ -34,7 +34,7 @@ export default function NewsletterBar() {
   };
 
   return (
-    <div className="rounded-2xl p-6 text-center mb-6" style={{background: 'linear-gradient(135deg, #FF6B6B 0%, #FF8E8E 100%)'}}>
+    <div className="rounded-2xl p-6 text-center mb-6" style={{background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary) 100%)'}}>
       {submitted ? (
         <p className="font-bold text-white text-lg">
           🐝 You are in! Check your inbox this Friday.
@@ -61,7 +61,7 @@ export default function NewsletterBar() {
             />
             <button
               type="submit"
-              className="bg-white text-[#FF6B6B] px-6 py-3 rounded-xl font-semibold text-sm hover:bg-gray-50 transition-colors"
+              className="bg-white text-[var(--color-primary)] px-6 py-3 rounded-xl font-semibold text-sm hover:bg-gray-50 transition-colors"
             >
               Subscribe Free 🐝
             </button>

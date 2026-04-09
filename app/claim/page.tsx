@@ -62,12 +62,12 @@ export default function ClaimPage() {
   };
 
   return (
-    <div className="min-h-screen bg-[#FEFEFE]">
+    <div className="min-h-screen bg-[var(--color-bg)]">
       <header className="sticky top-0 z-50 bg-white border-b border-gray-100 px-4 py-3">
         <div className="max-w-4xl mx-auto flex items-center">
           <Link
             href="/"
-            className="text-[#2D2D2D] font-semibold text-sm"
+            className="text-[var(--color-text-strong)] font-semibold text-sm"
           >
             ← Back to VicBuzz
           </Link>
@@ -75,7 +75,7 @@ export default function ClaimPage() {
       </header>
 
       <div className="max-w-4xl mx-auto px-4 py-8">
-        <h1 className="text-2xl font-bold text-[#2D2D2D] text-center">
+        <h1 className="text-2xl font-bold text-[var(--color-text-strong)] text-center">
           Is Your Family Venue Listed on VicBuzz? 🐝
         </h1>
         <p className="text-sm text-gray-500 text-center mt-1 mb-8">
@@ -90,20 +90,20 @@ export default function ClaimPage() {
               className={`relative bg-white rounded-2xl border-2 p-6 text-left transition-all ${
                 selectedTier === tier.name
                   ? tier.name === "Featured"
-                    ? "border-[#FF6B6B] shadow-lg shadow-[#FF6B6B]/20"
+                    ? "border-[var(--color-primary)] shadow-lg shadow-[var(--color-primary)]/20"
                     : tier.name === "Premium"
-                    ? "border-[#FFB3A7] shadow-lg"
-                    : "border-[#FF6B6B] shadow-lg"
+                    ? "border-[var(--color-secondary)] shadow-lg"
+                    : "border-[var(--color-primary)] shadow-lg"
                   : "border-gray-200 hover:border-gray-300"
               }`}
             >
               {tier.popular && (
-                <span className="absolute -top-3 left-1/2 -translate-x-1/2 bg-[#FF6B6B] text-white text-xs font-bold px-3 py-1 rounded-full">
+                <span className="absolute -top-3 left-1/2 -translate-x-1/2 bg-[var(--color-primary)] text-white text-xs font-bold px-3 py-1 rounded-full">
                   POPULAR
                 </span>
               )}
-              <h3 className="text-lg font-bold text-[#2D2D2D]">{tier.name}</h3>
-              <p className="text-2xl font-extrabold text-[#2D2D2D] mt-1">
+              <h3 className="text-lg font-bold text-[var(--color-text-strong)]">{tier.name}</h3>
+              <p className="text-2xl font-extrabold text-[var(--color-text-strong)] mt-1">
                 {tier.price}
               </p>
               <p className="text-sm text-gray-500 mt-1">{tier.desc}</p>
@@ -121,7 +121,7 @@ export default function ClaimPage() {
         {submitted ? (
           <div className="text-center py-12">
             <div className="text-5xl mb-3">🐝</div>
-            <p className="text-lg font-bold text-[#2D2D2D]">
+            <p className="text-lg font-bold text-[var(--color-text-strong)]">
               Request submitted!
             </p>
             <p className="text-sm text-gray-500 mt-1">
@@ -130,7 +130,7 @@ export default function ClaimPage() {
           </div>
         ) : (
           <form onSubmit={handleSubmit} className="max-w-lg mx-auto space-y-4">
-            <h2 className="text-lg font-bold text-[#2D2D2D]">
+            <h2 className="text-lg font-bold text-[var(--color-text-strong)]">
               Your Details
             </h2>
             <input type="hidden" name="tier" value={selectedTier} />
@@ -142,19 +142,19 @@ export default function ClaimPage() {
               { name: "phone", label: "Phone", type: "tel" },
             ].map((field) => (
               <div key={field.name}>
-                <label className="block text-sm font-medium text-[#2D2D2D] mb-1">
+                <label className="block text-sm font-medium text-[var(--color-text-strong)] mb-1">
                   {field.label}
                 </label>
                 <input
                   type={field.type}
                   name={field.name}
                   required
-                  className="w-full px-4 py-3 rounded-xl border border-gray-200 text-sm focus:outline-none focus:border-[#FF6B6B] focus:ring-1 focus:ring-[#FF6B6B]"
+                  className="w-full px-4 py-3 rounded-xl border border-gray-200 text-sm focus:outline-none focus:border-[var(--color-primary)] focus:ring-1 focus:ring-[var(--color-primary)]"
                 />
               </div>
             ))}
             <div>
-              <label className="block text-sm font-medium text-[#2D2D2D] mb-1">
+              <label className="block text-sm font-medium text-[var(--color-text-strong)] mb-1">
                 Selected Tier
               </label>
               <div className="flex gap-3">
@@ -163,7 +163,7 @@ export default function ClaimPage() {
                     key={t.name}
                     className={`flex items-center gap-2 px-3 py-2 rounded-lg border text-sm cursor-pointer ${
                       selectedTier === t.name
-                        ? "border-[#FF6B6B] bg-[#FFF5F5] font-semibold"
+                        ? "border-[var(--color-primary)] bg-[var(--color-primary-soft)] font-semibold"
                         : "border-gray-200"
                     }`}
                   >
@@ -181,19 +181,19 @@ export default function ClaimPage() {
               </div>
             </div>
             <div>
-              <label className="block text-sm font-medium text-[#2D2D2D] mb-1">
+              <label className="block text-sm font-medium text-[var(--color-text-strong)] mb-1">
                 Message
               </label>
               <textarea
                 name="message"
                 rows={3}
-                className="w-full px-4 py-3 rounded-xl border border-gray-200 text-sm focus:outline-none focus:border-[#FF6B6B] focus:ring-1 focus:ring-[#FF6B6B] resize-none"
+                className="w-full px-4 py-3 rounded-xl border border-gray-200 text-sm focus:outline-none focus:border-[var(--color-primary)] focus:ring-1 focus:ring-[var(--color-primary)] resize-none"
                 placeholder="Tell us about your business..."
               />
             </div>
             <button
               type="submit"
-              className="w-full bg-[#FF6B6B] text-white py-3 rounded-xl font-bold text-sm hover:bg-[#e55a5a] transition-colors"
+              className="w-full bg-[var(--color-primary)] text-white py-3 rounded-xl font-bold text-sm hover:bg-[var(--color-primary-strong)] transition-colors"
             >
               Submit Claim Request →
             </button>

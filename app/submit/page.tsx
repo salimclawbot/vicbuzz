@@ -22,13 +22,13 @@ export const metadata: Metadata = {
 
 export default function SubmitPage() {
   return (
-    <div className="min-h-screen bg-[#FEFEFE]">
+    <div className="min-h-screen bg-[var(--color-bg)]">
       
       <div className="max-w-lg mx-auto px-4 py-8">
-        <h1 className="text-2xl font-bold text-[#2D2D2D]">
+        <h1 className="text-2xl font-bold text-[var(--color-text-strong)]">
           List Your Family-Friendly Venue or Event 🐝
         </h1>
-        <p className="text-sm text-[#6B7280] mt-1">
+        <p className="text-sm text-[var(--color-text-muted)] mt-1">
           Reach thousands of Victorian parents searching for things to do with their kids
         </p>
 
@@ -38,33 +38,33 @@ export default function SubmitPage() {
           <input type="hidden" name="_template" value="box" />
 
           <div>
-            <label className="block text-xs font-semibold text-[#374151] mb-1">Venue or Event Name</label>
+            <label className="block text-xs font-semibold text-[var(--color-text)] mb-1">Venue or Event Name</label>
             <input
               type="text"
               name="name"
               required
-              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#FF6B6B]"
+              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]"
               placeholder="e.g. Yarra Ranges Science Museum"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-semibold text-[#374151] mb-1">Suburb</label>
+            <label className="block text-xs font-semibold text-[var(--color-text)] mb-1">Suburb</label>
             <input
               type="text"
               name="suburb"
               required
-              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#FF6B6B]"
+              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]"
               placeholder="e.g. Lilydale"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-semibold text-[#374151] mb-1">Category</label>
+            <label className="block text-xs font-semibold text-[var(--color-text)] mb-1">Category</label>
             <select
               name="category"
               required
-              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#FF6B6B]"
+              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]"
             >
               <option value="">Select a category</option>
               <option value="playground">Playground</option>
@@ -80,10 +80,10 @@ export default function SubmitPage() {
           </div>
 
           <div>
-            <label className="block text-xs font-semibold text-[#374151] mb-1">Entry Cost</label>
+            <label className="block text-xs font-semibold text-[var(--color-text)] mb-1">Entry Cost</label>
             <select
               name="price"
-              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#FF6B6B]"
+              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]"
             >
               <option value="Free">Free</option>
               <option value="Under $10">Under $10</option>
@@ -94,35 +94,35 @@ export default function SubmitPage() {
           </div>
 
           <div>
-            <label className="block text-xs font-semibold text-[#374151] mb-1">Your Email</label>
+            <label className="block text-xs font-semibold text-[var(--color-text)] mb-1">Your Email</label>
             <input
               type="email"
               name="email"
               required
-              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#FF6B6B]"
+              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]"
               placeholder="your@email.com"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-semibold text-[#374151] mb-1">Description (what makes it great for families?)</label>
+            <label className="block text-xs font-semibold text-[var(--color-text)] mb-1">Description (what makes it great for families?)</label>
             <textarea
               name="description"
               rows={4}
               required
-              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#FF6B6B]"
+              className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]"
               placeholder="Tell us what families will love about this place..."
             />
           </div>
 
           <button
             type="submit"
-            className="w-full rounded-lg bg-[#FF6B6B] text-white font-semibold py-3 hover:bg-[#ff5252] transition-colors"
+            className="w-full rounded-lg bg-[var(--color-primary)] text-white font-semibold py-3 hover:bg-[var(--color-primary-strong)] transition-colors"
           >
             Submit Listing
           </button>
 
-          <p className="text-xs text-[#9CA3AF] text-center">
+          <p className="text-xs text-[var(--color-text-muted)] text-center">
             We review all submissions and add them to VicBuzz within 48 hours.
           </p>
         </form>

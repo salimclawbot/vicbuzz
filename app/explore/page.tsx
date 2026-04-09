@@ -58,9 +58,9 @@ export default function ExplorePage() {
   ];
 
 return (
-    <div className="min-h-screen bg-[#FEFEFE]">
+    <div className="min-h-screen bg-[var(--color-bg)]">
       <div className="max-w-5xl mx-auto px-4 py-6">
-        <h1 className="text-2xl font-bold text-[#2D2D2D]">
+        <h1 className="text-2xl font-bold text-[var(--color-text-strong)]">
           Family Activities Across Victoria
         </h1>
         <p className="text-sm text-gray-500 mt-1 mb-6">
@@ -69,7 +69,7 @@ return (
 
         {letters.map((letter) => (
           <div key={letter} className="mb-6">
-            <h2 className="text-lg font-bold text-[#FF6B6B] mb-2 border-b border-gray-200 pb-1">
+            <h2 className="text-lg font-bold text-[var(--color-primary)] mb-2 border-b border-gray-200 pb-1">
               {letter}
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2">
@@ -77,13 +77,13 @@ return (
                 <Link
                   key={name}
                   href={`/explore/${slugify(name)}`}
-                  className="bg-white rounded-xl border border-[#F0F0F0] p-3 hover:border-[#FF6B6B] hover:bg-[#FFF5F5] hover:shadow-md transition-all"
+                  className="bg-white rounded-xl border border-[var(--color-muted-surface)] p-3 hover:border-[var(--color-primary)] hover:bg-[var(--color-primary-soft)] hover:shadow-md transition-all"
                 >
-                  <p className="font-semibold text-[#2D2D2D] text-sm">
+                  <p className="font-semibold text-[var(--color-text-strong)] text-sm">
                     {name}
                   </p>
                   <p className="text-xs text-gray-500">
-                    <span className="inline-block bg-[#FF6B6B] text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full mr-1">{count}</span>
+                    <span className="inline-block bg-[var(--color-primary)] text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full mr-1">{count}</span>
                     {count === 1 ? "spot" : "spots"}
                   </p>
                 </Link>

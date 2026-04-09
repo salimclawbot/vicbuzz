@@ -4,6 +4,9 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import type { Listing } from "@/lib/listings";
 import ShareButton from "./ShareButton";
+import { Card, CardContent } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 
 const typeEmoji: Record<string, string> = {
   kids: "🛝",
@@ -77,9 +80,7 @@ export default function ListingCard({
   };
 
   return (
-    <div
-      className="bg-white rounded-2xl shadow-sm hover:shadow-md border border-[#F3F4F6] overflow-hidden transition-all hover:-translate-y-0.5"
-    >
+    <Card className="overflow-hidden transition-all hover:-translate-y-0.5 hover:shadow-md">
       <div
         className="relative aspect-video cursor-pointer"
         onClick={() => onSelect(listing.id)}
@@ -93,27 +94,23 @@ export default function ListingCard({
             unoptimized
           />
         ) : (
-          <div className="w-full h-full bg-[#FFF7F7] flex items-center justify-center text-4xl">
+          <div className="w-full h-full bg-[var(--color-primary-soft)] flex items-center justify-center text-4xl">
             {emoji}
           </div>
         )}
         <div className="absolute top-3 left-3 flex gap-1.5">
           {isFree && (
-            <span className="bg-[#DCFCE7] text-[#166534] font-bold text-xs px-2 py-0.5 rounded-full">
-              FREE
-            </span>
+            <Badge className="bg-[#dcfce7] text-[#166534]">FREE</Badge>
           )}
-          <span className="bg-[#F3F4F6] text-[#374151] font-bold text-xs px-2 py-0.5 rounded-full">
-            {emoji}
-          </span>
+          <Badge variant="secondary">{emoji}</Badge>
         </div>
       </div>
-      <div className="p-3">
-        <p className="text-xs text-[#6B7280]">
+      <CardContent className="p-3">
+        <p className="text-xs text-[var(--color-text-muted)]">
           📍 {listing.suburb} · {listing.region}
         </p>
         {distanceKm !== undefined && (
-          <span className="text-xs text-[#FF6B6B] font-semibold">
+          <span className="text-xs text-[var(--color-primary)] font-semibold">
             📍{" "}
             {distanceKm < 1
               ? `${Math.round(distanceKm * 1000)}m away`
@@ -121,17 +118,17 @@ export default function ListingCard({
           </span>
         )}
         <h3
-          className="font-semibold text-[#1A1A2E] text-sm leading-tight mt-0.5 line-clamp-2 cursor-pointer"
+          className="font-semibold text-[var(--color-text-strong)] text-sm leading-tight mt-0.5 line-clamp-2 cursor-pointer"
           onClick={() => onSelect(listing.id)}
         >
           {listing.title}
         </h3>
         {listing.description && (
-          <p className="text-xs text-[#6B7280] mt-1 line-clamp-2">
+          <p className="text-xs text-[var(--color-text-muted)] mt-1 line-clamp-2">
             {listing.description}
           </p>
         )}
-        <div className="flex items-center gap-2 mt-2 text-xs text-[#6B7280]">
+        <div className="flex items-center gap-2 mt-2 text-xs text-[var(--color-text-muted)]">
           {envTag(listing) && <span>{envTag(listing)}</span>}
           <span>{ageTag(listing)}</span>
         </div>
@@ -150,16 +147,18 @@ export default function ListingCard({
             </button>
           ))}
           {hasRated && (
-            <span className="text-xs text-[#9CA3AF] ml-1">You rated this ⭐</span>
+            <span className="text-xs text-[var(--color-text-muted)] ml-1">You rated this ⭐</span>
           )}
         </div>
         <div className="flex items-center justify-between mt-2">
-          <button
+          <Button
+            type="button"
             onClick={() => onSelect(listing.id)}
-            className="text-[#FF6B6B] text-xs font-semibold hover:text-[#e55a5a] transition-colors"
+            variant="ghost"
+            className="h-auto p-0 text-xs text-[var(--color-primary)] hover:bg-transparent hover:text-[var(--color-primary-strong)]"
           >
             Details →
-          </button>
+          </Button>
           <div className="flex items-center gap-1">
             <ShareButton
               title={listing.title}
@@ -177,7 +176,7 @@ export default function ListingCard({
             </button>
           </div>
         </div>
-      </div>
-    </div>
+      </CardContent>
+    </Card>
   );
 }

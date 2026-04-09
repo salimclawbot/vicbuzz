@@ -39,7 +39,7 @@ export default function ShareButton({
         📤
       </button>
       {showToast && (
-        <div className="fixed bottom-24 left-1/2 -translate-x-1/2 bg-[#2D2D2D] text-white text-sm font-medium px-4 py-2 rounded-xl shadow-lg z-[9999] animate-pulse">
+        <div className="fixed bottom-24 left-1/2 -translate-x-1/2 bg-[var(--color-text-strong)] text-white text-sm font-medium px-4 py-2 rounded-xl shadow-lg z-[9999] animate-pulse">
           Link copied! ✓
         </div>
       )}

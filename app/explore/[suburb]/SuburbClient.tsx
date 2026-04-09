@@ -37,7 +37,7 @@ export default function SuburbClient({
       {listings.length === 0 ? (
         <div className="text-center py-16">
           <div className="text-6xl mb-4">🐝</div>
-          <p className="font-bold text-[#2D2D2D] text-lg">No results here</p>
+          <p className="font-bold text-[var(--color-text-strong)] text-lg">No results here</p>
           <p className="text-gray-500 text-sm mt-1">
             Try a different suburb or category
           </p>
@@ -60,7 +60,7 @@ export default function SuburbClient({
 
       {events.length > 0 && (
         <section className="mt-8">
-          <h2 className="text-lg font-bold text-[#2D2D2D] mb-4">
+          <h2 className="text-lg font-bold text-[var(--color-text-strong)] mb-4">
             Events in this area
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

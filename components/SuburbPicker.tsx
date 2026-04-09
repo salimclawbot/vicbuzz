@@ -58,7 +58,7 @@ export default function SuburbPicker({ suburbs, value, onChange, label = "All su
         onClick={() => { setOpen(!open); if (!open) updatePosition(); }}
         className={`w-full flex items-center justify-between text-sm border rounded-xl px-3 py-2 bg-white transition-all ${
           value !== "all"
-            ? "border-[#FF6B6B] text-[#2D2D2D] font-semibold bg-[#FFF5F5]"
+            ? "border-[var(--color-primary)] text-[var(--color-text-strong)] font-semibold bg-[var(--color-primary-soft)]"
             : "border-gray-200 text-gray-600"
         }`}
       >
@@ -79,14 +79,14 @@ export default function SuburbPicker({ suburbs, value, onChange, label = "All su
               placeholder="Search suburb..."
               value={query}
               onChange={e => setQuery(e.target.value)}
-              className="w-full text-sm px-3 py-1.5 border border-gray-200 rounded-lg focus:outline-none focus:border-[#FF6B6B]"
+              className="w-full text-sm px-3 py-1.5 border border-gray-200 rounded-lg focus:outline-none focus:border-[var(--color-primary)]"
             />
           </div>
           <div className="max-h-60 overflow-y-auto">
             <button
               onClick={() => { onChange("all"); setOpen(false); setQuery(""); }}
               className={`w-full text-left px-4 py-2.5 text-sm transition-colors ${
-                value === "all" ? "font-bold text-[#2D2D2D] bg-[#FFF5F5]" : "text-gray-700 hover:bg-[#FFF5F5]"
+                value === "all" ? "font-bold text-[var(--color-text-strong)] bg-[var(--color-primary-soft)]" : "text-gray-700 hover:bg-[var(--color-primary-soft)]"
               }`}
             >
               📍 {label}
@@ -99,7 +99,7 @@ export default function SuburbPicker({ suburbs, value, onChange, label = "All su
                 key={s}
                 onClick={() => { onChange(s); setOpen(false); setQuery(""); }}
                 className={`w-full text-left px-4 py-2.5 text-sm transition-colors ${
-                  value === s ? "font-bold text-[#2D2D2D] bg-[#FFF5F5]" : "text-gray-700 hover:bg-[#FFF5F5]"
+                  value === s ? "font-bold text-[var(--color-text-strong)] bg-[var(--color-primary-soft)]" : "text-gray-700 hover:bg-[var(--color-primary-soft)]"
                 }`}
               >
                 {s}

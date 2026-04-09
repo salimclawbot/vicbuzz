@@ -3,9 +3,10 @@
 import Image from "next/image";
 import type { LiveEvent } from "@/lib/events";
 import ShareButton from "./ShareButton";
+import { Badge } from "@/components/ui/badge";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
 
-// Neutral gray pill for all categories
-const categoryColorClass = "bg-[#F3F4F6] text-[#374151]";
 const categoryIcons: Record<string, string> = {
   music: "🎵",
   theatre: "🎭",
@@ -14,13 +15,8 @@ const categoryIcons: Record<string, string> = {
   sport: "⚽",
   arts: "🎨",
   event: "📅",
-  family: "👨‍👩‍👧",
+  family: "👨👩👧",
 };
-
-function getCategoryIcon(cat: string): string {
-  return categoryIcons[cat?.toLowerCase()] ?? "📍";
-}
-
 
 const categoryEmoji: Record<string, string> = {
   event: "✨",
@@ -30,7 +26,7 @@ const categoryEmoji: Record<string, string> = {
   arts: "🎨",
   sport: "🏆",
   festival: "🎪",
-  family: "👨‍👩‍👧",
+  family: "👨👩👧",
   theatre: "🎭",
 };
 
@@ -43,15 +39,12 @@ function formatDateBadge(startDate: string, endDate?: string): string {
   };
   if (!startDate) return "Ongoing";
   const start = fmt(startDate);
-  if (endDate && endDate !== startDate) {
-    return `${start} → ${fmt(endDate)}`;
-  }
+  if (endDate && endDate !== startDate) return `${start} → ${fmt(endDate)}`;
   return start;
 }
 
 function downloadICS(event: LiveEvent) {
-  const formatDT = (dt: string) =>
-    dt.replace(/[-:]/g, "").replace("T", "T").slice(0, 15) + "Z";
+  const formatDT = (dt: string) => dt.replace(/[-:]/g, "").slice(0, 15) + "Z";
   const start = event.startDate ? formatDT(event.startDate) : "";
   const end = event.endDate ? formatDT(event.endDate) : start;
   const ics = [
@@ -90,134 +83,53 @@ export default function EventCard({
 }) {
   const isFree = !event.price || event.price.toLowerCase() === "free";
   const hasImage = event.image && event.image.startsWith("http");
-  const categoryFallback: Record<string, string> = {
-    festival: "/images/events/event-festival.png",
-    music: "/images/events/event-music.png",
-    food: "/images/events/event-food.png",
-    comedy: "/images/events/event-comedy.png",
-    arts: "/images/events/event-arts.png",
-    sport: "/images/events/event-sport.png",
-    theatre: "/images/events/event-theatre.png",
-    family: "/images/events/event-family.png",
-    event: "/images/events/event-family.png",
-  };
-  const imageSrc = hasImage ? event.image : (categoryFallback[event.category] ?? "/images/events/event-family.png");
-  const emoji = categoryEmoji[event.category] || "✨";
-  const colorClass = categoryColorClass;
+  const emoji = categoryEmoji[event.category] || categoryIcons[event.category] || "✨";
 
   return (
-    <div
-      className={`bg-white rounded-2xl shadow-sm hover:shadow-md overflow-hidden transition-all hover:-translate-y-0.5 ${
-        isPick ? "border-[#FF6B6B] border-2" : "border border-[#F3F4F6]"
-      }`}
-    >
-      <div className="relative aspect-video">
+    <Card className={isPick ? "border-2 border-[var(--color-primary)]" : ""}>
+      <div className="relative aspect-video overflow-hidden rounded-t-2xl">
         {hasImage ? (
-          <Image
-            src={event.image}
-            alt={event.name}
-            fill
-            className="object-cover"
-            unoptimized
-          />
+          <Image src={event.image} alt={event.name} fill className="object-cover" unoptimized />
         ) : (
-          <div className="w-full h-full bg-[#FFF7F7] flex items-center justify-center text-4xl">
-            {emoji}
-          </div>
+          <div className="flex h-full w-full items-center justify-center bg-[var(--color-primary-soft)] text-4xl">{emoji}</div>
         )}
-        <span className="absolute top-3 left-3 bg-[#1A1A2E] text-white text-xs font-bold px-2 py-1 rounded-lg">
-          {formatDateBadge(event.startDate, event.endDate)}
-        </span>
-        {isPick && (
-          <span className="absolute top-3 right-3 bg-[#FF6B6B] text-white text-xs font-bold px-2 py-1 rounded-lg">
-            PICK
-          </span>
-        )}
-        {isFree && (
-          <span className="absolute bottom-3 left-3 bg-[#DCFCE7] text-[#166534] font-bold text-xs px-2 py-0.5 rounded-full">
-            FREE
-          </span>
-        )}
+        <Badge className="absolute left-3 top-3 bg-[var(--color-text-strong)] text-white">{formatDateBadge(event.startDate, event.endDate)}</Badge>
+        {isPick && <Badge className="absolute right-3 top-3 bg-[var(--color-primary)] text-white">PICK</Badge>}
+        {isFree && <Badge className="absolute bottom-3 left-3 bg-[#dcfce7] text-[#166534]">FREE</Badge>}
       </div>
-      <div className="p-4">
-        <span
-          className={`inline-block text-xs font-medium px-2 py-0.5 rounded-full ${colorClass}`}
-        >
-          {emoji} {event.category}
-        </span>
-        <h3 className="font-semibold text-[#1A1A2E] text-lg leading-tight mt-1.5 line-clamp-2">
-          {event.name}
-        </h3>
-        <p className="text-sm text-[#6B7280] mt-1">📍 {event.venue}</p>
-        {event.suburb && (
-          <span className="text-xs text-[#6B7280]">📍 {event.suburb}</span>
-        )}
+      <CardContent className="p-4">
+        <Badge variant="secondary">{emoji} {event.category}</Badge>
+        <h3 className="mt-1.5 line-clamp-2 text-lg font-semibold text-[var(--color-text-strong)]">{event.name}</h3>
+        <p className="mt-1 text-sm text-[var(--color-text-muted)]">📍 {event.venue}</p>
+        {event.suburb && <span className="text-xs text-[var(--color-text-muted)]">📍 {event.suburb}</span>}
         {distanceKm !== undefined && (
-          <span className="text-xs text-[#FF6B6B] font-semibold">
-            📍{" "}
-            {distanceKm < 1
-              ? `${Math.round(distanceKm * 1000)}m away`
-              : `${distanceKm.toFixed(1)}km away`}
+          <span className="block text-xs font-semibold text-[var(--color-primary)]">
+            📍 {distanceKm < 1 ? `${Math.round(distanceKm * 1000)}m away` : `${distanceKm.toFixed(1)}km away`}
           </span>
         )}
-        <p
-          className={`font-semibold text-sm mt-1 ${
-            isFree ? "text-[#166534]" : "text-[#1A1A2E]"
-          }`}
-        >
-          {isFree ? "FREE" : event.price}
-        </p>
-        <div className="flex items-center justify-between mt-3">
+        <p className={`mt-1 text-sm font-semibold ${isFree ? "text-[#166534]" : "text-[var(--color-text-strong)]"}`}>{isFree ? "FREE" : event.price}</p>
+
+        <div className="mt-3 flex items-center justify-between gap-2">
           {event.ticketUrl || event.url ? (
-            <a
-              href={event.ticketUrl || event.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#FF6B6B] text-xs font-semibold hover:text-[#e55a5a] transition-colors"
-            >
-              {(event.ticketUrl || event.url || "").includes(
-                "google.com/search"
-              )
-                ? "Search Online 🔍"
-                : event.ticketUrl
-                ? "Get Tickets →"
-                : "Learn More →"}
+            <a href={event.ticketUrl || event.url} target="_blank" rel="noopener noreferrer" className="text-xs font-semibold text-[var(--color-primary)] hover:text-[var(--color-primary-strong)]">
+              {(event.ticketUrl || event.url || "").includes("google.com/search") ? "Search Online 🔍" : event.ticketUrl ? "Get Tickets →" : "Learn More →"}
             </a>
           ) : (
-            <span className="text-[#9CA3AF] text-xs">No link available</span>
+            <span className="text-xs text-[var(--color-text-muted)]">No link available</span>
           )}
           <div className="flex items-center gap-1">
             {event.startDate && (
-              <button
-                onClick={(e) => {
-                  e.stopPropagation();
-                  downloadICS(event);
-                }}
-                className="text-lg min-w-[32px] min-h-[32px] flex items-center justify-center"
-                aria-label="Add to calendar"
-                title="Add to calendar"
-              >
+              <Button type="button" variant="ghost" size="icon" onClick={() => downloadICS(event)} className="h-8 w-8 text-base" aria-label="Add to calendar" title="Add to calendar">
                 📅
-              </button>
+              </Button>
             )}
-            <ShareButton
-              title={event.name}
-              text={`${event.name} — ${event.suburb} | vicbuzz.com.au`}
-              url="https://vicbuzz.com.au"
-            />
-            <button
-              onClick={(e) => {
-                e.stopPropagation();
-                onToggleSave(event.id);
-              }}
-              className="text-lg"
-              aria-label={isSaved ? "Remove from saved" : "Save"}
-            >
+            <ShareButton title={event.name} text={`${event.name}, ${event.suburb} | vicbuzz.com.au`} url="https://vicbuzz.com.au" />
+            <Button type="button" variant="ghost" size="icon" onClick={() => onToggleSave(event.id)} className="h-8 w-8 text-base" aria-label={isSaved ? "Remove from saved" : "Save"}>
               {isSaved ? "❤️" : "🤍"}
-            </button>
+            </Button>
           </div>
         </div>
-      </div>
-    </div>
+      </CardContent>
+    </Card>
   );
 }

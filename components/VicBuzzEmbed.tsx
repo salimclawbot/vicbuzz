@@ -53,7 +53,7 @@ export default function VicBuzzEmbed({ suburb, category, title }: Props) {
   return (
     <section className="mt-10 rounded-2xl border border-amber-200/30 bg-gradient-to-br from-amber-50 to-orange-50 p-4 sm:p-5">
       <div className="flex items-center justify-between gap-3">
-        <h3 className="text-base font-bold text-[#1A1A2E]">
+        <h3 className="text-base font-bold text-[var(--color-text-strong)]">
           {title || "More activities on VicBuzz"}
         </h3>
         <span className="rounded-full bg-amber-500 px-2.5 py-1 text-xs font-bold text-black">
@@ -68,7 +68,7 @@ export default function VicBuzzEmbed({ suburb, category, title }: Props) {
             href={item.url || `/listing/${item.id}`}
             className="flex items-center gap-2 rounded-xl border border-white bg-white/90 p-2.5 transition hover:shadow-sm"
           >
-            <div className="h-[50px] w-[50px] overflow-hidden rounded-lg bg-[#FFF5F5]">
+            <div className="h-[50px] w-[50px] overflow-hidden rounded-lg bg-[var(--color-primary-soft)]">
               {item.image ? (
                 <Image
                   src={item.image}
@@ -83,9 +83,9 @@ export default function VicBuzzEmbed({ suburb, category, title }: Props) {
               )}
             </div>
             <div className="min-w-0 flex-1">
-              <p className="truncate text-sm font-semibold text-[#1A1A2E]">{item.title}</p>
-              <div className="mt-0.5 flex items-center gap-2 text-xs text-[#6B7280]">
-                <span className="rounded-full bg-[#FFF5F5] px-2 py-0.5">{item.suburb}</span>
+              <p className="truncate text-sm font-semibold text-[var(--color-text-strong)]">{item.title}</p>
+              <div className="mt-0.5 flex items-center gap-2 text-xs text-[var(--color-text-muted)]">
+                <span className="rounded-full bg-[var(--color-primary-soft)] px-2 py-0.5">{item.suburb}</span>
                 <span>{categoryEmoji[item.category] || "🐝"}</span>
               </div>
             </div>

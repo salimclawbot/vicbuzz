@@ -2,12 +2,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { cn } from "@/lib/utils";
+import { buttonVariants } from "@/components/ui/button";
 
 export default function SiteHeader({ transparent = false }: { transparent?: boolean }) {
   const pathname = usePathname();
 
-  const isActive = (href: string) =>
-    pathname === href || pathname.startsWith(href + "/");
+  const isActive = (href: string) => pathname === href || pathname.startsWith(href + "/");
 
   const navLinks = [
     { href: "/", label: "Home" },
@@ -18,23 +19,27 @@ export default function SiteHeader({ transparent = false }: { transparent?: bool
   ];
 
   return (
-    <header className={`sticky top-0 z-50 border-b border-gray-100 ${transparent ? "bg-white/90 backdrop-blur-sm" : "bg-white"}`}>
-      <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-        <Link href="/" className="flex items-center gap-1.5 flex-shrink-0">
+    <header
+      className={cn(
+        "sticky top-0 z-50 border-b border-[var(--color-border)]",
+        transparent ? "bg-white/90 backdrop-blur-sm" : "bg-white"
+      )}
+    >
+      <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-3">
+        <Link href="/" className="flex flex-shrink-0 items-center gap-1.5">
           <span className="text-xl">🐝</span>
-          <span className="font-bold text-[#1A1A2E] text-base">VicBuzz</span>
+          <span className="text-base font-bold text-[var(--color-text-strong)]">VicBuzz</span>
         </Link>
 
-        <nav className="flex items-center gap-1 overflow-x-auto">
+        <nav className="no-scrollbar flex items-center gap-1 overflow-x-auto">
           {navLinks.map(({ href, label }) => (
             <Link
               key={href}
               href={href}
-              className={`px-3 py-1.5 rounded-full text-xs font-semibold whitespace-nowrap transition-colors ${
-                isActive(href)
-                  ? "bg-[#FF6B6B] text-white"
-                  : "text-[#6B7280] hover:text-[#1A1A2E] hover:bg-gray-50"
-              }`}
+              className={cn(
+                buttonVariants({ size: "sm", variant: isActive(href) ? "default" : "ghost" }),
+                "h-8 px-3 text-xs"
+              )}
             >
               {label}
             </Link>
