@@ -19,17 +19,17 @@ export default function Home() {
 
       {/* What's On This Weekend Banner */}
       {weekendEvents.length > 0 && (
-        <section className="bg-[var(--color-text-strong)] px-4 py-6">
+        <section className="bg-gradient-to-r from-[var(--color-primary)] to-[var(--color-secondary)] px-4 py-8">
           <div className="max-w-5xl mx-auto">
-            <p className="text-xs font-semibold uppercase tracking-widest text-amber-400 mb-3">This Weekend</p>
-            <h2 className="text-xl font-bold text-white mb-4">What's on in Victoria this weekend</h2>
+            <p className="text-xs font-semibold uppercase tracking-widest text-white/80 mb-3">This Weekend</p>
+            <h2 className="text-2xl font-bold text-white mb-5 [font-family:var(--font-serif)]">What's on in Victoria this weekend</h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
               {weekendEvents.map(event => (
                 <a key={event.id} href={event.ticketUrl || event.url} target="_blank" rel="noopener noreferrer"
-                  className="flex gap-3 bg-white/10 backdrop-blur-sm rounded-xl p-3 hover:bg-white/20 transition-colors">
+                  className="flex gap-3 bg-white/20 backdrop-blur-sm rounded-2xl p-4 border border-white/30 hover:bg-white/30 transition-all hover:-translate-y-0.5">
                   <div className="text-2xl">📅</div>
                   <div className="min-w-0">
-                    <p className="text-xs text-amber-400 font-semibold uppercase">{event.category}</p>
+                    <p className="text-xs text-white/80 font-semibold uppercase">{event.category}</p>
                     <p className="text-sm font-semibold text-white mt-0.5 line-clamp-2">{event.name}</p>
                     <p className="text-xs text-white/70 mt-1">
                       {new Date(event.startDate).toLocaleDateString("en-AU", { weekday: "short", day: "numeric", month: "short" })}
@@ -39,7 +39,7 @@ export default function Home() {
                 </a>
               ))}
             </div>
-            <Link href="/events" className="inline-block mt-4 text-xs text-white/70 hover:text-white font-medium">
+            <Link href="/events" className="inline-block mt-5 text-sm text-white/90 hover:text-white font-semibold">
               See all events →
             </Link>
           </div>
@@ -48,20 +48,20 @@ export default function Home() {
 
       {/* Latest Guides section */}
       {recentArticles.length > 0 && (
-        <section className="px-4 py-8 bg-white">
+        <section className="px-4 py-10 bg-[var(--color-bg)]">
           <div className="max-w-5xl mx-auto">
             <div className="flex items-center justify-between mb-5">
               <div>
                 <p className="text-xs font-semibold uppercase tracking-widest text-[var(--color-primary)]">Latest</p>
-                <h2 className="text-xl font-bold text-[var(--color-text-strong)] mt-0.5">Recent Guides</h2>
+                <h2 className="text-2xl font-bold text-[var(--color-text-strong)] mt-0.5 [font-family:var(--font-serif)]">Recent Guides</h2>
               </div>
               <Link href="/blog" className="text-xs text-[var(--color-primary)] font-semibold hover:underline">View all →</Link>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               {recentArticles.map(article => (
                 <Link key={article.slug} href={`/blog/${article.slug}`}
-                  className="group rounded-xl border border-[var(--color-border)] overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5">
-                  <div className="h-36 w-full bg-gradient-to-br from-[var(--color-primary)]/20 to-[var(--color-secondary)]/20 flex items-center justify-center">
+                  className="group rounded-2xl border border-[var(--color-border)] bg-white overflow-hidden hover:shadow-lg transition-all hover:-translate-y-1">
+                  <div className="h-36 w-full bg-gradient-to-br from-[var(--color-primary-soft)] to-[var(--color-secondary-soft)] flex items-center justify-center">
                     <span className="text-4xl">📍</span>
                   </div>
                   <div className="p-3">
