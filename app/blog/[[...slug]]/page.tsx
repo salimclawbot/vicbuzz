@@ -263,24 +263,19 @@ export default async function BlogPage({ params }: Props) {
           </div>
           <div className="mt-8 grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
             {articles.map((article) => (
-              <article key={article.slug} className="rounded-2xl border border-[var(--color-border)] bg-white p-5 shadow-sm hover:shadow-md transition-shadow">
+              <Link key={article.slug} href={`/blog/${article.slug}`} className="block rounded-2xl border border-[var(--color-border)] bg-white p-5 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
                 <p className="text-xs font-semibold uppercase tracking-wide text-[var(--color-primary)]">{article.category}</p>
-                <h2 className="mt-2 text-xl font-bold text-[var(--color-text-strong)]">
-                  <Link href={`/blog/${article.slug}`} className="hover:text-[var(--color-primary)]">{article.title}</Link>
-                </h2>
+                <h2 className="mt-2 text-xl font-bold text-[var(--color-text-strong)] hover:text-[var(--color-primary)]">{article.title}</h2>
                 <p className="mt-2 text-sm text-[var(--color-text-muted)]">{article.description}</p>
                 <div className="mt-4 flex items-center justify-between text-xs text-[var(--color-text-muted)]">
                   <span>{article.readTime}</span>
                   <span>{article.publishDate}</span>
                 </div>
-                <div className="mt-4">
-                  <Link href={`/blog/${article.slug}`} className="inline-flex items-center rounded-full bg-amber-300 px-3.5 py-1.5 text-xs font-bold text-black hover:bg-amber-200">
-                    Read guide →
-                  </Link>
+                <div className="mt-4 inline-flex items-center rounded-full bg-[var(--color-secondary)] px-3.5 py-1.5 text-xs font-bold text-[var(--color-text-strong)]">
+                  Read guide →
                 </div>
-              </article>
-            ))}
-          </div>
+              </Link>
+            ))}          </div>
         </div>
       </main>
     );

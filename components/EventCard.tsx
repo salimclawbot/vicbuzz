@@ -84,9 +84,20 @@ export default function EventCard({
   const isFree = !event.price || event.price.toLowerCase() === "free";
   const hasImage = event.image && event.image.startsWith("http");
   const emoji = categoryEmoji[event.category] || categoryIcons[event.category] || "✨";
+  const targetUrl = event.ticketUrl || event.url || null;
+  const openTarget = () => {
+    if (!targetUrl) return;
+    window.open(targetUrl, "_blank", "noopener,noreferrer");
+  };
 
   return (
-    <Card className={isPick ? "border-2 border-[var(--color-primary)]" : ""}>
+    <Card
+      className={(isPick ? "border-2 border-[var(--color-primary)] " : "") + (targetUrl ? "cursor-pointer" : "")}
+      onClick={openTarget}
+      role={targetUrl ? "button" : undefined}
+      tabIndex={targetUrl ? 0 : undefined}
+      onKeyDown={targetUrl ? (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openTarget(); } } : undefined}
+    >
       <div className="relative aspect-video overflow-hidden rounded-t-2xl">
         {hasImage ? (
           <Image src={event.image} alt={event.name} fill className="object-cover" unoptimized />
@@ -111,7 +122,7 @@ export default function EventCard({
 
         <div className="mt-3 flex items-center justify-between gap-2">
           {event.ticketUrl || event.url ? (
-            <a href={event.ticketUrl || event.url} target="_blank" rel="noopener noreferrer" className="text-xs font-semibold text-[var(--color-primary)] hover:text-[var(--color-primary-strong)]">
+            <a href={event.ticketUrl || event.url} target="_blank" rel="noopener noreferrer" onClick={(e)=>e.stopPropagation()} className="text-xs font-semibold text-[var(--color-primary)] hover:text-[var(--color-primary-strong)]">
               {(event.ticketUrl || event.url || "").includes("google.com/search") ? "Search Online 🔍" : event.ticketUrl ? "Get Tickets →" : "Learn More →"}
             </a>
           ) : (
@@ -119,12 +130,12 @@ export default function EventCard({
           )}
           <div className="flex items-center gap-1">
             {event.startDate && (
-              <Button type="button" variant="ghost" size="icon" onClick={() => downloadICS(event)} className="h-8 w-8 text-base" aria-label="Add to calendar" title="Add to calendar">
+              <Button type="button" variant="ghost" size="icon" onClick={(e) => { e.stopPropagation(); downloadICS(event); }} className="h-8 w-8 text-base" aria-label="Add to calendar" title="Add to calendar">
                 📅
               </Button>
             )}
-            <ShareButton title={event.name} text={`${event.name}, ${event.suburb} | vicbuzz.com.au`} url="https://vicbuzz.com.au" />
-            <Button type="button" variant="ghost" size="icon" onClick={() => onToggleSave(event.id)} className="h-8 w-8 text-base" aria-label={isSaved ? "Remove from saved" : "Save"}>
+            <div onClick={(e) => e.stopPropagation()}><ShareButton title={event.name} text={`${event.name}, ${event.suburb} | vicbuzz.com.au`} url="https://vicbuzz.com.au" /></div>
+            <Button type="button" variant="ghost" size="icon" onClick={(e) => { e.stopPropagation(); onToggleSave(event.id); }} className="h-8 w-8 text-base" aria-label={isSaved ? "Remove from saved" : "Save"}>
               {isSaved ? "❤️" : "🤍"}
             </Button>
           </div>

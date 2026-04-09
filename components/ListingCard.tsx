@@ -80,7 +80,13 @@ export default function ListingCard({
   };
 
   return (
-    <Card className="overflow-hidden transition-all hover:-translate-y-0.5 hover:shadow-md">
+    <Card
+      className="cursor-pointer overflow-hidden transition-all hover:-translate-y-0.5 hover:shadow-md"
+      onClick={() => onSelect(listing.id)}
+      role="button"
+      tabIndex={0}
+      onKeyDown={(e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); onSelect(listing.id); } }}
+    >
       <div
         className="relative aspect-video cursor-pointer"
         onClick={() => onSelect(listing.id)}
@@ -159,7 +165,7 @@ export default function ListingCard({
           >
             Details →
           </Button>
-          <div className="flex items-center gap-1">
+          <div className="flex items-center gap-1" onClick={(e) => e.stopPropagation()}>
             <ShareButton
               title={listing.title}
               url={`https://vicbuzz.com.au/explore/${slugify(listing.suburb)}`}
