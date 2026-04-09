@@ -6,6 +6,20 @@ export const metadata: Metadata = {
   title: "Explore Victoria | VicBuzz",
   description:
     "Browse family-friendly spots across Victoria by suburb. Parks, playgrounds, cafes, markets and more.",
+  openGraph: {
+    title: "Explore Victoria | VicBuzz",
+    description: "Browse family-friendly spots across Victoria by suburb. Parks, playgrounds, cafes, markets and more.",
+    type: "website",
+    url: "https://vicbuzz.com.au/explore",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Explore Victoria | VicBuzz",
+    description: "Browse family-friendly spots across Victoria by suburb. Parks, playgrounds, cafes, markets and more.",
+  },
+  alternates: {
+    canonical: "https://vicbuzz.com.au/explore",
+  },
 };
 
 function slugify(s: string) {
