@@ -5,7 +5,6 @@ import type { LiveEvent } from "@/lib/events";
 import { getPublishedArticles } from "@/lib/blog-articles";
 import { getThisWeekendEvents } from "@/lib/events";
 import Link from "next/link";
-import Image from "next/image";
 import NewsletterCapture from "@/components/NewsletterCapture";
 
 const allEvents = eventsData as LiveEvent[];
@@ -62,11 +61,9 @@ export default function Home() {
               {recentArticles.map(article => (
                 <Link key={article.slug} href={`/blog/${article.slug}`}
                   className="group rounded-xl border border-[#EFEFEF] overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5">
-                  {article.image && (
-                    <div className="relative h-36 w-full bg-gray-50 overflow-hidden">
-                      <Image src={article.image} alt={article.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" sizes="(max-width: 640px) 100vw, 33vw" />
-                    </div>
-                  )}
+                  <div className="h-36 w-full bg-gradient-to-br from-[#FF6B6B]/20 to-[#FFB347]/20 flex items-center justify-center">
+                    <span className="text-4xl">📍</span>
+                  </div>
                   <div className="p-3">
                     <p className="text-xs font-semibold text-[#FF6B6B] uppercase tracking-wide">{article.category}</p>
                     <h3 className="text-sm font-bold text-[#1A1A2E] mt-1 line-clamp-2">{article.title}</h3>

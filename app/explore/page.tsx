@@ -59,17 +59,6 @@ export default function ExplorePage() {
 
 return (
     <div className="min-h-screen bg-[#FEFEFE]">
-      <header className="sticky top-0 z-50 bg-white border-b border-gray-100 px-4 py-3">
-        <div className="max-w-5xl mx-auto flex items-center gap-4">
-          <Link
-            href="/"
-            className="text-[#2D2D2D] font-semibold text-sm"
-          >
-            ← Back to VicBuzz
-          </Link>
-        </div>
-      </header>
-
       <div className="max-w-5xl mx-auto px-4 py-6">
         <h1 className="text-2xl font-bold text-[#2D2D2D]">
           Family Activities Across Victoria

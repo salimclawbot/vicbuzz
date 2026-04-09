@@ -48,17 +48,7 @@ export default async function ListingPage({
 
   return (
     <div className="min-h-screen bg-white">
-      <header className="sticky top-0 z-50 bg-white border-b border-gray-100 px-4 py-3">
-        <div className="max-w-2xl mx-auto flex items-center justify-between">
-          <Link
-            href="/"
-            className="text-[#2D2D2D] font-semibold text-sm flex items-center gap-1"
-          >
-            ← Back to VicBuzz
-          </Link>
-        </div>
-      </header>
-
+      
       <div className="relative aspect-video bg-[#FF6B6B]/10 max-w-4xl mx-auto">
         {hasImage ? (
           <Image

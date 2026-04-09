@@ -23,17 +23,7 @@ export const metadata: Metadata = {
 export default function SubmitPage() {
   return (
     <div className="min-h-screen bg-[#FEFEFE]">
-      <header className="sticky top-0 z-50 bg-white border-b border-gray-100 px-4 py-3">
-        <div className="max-w-2xl mx-auto flex items-center">
-          <Link
-            href="/"
-            className="text-[#2D2D2D] font-semibold text-sm"
-          >
-            ← Back to VicBuzz
-          </Link>
-        </div>
-      </header>
-
+      
       <div className="max-w-lg mx-auto px-4 py-8">
         <h1 className="text-2xl font-bold text-[#2D2D2D]">
           List Your Family-Friendly Venue or Event 🐝

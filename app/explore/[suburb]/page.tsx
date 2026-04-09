@@ -67,17 +67,7 @@ export default async function SuburbPage({
 
   return (
     <div className="min-h-screen bg-[#FEFEFE]">
-      <header className="sticky top-0 z-50 bg-white border-b border-gray-100 px-4 py-3">
-        <div className="max-w-5xl mx-auto flex items-center gap-4">
-          <Link
-            href="/explore"
-            className="text-[#2D2D2D] font-semibold text-sm"
-          >
-            ← Back to Explore
-          </Link>
-        </div>
-      </header>
-
+      
       <div className="max-w-5xl mx-auto px-4 py-6">
         <nav className="text-sm text-gray-500 mb-4">
           <Link href="/" className="hover:text-[#FF6B6B]">

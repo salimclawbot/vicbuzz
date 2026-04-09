@@ -1,6 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import "./globals.css";
+import SiteHeader from "@/components/SiteHeader";
+import SiteFooter from "@/components/SiteFooter";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -13,44 +15,30 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://vicbuzz.com.au"),
   title: {
     default: "VicBuzz — Family Activities Victoria",
-    template: "%s | VicBuzz — Family Activities Victoria",
+    template: "%s | VicBuzz",
   },
   description:
-    "Discover the best family activities, kids events, playgrounds and free things to do across Victoria. VicBuzz — Victoria's #1 family activity guide.",
+    "Discover the best family activities, kids events, playgrounds and free things to do across Victoria.",
   keywords:
-    "family activities Victoria, kids activities Melbourne, things to do with kids Victoria, playgrounds Melbourne, free family events Victoria",
+    "family activities Victoria, kids activities Melbourne, things to do with kids, playgrounds Melbourne",
   openGraph: {
     title: "VicBuzz — Family Activities Victoria",
-    description:
-      "Discover the best family activities, kids events, playgrounds and free things to do across Victoria. VicBuzz — Victoria's #1 family activity guide.",
+    description: "Discover the best family activities, kids events, playgrounds and free things to do across Victoria.",
     type: "website",
     url: "https://vicbuzz.com.au",
     siteName: "VicBuzz",
-    images: [
-      {
-        url: "https://vicbuzz.com.au/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "VicBuzz — Family Activities Victoria",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "VicBuzz — Family Activities Victoria",
-    description: "Discover the best family activities, kids events, playgrounds and free things to do across Victoria. VicBuzz — Victoria's #1 family activity guide.",
+    description: "Discover the best family activities, kids events, playgrounds and free things to do across Victoria.",
     site: "@VicBuzzAU",
-    images: ["https://vicbuzz.com.au/og-image.jpg"],
   },
   alternates: {
     canonical: "https://vicbuzz.com.au",
   },
   verification: {
     google: "9xeA8nlFMAUaXYPW-msSoILNadBgQUTbpulVRi8fNUQ",
-  },
-  other: {
-    "apple-mobile-web-app-capable": "yes",
-    "apple-mobile-web-app-status-bar-style": "default",
   },
 };
 
@@ -75,8 +63,10 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className="antialiased">
-        {children}
+      <body className="antialiased bg-[#FEFEFE]">
+        <SiteHeader />
+        <main>{children}</main>
+        <SiteFooter />
       </body>
     </html>
   );

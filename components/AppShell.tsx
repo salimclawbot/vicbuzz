@@ -368,20 +368,6 @@ export default function AppShell({
       detailListing.image && detailListing.image.startsWith("http");
     return (
       <div className="min-h-screen bg-white">
-        <div className="sticky top-0 z-50 bg-white border-b border-gray-100 px-4 py-3 flex items-center justify-between">
-          <button
-            onClick={() => setShowDetail(null)}
-            className="text-[#1A1A2E] font-semibold text-sm flex items-center gap-1"
-          >
-            ← Back
-          </button>
-          <button
-            onClick={() => toggleSave(detailListing.id)}
-            className="text-2xl"
-          >
-            {savedIds.has(detailListing.id) ? "❤️" : "🤍"}
-          </button>
-        </div>
         <div className="relative aspect-video bg-[#FFF7F7]">
           {hasImage ? (
             <Image

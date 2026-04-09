@@ -40,13 +40,6 @@ export default function EventsPage() {
 
   return (
     <div className="min-h-screen bg-[#FEFEFE]">
-      <header className="sticky top-0 z-50 bg-white border-b border-gray-100 px-4 py-3">
-        <div className="max-w-3xl mx-auto flex items-center justify-between">
-          <Link href="/" className="text-[#2D2D2D] font-semibold text-sm">← Back to VicBuzz</Link>
-          <span className="text-xs font-semibold text-[#FF6B6B]">{filtered.length} events</span>
-        </div>
-      </header>
-
       <div className="max-w-3xl mx-auto px-4 py-6">
         <h1 className="text-2xl font-bold text-[#1A1A2E]">What's On in Victoria</h1>
         <p className="text-sm text-[#6B7280] mt-1">Family-friendly events across Victoria</p>
