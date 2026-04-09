@@ -450,9 +450,35 @@ export default async function BlogPage({ params }: Props) {
           </div>
         )}
 
+        {/* Related Articles */}
+        {(async () => {
+          const allArticles = getPublishedArticles();
+          const related = allArticles.filter(a => a.slug !== slug?.[0] && a.category === article.category).slice(0, 3);
+          if (related.length === 0) return null;
+          return (
+            <div className="mt-10 pt-8 border-t border-[#EFEFEF]">
+              <h3 className="text-lg font-bold text-[#1A1A2E] mb-4">More Guides</h3>
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                {related.map(a => (
+                  <Link key={a.slug} href={`/blog/${a.slug}`}
+                    className="group rounded-xl border border-[#EFEFEF] overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5 block">
+                    <div className="h-24 bg-gradient-to-br from-[#FF6B6B]/10 to-[#FFB347]/10 flex items-center justify-center">
+                      <span className="text-2xl">📍</span>
+                    </div>
+                    <div className="p-3">
+                      <p className="text-xs font-semibold text-[#FF6B6B] uppercase">{a.category}</p>
+                      <p className="text-xs font-bold text-[#1A1A2E] mt-0.5 line-clamp-2">{a.title}</p>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          );
+        })()}
+
         {/* Back */}
         <div className="mt-10 pt-8 border-t border-[#EFEFEF]">
-          <Link href="/blog" className="text-sm text-[#FF6B6B] hover:underline">← Back to all guides</Link>
+          <Link href="/blog" className="text-sm text-[#FF6B6B] hover:underline">← Back to Guides</Link>
         </div>
       </div>
     </main>
