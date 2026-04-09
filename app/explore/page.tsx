@@ -47,7 +47,17 @@ export default function ExplorePage() {
 
   const letters = [...grouped.keys()].sort();
 
-  return (
+    // Featured categories
+  const featuredCategories = [
+    { name: "Playgrounds", emoji: "🛝", slug: "playground", color: "from-orange-400 to-amber-400" },
+    { name: "Cafes", emoji: "☕", slug: "cafe", color: "from-amber-500 to-orange-500" },
+    { name: "Markets", emoji: "🛒", slug: "market", color: "from-emerald-400 to-teal-400" },
+    { name: "Parks", emoji: "🌳", slug: "park", color: "from-green-400 to-emerald-400" },
+    { name: "Beaches", emoji: "🏖️", slug: "beach", color: "from-sky-400 to-blue-400" },
+    { name: "Museums", emoji: "🏛️", slug: "museum", color: "from-violet-400 to-purple-400" },
+  ];
+
+return (
     <div className="min-h-screen bg-[#FEFEFE]">
       <header className="sticky top-0 z-50 bg-white border-b border-gray-100 px-4 py-3">
         <div className="max-w-5xl mx-auto flex items-center gap-4">

@@ -123,3 +123,36 @@ export function getEventsByCategory(cat: string): LiveEvent[] {
     return e.category === cat;
   });
 }
+
+
+export function getUpcomingEvents(events: LiveEvent[]): LiveEvent[] {
+  const now = new Date();
+  return events.filter(e => new Date(e.startDate) >= now);
+}
+
+export function getThisWeekendEvents(events: LiveEvent[]): LiveEvent[] {
+  const now = new Date();
+  const day = now.getDay();
+  // Days until Friday
+  const daysUntilFri = (5 - day + 7) % 7 || 7;
+  const fri = new Date(now);
+  fri.setDate(now.getDate() + daysUntilFri);
+  fri.setHours(0, 0, 0, 0);
+  const sun = new Date(fri);
+  sun.setDate(fri.getDate() + 2);
+  sun.setHours(23, 59, 59, 999);
+  return events.filter(e => {
+    const d = new Date(e.startDate);
+    return d >= fri && d <= sun;
+  });
+}
+
+export function getEventsThisWeek(events: LiveEvent[]): LiveEvent[] {
+  const now = new Date();
+  const weekLater = new Date(now);
+  weekLater.setDate(now.getDate() + 7);
+  return events.filter(e => {
+    const d = new Date(e.startDate);
+    return d >= now && d <= weekLater;
+  });
+}

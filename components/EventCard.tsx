@@ -6,6 +6,21 @@ import ShareButton from "./ShareButton";
 
 // Neutral gray pill for all categories
 const categoryColorClass = "bg-[#F3F4F6] text-[#374151]";
+const categoryIcons: Record<string, string> = {
+  music: "🎵",
+  theatre: "🎭",
+  comedy: "😂",
+  festival: "🎡",
+  sport: "⚽",
+  arts: "🎨",
+  event: "📅",
+  family: "👨‍👩‍👧",
+};
+
+function getCategoryIcon(cat: string): string {
+  return categoryIcons[cat?.toLowerCase()] ?? "📍";
+}
+
 
 const categoryEmoji: Record<string, string> = {
   event: "✨",
