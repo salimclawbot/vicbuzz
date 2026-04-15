@@ -13894,5 +13894,6 @@ export function isPublished(article: BlogArticle): boolean {
   return new Date(article.publishDate) <= new Date();
 }
 
-export function getPublishedArticles(): BlogArticle[,
-  {
+export function getPublishedArticles(): BlogArticle[] {
+  return blogArticles.filter(isPublished);
+}
