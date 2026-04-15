@@ -13,6 +13,7 @@ export interface BlogArticle {
   author: string;
   category: string;
   tags: string[];
+  image?: string;
   faqs: BlogFaq[];
   content: string;
 }
